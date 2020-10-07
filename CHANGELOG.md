@@ -1,3 +1,5 @@
+# Changelog
+
 ## October 2020
 
 ### Primer Web
@@ -75,23 +77,22 @@
 
 [📄 View file](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=310%3A2995)
 
+<hr>
+
 ### Primer Primitives
 
 #### 🧰 Maintenance
 
 - Corrected character spacing to be same as browser
 - Added hex values to color scale
-- Added source reference to color utilities
-  (e.g. `Text/text-blue = Source: blue-500`)
-- Updated `.text-green` from `green-500` to `green-600` to match component refresh fixes. (🙇 [@auareyou](https://github.com/auareyou))
-- Update letter spacing for mono text
 
 ##### Contributors
 
 - [@ashygee](https://github.com/ashygee)
-- [@auareyou](https://github.com/auareyou)
 
 [📄 View file](https://www.figma.com/file/B5XPE8IwGPIZDAvN7jqWqx/Primer-Primitives?node-id=9%3A2)
+
+<hr>
 
 ### Primer Interfaces
 
@@ -108,6 +109,8 @@
 - [@mkwng](https://github.com/mkwng)
 
 [📄 View file](https://www.figma.com/file/Y2xJLFBrU7yyiDLlEkQXcF/Primer-Interfaces?node-id=0%3A1)
+
+<hr>
 
 ### Octicons
 
@@ -159,6 +162,26 @@
 - [@ashygee](https://github.com/ashygee)
 - [@auareyou](https://github.com/auareyou)
 - [@califa](https://github.com/califa)
+
+<hr>
+
+### Primer Primitives
+
+#### 🚀 Community release
+
+- Published to Figma community (August 31, 2020)
+
+#### ✨ New additions
+
+- Added hex values to color scale
+- Added source reference to color utilities
+  - (e.g. "Text/text-blue = Source: blue-500")
+
+##### Contributors
+
+- [@ashygee](https://github.com/ashygee)
+
+<hr>
 
 ### Primer Interfaces
 
@@ -218,15 +241,27 @@ Primer Interfaces is a new template library containing templates and design "sni
 - [@ashygee](https://github.com/ashygee)
 - [@auareyou](https://github.com/auareyou)
 
+<hr>
+
+### Primer Primitives
+
+#### 🧰 Maintenance
+
+- Updated `.text-green` from `green-500` to `green-600` to match component refresh fixes.
+
+##### Contributors
+
+- [@auareyou](https://github.com/auareyou)
+
 ## June 2020
 
 ### Primer Web
 
-### 🚀 Community release
+#### 🚀 Community release
 
 - Published to Figma community (June 26, 2020)
 
-### ✨ New additions
+#### ✨ New additions
 
 - Introducing 🍞 Toasts!
   - New `toast` components added
@@ -247,7 +282,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 - Added `select menu` forms
 - Added `tooltip` components
 
-### 🧰 Maintenance
+#### 🧰 Maintenance
 
 - Update middle button group strokes to use `border-15%`
 - Removed `border-12%` and replaced with `border-15%`
@@ -286,7 +321,7 @@ Primer Interfaces is a new template library containing templates and design "sni
   - Added autolayout to `flash-banner`
 - Replaced missing border style for buttons
 
-### 🚧 In progress
+#### 🚧 In progress
 
 - Started adding `box` components and refreshing visuals from legacy styling
 - Started adding in dropdown components
@@ -295,6 +330,27 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 - [@ashygee](https://github.com/ashygee)
 - [@auareyou](https://github.com/auareyou)
+
+<hr>
+
+### Primer Primitives
+
+#### 🚀 Community release
+
+- Published to Figma community (June 16, 2020)
+
+#### 🧰 Maintenance
+
+- Added description to type styles
+  - `text-blue` usage for text links
+  - `text-gray-dark` usage for body text
+  - `text-red` usage for danger text
+- Re-ordered text color styles to put more commonly used styles first
+- Update letter spacing for `text-mono`
+
+##### Contributors
+
+- [@ashygee](https://github.com/ashygee)
 
 ## May 2020
 
@@ -340,11 +396,30 @@ Primer Interfaces is a new template library containing templates and design "sni
 - [@auareyou](https://github.com/auareyou)
 - [@vdepizzol](http://github.com/vdepizzol)
 
+<hr>
+
+### Primer Primitives
+
+### ✨ New additions
+
+- Added `border-white`
+- Added `coral` accent to color system
+
+### 🧰 Maintenance
+
+- Removed descriptions on background colors as it cluttered tooltip in color selection
+- moved the text color styles to the top of the list, so it's easier to reach (🙇🏻‍♂️ [@vdepizzol](https://github.com/vdepizzol))
+
+##### Contributors
+
+- [@ashygee](https://github.com/ashygee)
+- [@vdepizzol](http://github.com/vdepizzol)
+
 ## April 2020
 
 ### Primer Web
 
-### ✨ Introducing Primer Web
+#### ✨ Introducing Primer Web
 
 Primer Web is now available internally to our GitHub team. This is a full component library of all of the refreshed UI components seen in GitHub's desktop experience. These components are also available for implementation using Primer's [CSS](https://primer.style/css) and [React component](https://primer.style/components) packages.
 
@@ -355,3 +430,17 @@ This is an ongoing project and more components will become available in the futu
 - [@ashygee](https://github.com/ashygee)
 - [@auareyou](https://github.com/auareyou)
 - [@vdepizzol](http://github.com/vdepizzol)
+
+<hr>
+
+### Primer Primitives
+
+#### ✨ Introducing Primer Primitives
+
+Primer Primitives is now available internally to our GitHub team. This is file contains all of the color, type, and layout styles used in Primer CSS's utility classes. For more information please refer to our Primer [CSS](https://primer.style/css) documentation.
+
+This is an ongoing project and updates to our styles will be available as we continue to iterate on the design of GitHub.
+
+##### Contributors
+
+- [@ashygee](https://github.com/ashygee)
