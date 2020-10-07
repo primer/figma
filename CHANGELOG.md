@@ -114,9 +114,14 @@
 
 ### Octicons
 
+#### 🚀 Community release
+
+- Published to Figma community (September 10, 2020)
+
 #### 🧰 Maintenance
 
 - Fixed color style for file badge (000000 to \$gray-dark)
+- Change `lightbulb` icon to be consistent with [primer.style/octicons](https://primer.style/octicons)
 
 ##### Contributors
 
@@ -253,6 +258,24 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 - [@auareyou](https://github.com/auareyou)
 
+<hr>
+
+### Octicons
+
+#### 🚀 Community release
+
+- Published to Figma community (June 15, 2020)
+
+#### ✨ New additions
+
+- Added `policy-16` icon for policies feature
+- Added `share` icon to match symbol for iOS
+
+##### Contributors
+
+- [@ashygee](https://github.com/ashygee)
+- [@edokoa](https://github.com/edokoa)
+
 ## June 2020
 
 ### Primer Web
@@ -337,7 +360,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 #### 🚀 Community release
 
-- Published to Figma community (June 16, 2020)
+- Published to Figma community (June 26, 2020)
 
 #### 🧰 Maintenance
 
@@ -347,6 +370,56 @@ Primer Interfaces is a new template library containing templates and design "sni
   - `text-red` usage for danger text
 - Re-ordered text color styles to put more commonly used styles first
 - Update letter spacing for `text-mono`
+- Add markdown keywords to `link`, `code`, and `tasklist`
+
+##### Contributors
+
+- [@ashygee](https://github.com/ashygee)
+
+<hr>
+
+### Octicons
+
+#### 🚀 Community release
+
+- Published to Figma community (June 15, 2020)
+
+#### ✨ New additions
+
+- Added keywords to octicons
+  - Changed description "keyword:" to "icon:" for better filtering
+- New icons added:
+  - `square`
+  - `square-fill`
+  - `squirrel`
+  - `meter`
+  - `paintbrush`
+  - `report`
+  - `sun`
+  - `moon`
+  - `sun-24`
+  - `moon-24`
+  - `ruby`
+  - `zap`
+  - `briefcase`
+  - `circle` icons
+  - `ellipsis`
+  - `squirrel`
+  - `meter`
+  - `paintbrush`
+
+#### 🧰 Maintenance
+
+- Added descriptions to `carets` and `north-star`
+- Fixed `dash` and `plus` alignment
+- Modified `stopwatch-24`
+- Added "collapse" to `chevron` icons description to indicate use for progressive disclosure
+- Adjust caret-down to match dev vertical alignment
+- Renamed `caret-[direction]` icons to `triangle-[direction]` to follow naming in production
+
+#### 🚧 WIP
+
+- Start modifying `octoface` to new refresh version
 
 ##### Contributors
 
@@ -415,6 +488,25 @@ Primer Interfaces is a new template library containing templates and design "sni
 - [@ashygee](https://github.com/ashygee)
 - [@vdepizzol](http://github.com/vdepizzol)
 
+### Octicons
+
+#### 🚀 Community release
+
+- Published to Figma community (May 4, 2020)
+
+#### ✨ New additions
+
+#### 🧰 Maintenance
+
+- Changed base color for octicons from `#000` to Primer Primitives color style `text-gray-dark` to match body text color
+- Renamed 16px `triangle` icons to `caret` for parity with 24px
+- Flattened `grabber` icon
+- Moved `link` to "Symbols" to be paired next to `link-external`
+
+##### Contributors
+
+- [@ashygee](https://github.com/ashygee)
+
 ## April 2020
 
 ### Primer Web
@@ -444,3 +536,68 @@ This is an ongoing project and updates to our styles will be available as we con
 ##### Contributors
 
 - [@ashygee](https://github.com/ashygee)
+
+<hr>
+
+### Octicons
+
+#### 🚀 Community release
+
+- Published to Figma community (April 29, 2020)
+
+#### ✨ New additions
+
+- All icons now have their constraints set to "Scale"
+
+#### 🧰 Maintenance
+
+- Removed grids from icon library
+- Removed 16px and 24px `vertical-kebab`
+
+##### Contributors
+
+- [@ashygee](https://github.com/ashygee)
+
+## March 2020
+
+### Octicons
+
+#### 🚀 Community release
+
+- Published to Figma community (March 16, 2020)
+
+#### ✨ New additions
+
+- Introducing 24px icons
+  - Octicons are now available in both 16px and 24px sizes
+
+#### 🧰 Maintenance
+
+- Updated `grabber` icon
+- Updated `terminal-24` to rectangular shape
+- added new arrows to complete both 16px and 24px parity
+- corrected 16px arrow component name
+- fixed 24px arrow swapping
+- swapped people/person for 24px back to normal
+
+##### Contributors
+
+- [@ashygee](https://github.com/ashygee)
+
+## February 2020
+
+### Octicons
+
+#### ✨ Introducing a new look for Octicons
+
+The Primer team has been busy developing a new look for Octicons, GitHub's icon set! Here is a sneak preview with more to come in the near future. This project is a work in progress, stay tuned for more updates!
+
+For more details about this project visit https://github.com/primer/octicons-v2
+
+To see the icons in action, download the GitHub Mobile app for iOS or Android. https://github.com/mobile
+
+##### Contributors
+
+- [@ashygee](https://github.com/ashygee)
+- [@colebemis](https://github.com/colebemis)
+- [@edokoa](https://github.com/edokoa)
