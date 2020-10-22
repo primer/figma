@@ -7,6 +7,17 @@
 #### 🧰 Maintenance
 
 - Restructure avatar organization
+- Formatting and organization of cursors, markdown toolbar components, and form controls
+
+##### Contributors
+
+- [@ashygee](https://github.com/ashygee)
+
+### Primer Primitives
+
+#### 🧰 Maintenance
+
+- Removed "00" suffix to match primer/primitives sass file
 
 ##### Contributors
 
