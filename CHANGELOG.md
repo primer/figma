@@ -9,6 +9,9 @@
 - Restructure avatar organization
 - Formatting and organization of cursors, markdown toolbar components, and form controls
 
+#### 🗑Removed:
+- 16px Avatar stack components have been removed as they are not a part of the system in code
+
 ##### Contributors
 
 - [@ashygee](https://github.com/ashygee)
