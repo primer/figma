@@ -1,5 +1,32 @@
 # Changelog
 
+## November 2020
+
+#### ✨New features
+
+![form controls now utilize variant menus](https://user-images.githubusercontent.com/10384315/99002751-ca9df580-24f1-11eb-808f-cfdb53e6137c.png)
+
+Introducing variants to Primer Web! In this first update we've implemented the Figma variants feature into the following components:
+
+- Alerts
+- Avatars
+- Branch name
+- Breadcrumbs
+- Contribution: activity squares
+- Cursors
+- Form components
+- Labels
+
+#### 🧰 Maintenance
+- Add disabled state to form controls (radio and checkboxes)
+- Refactored form control to allow for [disabled versions of both selected/unselected radio and checkboxes](https://pxlc.at/post/ckhb64s1kfdbj0726bfk5gz3x)
+- Fixed resizing and alignment for text placeholders
+- Renamed and added descriptions for cursor variants to match CSS properties. Reference: https://developer.mozilla.org/en-US/docs/Web/CSS/cursor
+- Fix resizing for Markdown/Text editor
+- Update breadcrumb spacing
+- Update breadcrumb current page to be bold
+
+
 ## October 2020
 
 ### Primer Web
@@ -8,6 +35,23 @@
 
 - Restructure avatar organization
 - Formatting and organization of cursors, markdown toolbar components, and form controls
+- Added autolayout to Repo sidedbar/Contributor 🙏 @mkwng
+- Octicons bump: Icons can now be swapped and retain fill color
+- Fixed Issue closed state labels to use the correct issue-closed icon
+- Fixed Issue closed state labels to use the correct issue-closed icon
+
+#### 🧪 Experiments
+
+![alerts and toast now utilize variant menus](https://user-images.githubusercontent.com/10384315/99000097-9c1e1b80-24ed-11eb-8b2c-656d4b9fbf5f.png)
+
+- Alerts are now reconfigured to use Variants!
+  - Flash alerts now have properties to choose type and with the option for CTA buttons to be hidden or shown
+  - Toasts now have properties to select size and state
+
+![branch name components now use Figma variants to choose options for type and enabling icons](https://user-images.githubusercontent.com/10384315/99000320-ec957900-24ed-11eb-9c9c-51f5aea2123a.png)
+
+- Branch name now reconfigured to use Variants!
+  - Select type of (default or link) and toggle the branch icon on/off
 
 #### 🗑Removed:
 - 16px Avatar stack components have been removed as they are not a part of the system in code
@@ -15,6 +59,7 @@
 ##### Contributors
 
 - [@ashygee](https://github.com/ashygee)
+- [@mkwng](https://github.com/mkwng)
 
 ### Primer Primitives
 
