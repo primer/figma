@@ -4,7 +4,7 @@
 
 #### ✨New features
 
-![form controls now utilize variant menus](https://user-images.githubusercontent.com/10384315/99002751-ca9df580-24f1-11eb-808f-cfdb53e6137c.png)
+<img src="https://user-images.githubusercontent.com/10384315/99002751-ca9df580-24f1-11eb-808f-cfdb53e6137c.png" alt="form controls now utilize variant menus" width="800" />
 
 Introducing variants to Primer Web! In this first update we've implemented the Figma variants feature into the following components:
 
@@ -42,13 +42,13 @@ Introducing variants to Primer Web! In this first update we've implemented the F
 
 #### 🧪 Experiments
 
-![alerts and toast now utilize variant menus](https://user-images.githubusercontent.com/10384315/99000097-9c1e1b80-24ed-11eb-8b2c-656d4b9fbf5f.png)
+<img src="https://user-images.githubusercontent.com/10384315/99000097-9c1e1b80-24ed-11eb-8b2c-656d4b9fbf5f.png" alt="alerts and toast now utilize variant menus" width="800" />
 
 - Alerts are now reconfigured to use Variants!
   - Flash alerts now have properties to choose type and with the option for CTA buttons to be hidden or shown
   - Toasts now have properties to select size and state
 
-![branch name components now use Figma variants to choose options for type and enabling icons](https://user-images.githubusercontent.com/10384315/99000320-ec957900-24ed-11eb-9c9c-51f5aea2123a.png)
+<img src="https://user-images.githubusercontent.com/10384315/99000320-ec957900-24ed-11eb-9c9c-51f5aea2123a.png" alt="branch name components now use Figma variants to choose options for type and enabling icons" width="800" />
 
 - Branch name now reconfigured to use Variants!
   - Select type of (default or link) and toggle the branch icon on/off
