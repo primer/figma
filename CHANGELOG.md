@@ -1,5 +1,44 @@
 # Changelog
 
+## December 2020
+### Primer Web
+#### ✨ New features
+
+#### Color modes
+
+![example of color modes implementation in alert component showing all of the color values matching success alert variables](https://user-images.githubusercontent.com/10384315/101843649-88bb9b80-3aff-11eb-8ddc-72e19ac791eb.png)
+
+Support for GitHub's new color modes has been implemented into the individual components to correspond to the functional color values supplied by [primer/primitives](https://github.com/primer/primitives).
+
+To use be sure to turn on the [`Primer Primitives: light beta` library](https://www.figma.com/file/9vhDNyQpOono1vgi0qSViZ/Primer-Primitives-light-beta) as that is now the source of truth for all component color styling. 
+
+
+#### Variants
+
+![example of variants with the primary button showing all of the variant options in a dropdown](https://user-images.githubusercontent.com/10384315/101843779-d1735480-3aff-11eb-9d1d-526c5d23f11f.png)
+
+
+Components have been updated to use the new variants feature in Figma. 
+
+- Flash alerts
+- Toasts
+- Avatars
+- Buttons
+- Branch name
+- Blankslate
+- Breadcrumbs
+- Contribution graph
+- Cursors
+- Forms
+- Labels
+- Markdown
+- Navigation
+- Pagehead
+- Popovers
+- Select menus
+- Subhead
+- Text contents
+
 ## November 2020
 
 #### ✨New features
