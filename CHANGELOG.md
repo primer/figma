@@ -206,7 +206,7 @@ Introducing variants to Primer Web! In this first update we've implemented the F
 
 ### Octicons
 
-#### 🚀 Community release
+#### 🌐 Community release
 
 - Published to Figma community (September 10, 2020)
 
@@ -263,7 +263,7 @@ Introducing variants to Primer Web! In this first update we've implemented the F
 
 ### Primer Primitives
 
-#### 🚀 Community release
+#### 🌐 Community release
 
 - Published to Figma community (August 31, 2020)
 
@@ -353,7 +353,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 ### Octicons
 
-#### 🚀 Community release
+#### 🌐 Community release
 
 - Published to Figma community (June 15, 2020)
 
@@ -371,7 +371,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 ### Primer Web
 
-#### 🚀 Community release
+#### 🌐 Community release
 
 - Published to Figma community (June 26, 2020)
 
@@ -449,7 +449,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 ### Primer Primitives
 
-#### 🚀 Community release
+#### 🌐 Community release
 
 - Published to Figma community (June 26, 2020)
 
@@ -471,7 +471,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 ### Octicons
 
-#### 🚀 Community release
+#### 🌐 Community release
 
 - Published to Figma community (June 15, 2020)
 
@@ -581,7 +581,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 ### Octicons
 
-#### 🚀 Community release
+#### 🌐 Community release
 
 - Published to Figma community (May 4, 2020)
 
@@ -632,7 +632,7 @@ This is an ongoing project and updates to our styles will be available as we con
 
 ### Octicons
 
-#### 🚀 Community release
+#### 🌐 Community release
 
 - Published to Figma community (April 29, 2020)
 
@@ -653,7 +653,7 @@ This is an ongoing project and updates to our styles will be available as we con
 
 ### Octicons
 
-#### 🚀 Community release
+#### 🌐 Community release
 
 - Published to Figma community (March 16, 2020)
 
