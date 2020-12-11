@@ -2,7 +2,7 @@
 
 ## December 2020
 ### Primer Web
-#### ✨ New features
+#### 🚀 Enhancement
 
 #### Color modes
 
@@ -56,7 +56,7 @@ Introducing variants to Primer Web! In this first update we've implemented the F
 - Form components
 - Labels
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 - Add disabled state to form controls (radio and checkboxes)
 - Refactored form control to allow for [disabled versions of both selected/unselected radio and checkboxes](https://pxlc.at/post/ckhb64s1kfdbj0726bfk5gz3x)
 - Fixed resizing and alignment for text placeholders
@@ -70,7 +70,7 @@ Introducing variants to Primer Web! In this first update we've implemented the F
 
 ### Primer Web
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Restructure avatar organization
 - Formatting and organization of cursors, markdown toolbar components, and form controls
@@ -102,7 +102,7 @@ Introducing variants to Primer Web! In this first update we've implemented the F
 
 ### Primer Primitives
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Removed "00" suffix to match primer/primitives sass file
 
@@ -120,7 +120,7 @@ Introducing variants to Primer Web! In this first update we've implemented the F
 
 ### Primer Web
 
-#### ✨ New additions
+#### 🚀 Enhancement
 
 - Usage notes for primary button groups
 - Primary button groups/split buttons to the buttons page
@@ -140,7 +140,7 @@ Introducing variants to Primer Web! In this first update we've implemented the F
 - Avatar stack - 20px
 - Subnav search items
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Fixed text resizing for medium dark gray outline label
 - Restored text-red to components using the style
@@ -177,7 +177,7 @@ Introducing variants to Primer Web! In this first update we've implemented the F
 
 ### Primer Primitives
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Corrected character spacing to be same as browser
 - Added hex values to color scale
@@ -190,7 +190,7 @@ Introducing variants to Primer Web! In this first update we've implemented the F
 
 ### Primer Interfaces
 
-#### ✨ New additions
+#### 🚀 Enhancement
 
 - [Dashboard template](https://www.figma.com/file/Y2xJLFBrU7yyiDLlEkQXcF/?node-id=1802%3A19) now available
 - [Repo - Code/File Viewer] template now available (🙇 [@mkwng](https://github.com/mkwng))
@@ -210,7 +210,7 @@ Introducing variants to Primer Web! In this first update we've implemented the F
 
 - Published to Figma community (September 10, 2020)
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Fixed color style for file badge (000000 to \$gray-dark)
 - Change `lightbulb` icon to be consistent with [primer.style/octicons](https://primer.style/octicons)
@@ -223,7 +223,7 @@ Introducing variants to Primer Web! In this first update we've implemented the F
 
 ### Primer Web
 
-#### ✨ New additions
+#### 🚀 Enhancement
 
 - Label/diffstat
   - diffstat squares (addition, deletion, neutral)
@@ -233,7 +233,7 @@ Introducing variants to Primer Web! In this first update we've implemented the F
 - Add separate comment box component
 - Markdown desktop components
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Simplify label naming and add descriptions
 - Remove purple and orange labels (deprecated)
@@ -267,7 +267,7 @@ Introducing variants to Primer Web! In this first update we've implemented the F
 
 - Published to Figma community (August 31, 2020)
 
-#### ✨ New additions
+#### 🚀 Enhancement
 
 - Added hex values to color scale
 - Added source reference to color utilities
@@ -306,7 +306,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 ### Primer Web
 
-#### ✨ New additions
+#### 🚀 Enhancement
 
 - Markdown support label to markdown desktop components
 - Primary button styled button group available
@@ -317,7 +317,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 - Added markdown `textarea` component
 - Added `TabNav` component
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Fixed pop over triangle stroke
 - Update full desktop component to use new comment box
@@ -341,7 +341,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 ### Primer Primitives
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Updated `.text-green` from `green-500` to `green-600` to match component refresh fixes.
 
@@ -357,7 +357,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 - Published to Figma community (June 15, 2020)
 
-#### ✨ New additions
+#### 🚀 Enhancement
 
 - Added `policy-16` icon for policies feature
 - Added `share` icon to match symbol for iOS
@@ -375,7 +375,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 - Published to Figma community (June 26, 2020)
 
-#### ✨ New additions
+#### 🚀 Enhancement
 
 - Introducing 🍞 Toasts!
   - New `toast` components added
@@ -396,7 +396,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 - Added `select menu` forms
 - Added `tooltip` components
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Update middle button group strokes to use `border-15%`
 - Removed `border-12%` and replaced with `border-15%`
@@ -453,7 +453,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 - Published to Figma community (June 26, 2020)
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Added description to type styles
   - `text-blue` usage for text links
@@ -475,7 +475,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 - Published to Figma community (June 15, 2020)
 
-#### ✨ New additions
+#### 🚀 Enhancement
 
 - Added keywords to octicons
   - Changed description "keyword:" to "icon:" for better filtering
@@ -499,7 +499,7 @@ Primer Interfaces is a new template library containing templates and design "sni
   - `meter`
   - `paintbrush`
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Added descriptions to `carets` and `north-star`
 - Fixed `dash` and `plus` alignment
@@ -520,7 +520,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 ### Primer Web
 
-#### ✨ New additions
+#### 🚀 Enhancement
 
 - Added `textValue` layers to text are components
   - Note: `textArea/disabled` contains no `textValue` layer)
@@ -528,7 +528,7 @@ Primer Interfaces is a new template library containing templates and design "sni
 - Added `.text-box-white`, `.text-box-large-white`, and `.text-box-small-white` components to private sheet and swapped text-box instances in buttons.
   - This should eliminate weirdness with colors for buttons that have white text.
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Swapped color and type styles to use Primer Primitives library
 - Polished form validation tooltip components
@@ -564,12 +564,12 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 ### Primer Primitives
 
-### ✨ New additions
+### 🚀 Enhancement
 
 - Added `border-white`
 - Added `coral` accent to color system
 
-### 🧰 Maintenance
+### 🐛 Bug fixes
 
 - Removed descriptions on background colors as it cluttered tooltip in color selection
 - moved the text color styles to the top of the list, so it's easier to reach (🙇🏻‍♂️ [@vdepizzol](https://github.com/vdepizzol))
@@ -585,9 +585,9 @@ Primer Interfaces is a new template library containing templates and design "sni
 
 - Published to Figma community (May 4, 2020)
 
-#### ✨ New additions
+#### 🚀 Enhancement
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Changed base color for octicons from `#000` to Primer Primitives color style `text-gray-dark` to match body text color
 - Renamed 16px `triangle` icons to `caret` for parity with 24px
@@ -636,11 +636,11 @@ This is an ongoing project and updates to our styles will be available as we con
 
 - Published to Figma community (April 29, 2020)
 
-#### ✨ New additions
+#### 🚀 Enhancement
 
 - All icons now have their constraints set to "Scale"
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Removed grids from icon library
 - Removed 16px and 24px `vertical-kebab`
@@ -657,12 +657,12 @@ This is an ongoing project and updates to our styles will be available as we con
 
 - Published to Figma community (March 16, 2020)
 
-#### ✨ New additions
+#### 🚀 Enhancement
 
 - Introducing 24px icons
   - Octicons are now available in both 16px and 24px sizes
 
-#### 🧰 Maintenance
+#### 🐛 Bug fixes
 
 - Updated `grabber` icon
 - Updated `terminal-24` to rectangular shape
