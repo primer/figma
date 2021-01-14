@@ -1,5 +1,17 @@
 # Changelog
 
+## January 2021
+### Primer Primitives
+#### 🚀 Enhancement
+
+[Figma link](https://www.figma.com/file/B5XPE8IwGPIZDAvN7jqWqx/Primer-Primitives?version-id=625591668&node-id=0%3A1&viewport=243%2C186%2C0.5)
+
+Improvements to support new color modes in Primer. Read the [team post](https://github.com/orgs/github/teams/product-design/posts/52) for more detailed information on how we're handling color modes in Figma.
+
+- Linked new color styles from Primer Primitives: Light mode library
+- Removed old color styles
+- Improved examples to showcase light/dark mode variations
+
 ## December 2020
 ### Primer Web
 #### 🚀 Enhancement
