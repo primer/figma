@@ -1,6 +1,30 @@
 # Changelog
 
 ## January 2021
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=136%3A1805)
+
+#### 🚀Enhancement
+
+<img width="535" alt="Buttons have new properties for variants including toggles for leading icon, counter, and dropdown" src="https://user-images.githubusercontent.com/10384315/105261711-b8b97e00-5b44-11eb-87ae-20d9356741e0.png">
+
+- Button variants have been improved to include toggles for the leading icon, counter, and dropdown
+_Note: Currently icons don't correctly change color. This can be remidied for now with by resetting the icon and the button's correct icon color will appear but the icon will need to be swapped again._
+
+![Fix icon bug by resetting the override to the icon layer and reswapping the icon](https://user-images.githubusercontent.com/10384315/105269878-9ece6a00-5b49-11eb-8de8-cd462cefc326.gif)
+
+#### 🐛Bug fix
+- Counters were updated to use the the new auto layout and the default size option has been changed to medium (@vdepizzol)
+- Sponsor button has been fixed on Repohead component (@mkwng)
+
+##### Contributors
+
+- [@ashygee](https://github.com/ashygee)
+- [@mkwng](https://github.com/mkwng)
+- [@vdepizzol](https://github.com/vdepizzol)
+
 ### Primer Primitives
 
 [Figma link](https://www.figma.com/file/B5XPE8IwGPIZDAvN7jqWqx/Primer-Primitives?version-id=625591668&node-id=0%3A1&viewport=243%2C186%2C0.5)
