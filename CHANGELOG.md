@@ -15,12 +15,19 @@ _Note: Currently icons don't correctly change color. This can be remidied for no
 
 ![Fix icon bug by resetting the override to the icon layer and reswapping the icon](https://user-images.githubusercontent.com/10384315/105269878-9ece6a00-5b49-11eb-8de8-cd462cefc326.gif)
 
+- Avatars now follow the same properties as seen in code. We have removed the difference between User vs Entity and have simplified to state if the avatar visually appears as a circle or a square using the variant property booleans. 
+
+_Note: Descriptions are still supplied to denote correct avatar usage between the circle and square shapes._
+
 #### 🐛Bug fix
 - Counters were updated to use the the new auto layout and the default size option has been changed to medium (@vdepizzol)
 - Sponsor button has been fixed on Repohead component (@mkwng)
+- List headers now properly use auto layout (@adrianmg)
+- Components built using the Button component have been updated to use the latest button component
 
 ##### Contributors
 
+- [@adrianmg](https://github.com/adrianmg)
 - [@ashygee](https://github.com/ashygee)
 - [@mkwng](https://github.com/mkwng)
 - [@vdepizzol](https://github.com/vdepizzol)
