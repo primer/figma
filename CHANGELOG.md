@@ -6,7 +6,16 @@
 
 [Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=136%3A1805)
 
+
 #### 🚀Enhancement
+
+![Example showing an Avatar stack now includes properties for "Stackable" and "Square"](https://user-images.githubusercontent.com/10384315/106191020-2f670480-615f-11eb-8085-193dcccdb36d.png)
+
+- Simplified avatars and added the property of "Stackable" which allows for the 20px stackable avatar to be enabled from the base Avatar component. 
+
+![Having "Stackable" toggled on will force the icon to be 20px in size](https://user-images.githubusercontent.com/10384315/106191153-58879500-615f-11eb-8ca5-b03a5d0bcee0.png)
+- Replaced Stackable avatar with modified Avatar component in "Stacking combination"
+- Avatars now follow the same properties as seen in code. We have removed the difference between User vs Entity and have simplified to state if the avatar visually appears as a circle or a square using the variant property booleans. 
 
 <img width="535" alt="Buttons have new properties for variants including toggles for leading icon, counter, and dropdown" src="https://user-images.githubusercontent.com/10384315/105261711-b8b97e00-5b44-11eb-87ae-20d9356741e0.png">
 
@@ -15,11 +24,13 @@ _Note: Currently icons don't correctly change color. This can be remidied for no
 
 ![Fix icon bug by resetting the override to the icon layer and reswapping the icon](https://user-images.githubusercontent.com/10384315/105269878-9ece6a00-5b49-11eb-8de8-cd462cefc326.gif)
 
-- Avatars now follow the same properties as seen in code. We have removed the difference between User vs Entity and have simplified to state if the avatar visually appears as a circle or a square using the variant property booleans. 
-
 _Note: Descriptions are still supplied to denote correct avatar usage between the circle and square shapes._
 
+#### 💥Breaking changes
+- Removed Stackable avatar
+
 #### 🐛Bug fix
+- Avatar updates have been pushed to components that consume the Avatar
 - Counters were updated to use the the new auto layout and the default size option has been changed to medium (@vdepizzol)
 - Sponsor button has been fixed on Repohead component (@mkwng)
 - List headers now properly use auto layout (@adrianmg)
