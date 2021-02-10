@@ -1,5 +1,21 @@
 # Changelog
 
+## February 2021
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=136%3A1805)
+
+#### 🚀 Enhancement
+- Added underlineNav tab for Discussions
+- Updated repoNav component to now include Discussions
+
+#### 🐛 Bug fix
+- Focus border added to input focus state. When Clip content is unchecked, the spread of a shadow effect no longer shows. The input focus now uses state/focus/shadow to enable the blue focus shadow. This closes [#4](https://github.com/primer/figma/issues/4)
+- removed misc. search icons from the social count buttons
+- color correction on Form control
+- hid non-default layers in Subnav
+
 ## January 2021
 
 ### Primer Web
