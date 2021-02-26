@@ -11,6 +11,7 @@
 - Updated repoNav component to now include Discussions
 
 #### 🐛 Bug fix
+- Remove Codespaces from main navigation and mobile main navigation
 - Focus border added to input focus state. When Clip content is unchecked, the spread of a shadow effect no longer shows. The input focus now uses state/focus/shadow to enable the blue focus shadow. This closes [#4](https://github.com/primer/figma/issues/4)
 - removed misc. search icons from the social count buttons
 - color correction on Form control
