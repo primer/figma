@@ -1,5 +1,50 @@
 # Changelog
 
+## March 2021
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=136%3A1805)
+
+#### 🚀 Enhancement
+
+**Note: These are 💥Breaking changes**
+- The sideNav-item is refactored and now uses variants. 
+  - Options for leading visual items (icon or avatar) and an optional auxiliary counter can now be toggled on/off from the inspector
+  - Selected state can now be toggled on/off from the inspector
+- The old sideNav-items have been removed
+  - / text only
+  - / textAvatar
+  - / textCounter
+  - / textIcon
+  - / textLabel
+  - / textStatus
+  - / wHeading
+
+#### 🐛 Bug fix
+
+- Removed bg color from underlineNav-tab's
+- Removed bg color from repoNavigation to fix the overlap with the component's bottom border.
+- repoNav bg color, bg/secondary, is now set to the Repo Head (Pagehead + Footer)
+- Corrected tab name for the Discussions tab in repoNavigation
+- Fix Issues and Discussions tab selected text to be bold
+- Correct positioning of Submit button in Markdown comment box (@brooklyno)
+- Remove unnecessary background color in Markdown comment/Desktop (@brooklyno)
+- Fix Button/primary/small/icon
+- Swap Default for Header component to be Default variant instead of Simple
+- Corrected issues icon in repoNav of Repo Head component
+- correct new sideNav selected states
+
+#### 🧪 Experimental
+
+- Add interactive component feature to underlineNav-tab
+- Refactored repoNavigation to use new underlineNav-tab with prototyping
+- The sidenav-item now has the hover state built in
+
+##### Contributors
+- [@ashygee](https://github.com/ashygee)
+- [@brooklyno](https://github.com/brooklyno)
+
 ## February 2021
 
 ### Primer Web
