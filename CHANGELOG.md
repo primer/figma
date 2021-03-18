@@ -20,6 +20,12 @@
   - / textLabel
   - / textStatus
   - / wHeading
+- Improve Markdown comment
+  - Added variants for size and hide/show title bar
+  - Add version with title bar
+- Remove unnecessary styling from Tip component
+- repoNavigation now uses variants! Quickly swap the active tab in the navigation with the property dropdown.
+- Org underline navigation is now a part of Primer Web! Swap the active tab using the variant property. Counters can be controlled individually at the tab level variants. 👏🏼 @pmarsceill!
 
 #### 🐛 Bug fix
 
@@ -44,6 +50,7 @@
 ##### Contributors
 - [@ashygee](https://github.com/ashygee)
 - [@brooklyno](https://github.com/brooklyno)
+- [@pmarsceill](https://github.com/pmarsceill)
 
 ## February 2021
 
