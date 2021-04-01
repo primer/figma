@@ -7,11 +7,26 @@
 [Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=136%3A1805)
 
 ### 💥 Breaking change
+
+![New select menu uses variants](https://user-images.githubusercontent.com/10384315/113360973-bcfdd680-92ff-11eb-88e9-2a79f447953a.gif)
+
 - SelectMenu component enhancements
 - Four new components have been created/iterated upon to enhance the usage of select menus (Menu items, Headers, Filter, Tabs)
 - Each new component has related properties to quickly switch between different types.
 - Interactive prototyping added to menu items and tabs
 - Note: Select menus items with leading visuals (avatars and icons), counters and status indicators are still WIP
+
+### 🚀 Enhancement
+
+![Breadcrumb component now offers up to 10 items](https://user-images.githubusercontent.com/10384315/113361088-02220880-9300-11eb-84fd-3abd515359fe.png)
+
+- Add variant property for breadcrumbs indicating # of items in breadcrumb (up to 10)
+-  Add variant property to allow for bold text in breadcrumb-items
+
+![Outline label component property dropdowns now have descriptive properties](https://user-images.githubusercontent.com/10384315/113361248-604eeb80-9300-11eb-8d5b-dea2fce8f852.gif)
+
+- Cleaned up outline-label descriptions and property values to be more descriptive. (e.g. Label with color Info -> Info (blue))
+- Add pixel sizes to label and counter variants
 
 ### 🐛 Bug fix
 - Combined Toast type indicators into one variant (For maintainers)
@@ -21,14 +36,7 @@
 - Corrected weird variant bug with swapping between default selected and unselected menu items that were swapping to hover state
 - Corrected tab order for active tab sorting
 
-
-### 🚀 Enhancement
-- Add variant property for breadcrumbs indicating # of items in breadcrumb (up to 10)
--  Add variant property to allow for bold text in breadcrumb-items
-- Cleaned up outline-label descriptions and property values to be more descriptive. (e.g. Label with color Info -> Info (blue))
-- Add pixel sizes to label and counter variants
-
-🧽 Chores
+### 🧽 Chores
 - Update light mode styles from Primer Primitives: Light mode
 
 
