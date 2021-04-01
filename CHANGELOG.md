@@ -1,5 +1,38 @@
 # Changelog
 
+## April 2021
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=136%3A1805)
+
+### 💥 Breaking change
+- SelectMenu component enhancements
+- Four new components have been created/iterated upon to enhance the usage of select menus (Menu items, Headers, Filter, Tabs)
+- Each new component has related properties to quickly switch between different types.
+- Interactive prototyping added to menu items and tabs
+- Note: Select menus items with leading visuals (avatars and icons), counters and status indicators are still WIP
+
+### 🐛 Bug fix
+- Combined Toast type indicators into one variant (For maintainers)
+- Removed Toast type indicators from public library
+- Rename Avatar / StackingCombination -> AvatarStack
+- Select menu text layer name fixes to preserve overrides
+- Corrected weird variant bug with swapping between default selected and unselected menu items that were swapping to hover state
+- Corrected tab order for active tab sorting
+
+
+### 🚀 Enhancement
+- Add variant property for breadcrumbs indicating # of items in breadcrumb (up to 10)
+-  Add variant property to allow for bold text in breadcrumb-items
+- Cleaned up outline-label descriptions and property values to be more descriptive. (e.g. Label with color Info -> Info (blue))
+- Add pixel sizes to label and counter variants
+
+🧽 Chores
+- Update light mode styles from Primer Primitives: Light mode
+
+
+
 ## March 2021
 
 ### Primer Web
