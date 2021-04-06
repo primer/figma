@@ -2,6 +2,34 @@
 
 ## April 2021
 
+### Octicons
+
+[Figma link](https://www.figma.com/file/1ljgTFkT5NKNRfq5hw07JQ/Octicons?node-id=31%3A80&viewport=376%2C10%2C1)
+
+### 🚀 Enhancements
+
+![New icon set](https://user-images.githubusercontent.com/10384315/113764393-bb515b80-96cf-11eb-936e-840abe0d1d7f.png)
+
+New icons added
+- codescan
+- codescan-checkmark
+- codespaces
+- dependabot
+- browser
+- table
+- person-add
+- blocked
+- duplicate
+
+### 💥 Breaking changes
+
+- Removed insights-24
+
+### 🐛 Bug fixes
+
+- added "-24" suffix to 24px multi-select, number, strikethrough, and video icons.
+- Normalized icon fill color to text/primary for kebab-horizontal, kebab-horizontal-24, and paper-airplane-24
+
 ### Primer Web
 
 [Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=136%3A1805)
