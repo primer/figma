@@ -1,12 +1,49 @@
 # Changelog
 
+## May 2021
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=142%3A595)
+
+**Major updates to form components**
+
+![New form updates](https://user-images.githubusercontent.com/10384315/117332609-e5bc4300-ae4c-11eb-8efa-5565539dcd67.png)
+
+All form components now use Figma's variants feature
+
+![Example: Text input with it's properties of size, type, content, and icon](https://user-images.githubusercontent.com/10384315/117335302-dc80a580-ae4f-11eb-8043-ab5158a7973b.png)
+
+Additional design guidelines added to showcase correct pairing for form group validation.
+
+![Example: text input with variants](https://user-images.githubusercontent.com/10384315/117332810-2025e000-ae4d-11eb-8ee5-c4da4d015b17.png)
+
+#### 🚀  Enhancement 5/4/21
+- Improved Form components! All form components now use variants. 
+- Text input
+  - Now includes options for size, content type, variation type, option for leading icon
+- Textarea
+  - Removed unnecessary types
+- Corrected coloring for Text input and Textarea
+- Changed name of `Form group validation` to `Note`
+- Added variant for emphasis to label on checkboxes and radio buttons
+- Privatized text elements not necessary to component level
+- Applied text styles to Text input
+- Reorganized content on Form page
+- Descriptions and documentation links added to components
+
+
+
+#### 🧽  Chores 5/4/21
+- Import color update from Primer Primitives
+
 ## April 2021
 
 ### Octicons
 
 [Figma link](https://www.figma.com/file/1ljgTFkT5NKNRfq5hw07JQ/Octicons?node-id=31%3A80&viewport=376%2C10%2C1)
 
-### 🚀 Enhancements
+#### 🚀 Enhancements
 
 ![New icon set](https://user-images.githubusercontent.com/10384315/113764393-bb515b80-96cf-11eb-936e-840abe0d1d7f.png)
 
@@ -21,11 +58,11 @@ New icons added
 - blocked
 - duplicate
 
-### 💥 Breaking changes
+#### 💥 Breaking changes
 
 - Removed insights-24
 
-### 🐛 Bug fixes
+#### 🐛 Bug fixes
 
 - added "-24" suffix to 24px multi-select, number, strikethrough, and video icons.
 - Normalized icon fill color to text/primary for kebab-horizontal, kebab-horizontal-24, and paper-airplane-24
@@ -34,7 +71,7 @@ New icons added
 
 [Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=136%3A1805)
 
-### 💥 Breaking change
+#### 💥 Breaking change
 
 ![New select menu uses variants](https://user-images.githubusercontent.com/10384315/113360973-bcfdd680-92ff-11eb-88e9-2a79f447953a.gif)
 
@@ -56,7 +93,7 @@ New icons added
 - Cleaned up outline-label descriptions and property values to be more descriptive. (e.g. Label with color Info -> Info (blue))
 - Add pixel sizes to label and counter variants
 
-### 🐛 Bug fix
+#### 🐛 Bug fix
 - Combined Toast type indicators into one variant (For maintainers)
 - Removed Toast type indicators from public library
 - Rename Avatar / StackingCombination -> AvatarStack
@@ -64,7 +101,7 @@ New icons added
 - Corrected weird variant bug with swapping between default selected and unselected menu items that were swapping to hover state
 - Corrected tab order for active tab sorting
 
-### 🧽 Chores
+#### 🧽 Chores
 - Update light mode styles from Primer Primitives: Light mode
 
 
