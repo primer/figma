@@ -32,10 +32,11 @@ Additional design guidelines added to showcase correct pairing for form group va
 - Reorganized content on Form page
 - Descriptions and documentation links added to components
 
-
-
 #### 🧽  Chores 5/4/21
 - Import color update from Primer Primitives
+
+##### Contributors
+- [@ashygee](https://github.com/ashygee)
 
 ## April 2021
 
@@ -66,6 +67,11 @@ New icons added
 
 - added "-24" suffix to 24px multi-select, number, strikethrough, and video icons.
 - Normalized icon fill color to text/primary for kebab-horizontal, kebab-horizontal-24, and paper-airplane-24
+
+##### Contributors
+- [@ashygee](https://github.com/ashygee)
+- [@edokoa](https://github.com/edokoa)
+- [@juliusschaeper](https://github.com/juliusschaeper)
 
 ### Primer Web
 
@@ -104,7 +110,8 @@ New icons added
 #### 🧽 Chores
 - Update light mode styles from Primer Primitives: Light mode
 
-
+##### Contributors
+- [@ashygee](https://github.com/ashygee)
 
 ## March 2021
 
