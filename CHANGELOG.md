@@ -1,5 +1,50 @@
 # Changelog
 
+## June 2021
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=142%3A595)
+
+#### 🚀 Enhancement
+- Footer updates
+  - Name layers
+  - Fix autolayout for scaling
+  - Add toggle for "Report bug" button
+- Add Sidenav [subnav-items](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=8002%3A177)
+
+#### 🐛 Bug fix
+- Add missing "default" state to [outline labels](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=3813%3A3) (🙏 @nuthinking)
+
+##### Contributors
+- [@ashygee](https://github.com/ashygee)
+- [@nuthinking](https://github.com/nuthinking)
+
+
+### Octicons
+
+[Figma link](https://www.figma.com/file/1ljgTFkT5NKNRfq5hw07JQ/Octicons?node-id=1%3A2)
+
+#### 🚀 Enhancement
+- Added new issue icons
+- Added `key-asterisk`
+- Added `sort-asc` and `sort-desc icons`
+
+#### 🐛 Bug fix
+- Reset colors to text-primary
+- Correct rows and columns icon to correct vectors seen in code
+- Corrected resizing constraints to be scale/scale for new icons
+
+##### Contributors
+- [@juliusschaeper](https://github.com/juliusschaeper)
+- [@edokoa](https://github.com/edokoa)
+- [@ashygee](https://github.com/ashygee)
+
+### Primer Primitives
+
+#### 🚀 Enhancement
+- Color modes support for [dark dimmed theme](https://www.figma.com/file/3iBGLtSn36yU2XVoP4Pnfr/Primer-Primitives-Dark-dimmed)
+
 ## May 2021
 
 ### Primer Web
@@ -18,7 +63,7 @@ Additional design guidelines added to showcase correct pairing for form group va
 
 ![Example: text input with variants](https://user-images.githubusercontent.com/10384315/117332810-2025e000-ae4d-11eb-8ee5-c4da4d015b17.png)
 
-#### 🚀  Enhancement 5/4/21
+#### 🚀  Enhancement
 - Improved Form components! All form components now use variants. 
 - Text input
   - Now includes options for size, content type, variation type, option for leading icon
@@ -31,9 +76,22 @@ Additional design guidelines added to showcase correct pairing for form group va
 - Applied text styles to Text input
 - Reorganized content on Form page
 - Descriptions and documentation links added to components
+- Toast property of `Size` changed to `Viewport` to reflect which breakpoint you would use a toast
+- At small breakpoints the Toast has a max-width of 450px so the `Small screen` variant should be used
+- Change autolayout configuration for Toasts
+- At larger breakpoints the `Desktop` variant should be used
+- Baked in margins have been corrected to use `$spacer-2/8px` for Desktop and `$spacer-3/16px` for smaller screens
 
-#### 🧽  Chores 5/4/21
+#### 🧽  Chores
 - Import color update from Primer Primitives
+- Changed all variant uppercase property values to lowercase
+- Component names are more readable.
+ - Removed pascal or camel casing and use sentence case:
+ - AvatarStack -> Avatar stack
+ - repoNav -> Repo navigation
+ - orgNav -> Org navigation
+
+Note: none of these should be breaking changes but are to be more syntactically consistent for future component authoring.
 
 ##### Contributors
 - [@ashygee](https://github.com/ashygee)
