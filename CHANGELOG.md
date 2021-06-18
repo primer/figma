@@ -9,7 +9,7 @@
 
 #### 🚀 Enhancement
 
-![Footer component supports full width with variant property toggle.](https://user-images.githubusercontent.com/10384315/122585591-838c5b80-d010-11eb-97a4-92ee9a090fce.png)
+![Select menus for Enterprise/Policies/Repositories.](https://user-images.githubusercontent.com/10384315/122585591-838c5b80-d010-11eb-97a4-92ee9a090fce.png)
 
 - Enterprise templates added for Policies/Repositories select menus
 
