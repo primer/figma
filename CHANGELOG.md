@@ -2,19 +2,45 @@
 
 ## June 2021
 
+
+### Primer Interfaces
+
+[Figma link](https://www.figma.com/file/Y2xJLFBrU7yyiDLlEkQXcF/Primer-Interfaces?node-id=2103%3A5523&viewport=-2953%2C542%2C1)
+
+#### 🚀 Enhancement
+
+![Footer component supports full width with variant property toggle.](https://user-images.githubusercontent.com/10384315/122585591-838c5b80-d010-11eb-97a4-92ee9a090fce.png)
+
+- Enterprise templates added for Policies/Repositories select menus
+
+![Enterprise audit log template with map and list of recent events
+image.png ](https://user-images.githubusercontent.com/10384315/122585429-59d33480-d010-11eb-8490-360b73fe5273.png)
+
+- Enterprise template for Settings/Audit log added (TY @asiermartinez)
+
 ### Primer Web
 
 [Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=142%3A595)
 
 #### 🚀 Enhancement
+
+https://user-images.githubusercontent.com/10384315/122585307-38724880-d010-11eb-95d8-3e83daf4ff21.mp4
+
 - Footer updates
   - Name layers
   - Fix autolayout for scaling
-  - Add toggle for "Report bug" button
+  - Footer improved to represent what users see
+  - Removed “Report bug” property
+  - Added ability to toggle between the default centered layout and full width (seen in Enterprise)
 - Add Sidenav [subnav-items](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=8002%3A177)
+
 
 #### 🐛 Bug fix
 - Add missing "default" state to [outline labels](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=3813%3A3) (🙏 @nuthinking)
+
+#### 🧽 Chores
+- Octicons bump to v14.2.2
+- Fixed color pairings where color was overridden by import
 
 ##### Contributors
 - [@ashygee](https://github.com/ashygee)
