@@ -1,5 +1,28 @@
 # Changelog
 
+## August 4, 2021
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=142%3A595)
+
+#### 🚀 Enhancement
+
+**ActionList now available**
+
+![ActionList components displayed in Primer Web](https://user-images.githubusercontent.com/10384315/128284679-05233a4b-0db4-424f-a0cc-d719bebc05e0.png)
+
+@vdepizzol's [ActionList](https://primer.style/design/components/action-list) component is now available in [Primer Web](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=6%3A24956). They’re the foundation of menus, selection panels, and other overlay components.
+
+The ActionList component features three different sizes, four different variations, and additional components for ActionList headers and dividers. Please note that this is still in its alpha stage and has only been implemented in [Primer React components](https://github.com/primer/react/blob/d3a463f3161049919861e72cbb891ac62e3a89c3/src/ActionList/Item.tsx).
+
+https://user-images.githubusercontent.com/10384315/128286797-1c1aedde-2e4d-4373-9432-604180ddf41c.mp4
+
+#### 🧽 Chores
+
+- Library updates from Octicons
+
+
 ## June 2021
 
 
