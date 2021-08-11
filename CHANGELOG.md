@@ -1,5 +1,29 @@
 # Changelog
 
+## August 11, 2021
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=142%3A595)
+
+#### 🚀 Enhancement
+
+![new global header logged out variant](https://user-images.githubusercontent.com/10384315/129090169-c22c6346-4fb8-4db8-bced-adda8a8ea205.png)
+- New variant to the `Header` component to support logged out state. (🙏🏼 @ohjoycelau)
+
+#### 🐛 Bug fixes
+
+- Remove private `ActionList`-specific component from the published library (🙏🏼 @vdepizzol)
+- Corrected `Tabnav` button alignment
+- Changed default text for `Tabnav` button from "Default button" to "Button"
+- Resized `filter-item` for documentation purposes. Has no effect on the component.
+
+
+##### Contributors
+- [@ashygee](https://github.com/ashygee)
+- [@ohjoycelau](https://github.com/ohjoycelau)
+- [@vdepizzol](https://github.com/vdepizzol)
+
 ## August 4, 2021
 
 ### Primer Web
