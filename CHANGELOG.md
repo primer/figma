@@ -1,5 +1,23 @@
 # Changelog
 
+## August 25, 2021
+
+### Primer Web
+
+#### 🚀 Enhancement
+![Example: Buttons with interactive prototyping](https://user-images.githubusercontent.com/10384315/130833227-4cca5072-63ee-4985-af16-d8b821f2425c.png)
+- Buttons have interactive prototyping added. (🙏🏼 @vdepizzol)
+
+![Example: ActionList item with hover and pressed states](https://user-images.githubusercontent.com/10384315/130876264-5d8cc77d-0831-4dff-af7c-0e9cc97cbdc5.gif)
+
+- ActionList items (default) have interactive prototyping added. (🙏🏼 @vdepizzol)
+- New section divider "overflow" property for ActionList (🙏🏼 @vdepizzol)
+
+#### 🐛 Bug fixes
+- Reordered default variant for Counter to be medium default and moved properties from counter to make "medium"  the default variant
+- Some action list components were renamed to group section header and section dividers
+
+
 ## August 11, 2021
 
 ### Primer Web
