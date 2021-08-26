@@ -13,6 +13,11 @@
 - ActionList items (default) have interactive prototyping added. (🙏🏼 @vdepizzol)
 - New section divider "overflow" property for ActionList (🙏🏼 @vdepizzol)
 
+![Example: Breadcrumb component](https://user-images.githubusercontent.com/10384315/130879734-32ca1d4a-dda5-4e6c-b22a-0b30315b5547.png)
+
+- The `breadcrumb` component has been renamed `Breadcrumbs` for consistence with our Primer React and Primer ViewComponents libraries.
+- Breadcrumbs variants: Selected page labeled as "Current page" instead of "Text"
+
 #### 🐛 Bug fixes
 - Reordered default variant for Counter to be medium default and moved properties from counter to make "medium"  the default variant
 - Some action list components were renamed to group section header and section dividers
