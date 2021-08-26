@@ -15,7 +15,7 @@
 
 ![Example: Breadcrumb component](https://user-images.githubusercontent.com/10384315/130879734-32ca1d4a-dda5-4e6c-b22a-0b30315b5547.png)
 
-- The `breadcrumb` component has been renamed `Breadcrumbs` for consistence with our Primer React and Primer ViewComponents libraries.
+- The `breadcrumb` component has been renamed `Breadcrumbs` for consistency with our Primer React and Primer ViewComponents libraries.
 - Breadcrumbs variants: Selected page labeled as "Current page" instead of "Text"
 
 #### 🐛 Bug fixes
