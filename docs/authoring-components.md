@@ -47,12 +47,12 @@ Some components may feel connected enough that using the variants feature of Fig
 
 ### Examples of when to use multiple components
 
-- Alerts, Flash alert and Toast
-- Avatars, Avatar and AvatarStack
-- Form select items
+- [Alerts](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=142%3A597): Flash alert and Toast
+- [Avatars](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=179%3A3870): Avatar and AvatarStack
+- [Form select items](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=1143%3A1104)
 
 ### Examples of when to use variants
 
-- Buttons
-- Outline labels
-- Navigation > Header
+- [Buttons](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=136%3A1805)
+- [Outline labels](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=3813%3A3)
+- [Navigation > Header](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=4287%3A7)
