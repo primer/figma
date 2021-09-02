@@ -10,22 +10,29 @@ This document covers the guidelines on how to author new components, variants, a
 - List any reference to a CSS class, React component name, or ViewComponent name in the component's description.
 - Use [Figma variants](https://help.figma.com/hc/en-us/articles/360056440594-Create-and-use-variants) when authoring complex components
 
-## Creating variants
+## Variants
 
-When adding variant properties to a component, always capitalize the property name and lowercase the property value. When writing variants, keep the property name in sentence case and the values in lowercase. This helps to quickly discern properties and values from each other when creating complex components containing multiple properties. Using emoji arrows to show on which side an item will be placed is also helpful.
-
-**Examples**
-
-| Property name | Values |
-|--------|--------|
-| **State** | `default` `hover` `active` |
-| **⬅️ Leading visual** | `off` `on` | 
+In Primer, variants are used to quickly select different visual options to a component. 
 
 ### Variant properties
 
 When creating a new component apply variant properties that follow existing parameters seen in other implementations where the component exsists, [Primer React](https://primer.style/react/) and [Primer ViewComponents](https://primer.style/view-components/). If a parameter exists but cannot be expressed in Figma (e.g. `alt` or `href`) it is not necessary to include.
 
 ![Example: Avatar component in Figma](https://user-images.githubusercontent.com/10384315/131897226-b5253552-f13f-4e85-8226-d6ca2b34d938.png)
+
+## Writing properties
+
+- When adding variant properties to a component, always capitalize the property name and lowercase the property value.
+- When writing variants, keep the property name in sentence case and the values in lowercase. This helps to quickly discern properties and values from each other when creating complex components containing multiple properties.
+- Using emoji arrows to show on which side an item will be placed is also helpful.
+- To enable a toggle switch, use boolean value pairs such as `on`/`off`,`true`/`false`, and `yes`/`no`. Use the value name that makes sense to the action being executed when interacting with the toggle switch. Many of these are interchangeable but there are instances when one pairing may provide better understanding to what the intention of the property is used for.
+
+**Examples**
+
+| Property name | Values |
+|--------|--------|
+| **⬅️ Leading visual** | `off` `on` | 
+| **Has label** | `true` `false` |
 
 #### Properties table
 
