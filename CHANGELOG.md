@@ -1,5 +1,30 @@
 # Changelog
 
+## September 9, 2021
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=142%3A595)
+
+#### 🚀 Enhancement
+- Add interactive prototyping to single and multi select Action list items
+- Add in missing interactive states to Action list/Item/Default
+- The `breadcrumb` component has been renamed `Breadcrumbs` for consistence with our Primer React and Primer ViewComponents libraries.
+
+#### 🐛 Bug fixes
+
+- Disabled secondary button styling has been corrected in Figma. (🙏🏼 @nuthinking)
+- fix variant property semantics for Flash and Toast components
+
+#### 🧽 Chores
+- Add documentation link to ActionList
+- Breadcrumb variants: Selected page labeled as "Current page" instead of "Text"
+
+
+##### Contributors
+- [@ashygee](https://github.com/ashygee)
+- [@nuthinking](https://github.com/nuthinking)
+- 
 ## August 25, 2021
 
 ### Primer Web
