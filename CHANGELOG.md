@@ -1,5 +1,83 @@
 # Changelog
 
+## October 1, 2021
+
+### Primer color mode libraries
+
+#### 🚀 Enhancement
+
+- V2 color mode variables have been imported and created as styles. Please read the [color documentation](https://primer.style/design/foundations/color) in our interface guidelines and refer to the [migration guide](https://www.figma.com/file/nWsfmBJOKM3AIGXsuRfrRd/Migration-guide-Color-v2) for more information.
+
+##### Contributors
+- [@ashygee](https://github.com/ashygee)
+- [@colebemis](https://github.com/colebemis)
+
+### Primer Primitives
+[Figma link](https://www.figma.com/file/B5XPE8IwGPIZDAvN7jqWqx/Primer-Primitives?node-id=0%3A1)
+
+#### 🚀 Enhancement
+- Improvements to support new v2 color modes in Primer:
+  - Linked new color styles from Primer Primitives: Light mode library
+  - Removed old color styles
+  - Improved examples to showcase light/dark mode variations
+
+#### 🐛 Bug fixes
+
+- Rearranged text utilities to bring more commonly used properties of `text-small`, `text-small-bold`, and `text-mono` towards the top of the list.
+
+##### Contributors
+- [@ashygee](https://github.com/ashygee)
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=142%3A595)
+
+#### 💥 Breaking change
+- Removed Templates from Primer Web and migrated to Primer Interfaces
+- Card
+- Activity
+- Sidebar
+- Sidebar items
+   - Header lockup
+   - Contributor
+   - Empty state
+
+#### 🚀 Enhancement
+
+- New layout applied to Alerts and Dropdown page. Read the [discussion post](https://github.com/github/primer/discussions/234) for more information and to leave feedback
+- `Flash` component reconstructed to include new variants for messaging type, fit (full-width or floating), and accessory options
+- `Dropdown` component added (🙏 @langermank)
+- V2 color modes have been applied to Primer Web. View the [migration guide](https://www.figma.com/file/nWsfmBJOKM3AIGXsuRfrRd/Migration-guide-Color-v2) for more information.
+- Update Avatar variants to use `Shape` property to select between `circle` (humans) and `square` (entity such as org or team) avatars. This change will be reflected in Primer React and Primer ViewComponents as a part of our [component API consistency work](https://github.com/github/primer/issues/220).
+- ActionList example [templates](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=6%3A24956) expanded to include: Select panel, Action list, Action menu, Dropdown, and Multi-level menus (🙏 @vdepizzol)
+
+#### 🐛 Bug fixes
+
+- `Toast` component border styling fixed to be compatible with "Change color mode" plugin
+- Remove maintainer components for TabNav
+- Octicons import for various components
+- Reset Activity feed components
+- Reset icon color for List items
+- Rename Side nav item -> SideNav item
+- Rename Sidenav subnav-item -> SideNav sub-item
+- Reorganize SideNav items to be grouped together.
+- Fixed resizing of SideNav/item to be flexible for any width (🙏 @adrianmg)
+
+##### Contributors
+- [@ashygee](https://github.com/ashygee)
+- [@adrianmg](https://github.com/adrianmg)
+- [@langermank](https://github.com/langermank)
+- [@vdepizzol](https://github.com/vdepizzol)
+
+
+### 🖌 Primer team
+
+- New `Maintainers` project created to contain libraries and templates for Primer maintainers to use.
+  - Added `Component layout template` library file used for transitioning to new layout in Primer core library files.
+
+##### Contributors
+- [@ashygee](https://github.com/ashygee)
+
 ## September 9, 2021
 
 ### Primer Web
