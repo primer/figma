@@ -1,5 +1,25 @@
 # Changelog
 
+## October 5, 2021
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=142%3A595)
+
+#### 🚀 Enhancements
+
+![Overlay component in Figma](https://user-images.githubusercontent.com/10384315/136107909-96177520-b79d-43e6-ad3f-9f64af6b3481.png)
+
+- Overlay component added 🎉 The Overlay component utilizes the slot method to enable usage without detaching. Simply replace the slot sections with your own local component created using other components.
+- New layout added to Action list + Overlay content
+
+#### 🐛 Bug fix
+- Fix auto layout usage in ActionList items
+- Renamed Action list/Item/ -> ActionListItem
+- Renamed Action list/Section header -> ActionListSection/Header
+- Renamed Action list/Section divider -> ActionListSection/Divider
+- Added descriptions for ActionListSection/Header and ActionListSection/Divider
+
 ## October 1, 2021
 
 ### Primer color mode libraries
