@@ -63,3 +63,20 @@ Some components may feel connected enough that using the variants feature of Fig
 - [Buttons](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=136%3A1805)
 - [Outline labels](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=3813%3A3)
 - [Navigation > Header](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=4287%3A7)
+
+## Slots
+
+![_Slot component](https://user-images.githubusercontent.com/10384315/137150003-9d731aac-3c26-4fdb-88d0-468e9e8399bc.png)
+
+
+The `_Slot` component is a local component to the Primer Web library and is added as a placeholder for any customizeable content where the designers have more flexibility.
+
+![Examples of slot placement](https://user-images.githubusercontent.com/10384315/137150107-fe5ab70d-4235-44a7-bb18-daceca77c1f9.png)
+
+Areas where using this slot workflow is recommended include headers, main content, footers. Slots should be used within a container that has autolayout in order to dynamically fit its parent container*.
+
+When using a component that contains slots within your own design file, create a local component that has the specific contents needed and replace the `_Slot` with an instance of the local component. 
+
+![replacing the slot component](https://user-images.githubusercontent.com/10384315/137149864-84a32917-4a33-44a9-8079-b0485edfc537.png)
+
+* Note: Due to certain bugs in Figma, if a `_Slot` is replaced and does not flex, the auto layout properties will need to be manually updated. 
