@@ -1,5 +1,62 @@
 # Changelog
 
+## October 28, 2021
+
+### Primer Primitives
+
+[Figma link](https://www.figma.com/file/B5XPE8IwGPIZDAvN7jqWqx/Primer-Primitives)
+
+#### 🚀 Enhancements
+
+##### Color system update
+
+![Updated pages for color](https://user-images.githubusercontent.com/10384315/139312452-a5b3983d-3301-4dd7-84dd-71b234d96e67.png)
+
+Color has been updated in Primer Primitives to encompass all of the updates from the color modes team that are now sesen in Primer CSS v18[^1]. Color utilities have been ported to Figma in the form of color styles and are once again found in Primer Primitives. Moving forward, non-Primer maintainers _should only need_ to enable the Primer Primtives libary. The **Light mode** library will now be turned off by default.
+
+**Features**
+
+- All styles are grouped by type:
+  - `fg`: Foregrounds (text and icons)
+  - `bg`: Backgrounds
+  - `border`: Borders
+
+![All color styles in Primer Primtives](https://user-images.githubusercontent.com/10384315/139311962-d3a8cca1-434f-4727-b0b5-6d6589e90617.png)
+
+- Each color style has a supporting description to explain its general usage.
+
+![border color style with tooltip description](https://user-images.githubusercontent.com/10384315/139311287-80758bf2-b2dd-4e8c-8f38-e3a6d86fe95a.png)
+
+
+[^1]: For those who are looking to read more about this update in CSS, please refer to the [migration guide](https://primer.style/css/support/v18-migration) in the CSS docs.
+
+##### New layout
+
+![New layout for typography and spacing pages](https://user-images.githubusercontent.com/10384315/139312738-dd9e4b7e-5551-4e02-abaa-5e68bb3a5b0d.png)
+
+- The typography and spacing pages have also been updated with the new layout seen in Primer Web.
+
+##### Contributors
+- [@ashygee](https://github.com/ashygee)
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=142%3A595)
+
+#### 🚀 Enhancements
+
+![Indeterminate checkbox variations](https://user-images.githubusercontent.com/10384315/139313632-652beabf-22db-4d2e-b3d4-4d10a524f75d.png)
+
+- An indeterminate state for the `Form control/checkbox` has been added. (🙏 @ohjoycelau)
+
+#### 🐛 Bug fix
+
+- The primary button's dropdown caret spacing has been corrected in the pressed/active state. (🙏 @six7)
+
+##### Contributors
+- [@ohjoycelau](https://github.com/ohjoycelau)
+- [@six7](https://github.com/six7)
+
 ## October 5, 2021
 
 ### Primer Web
