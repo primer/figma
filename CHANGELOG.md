@@ -48,14 +48,20 @@ Color has been updated in Primer Primitives to encompass all of the updates from
 ![Indeterminate checkbox variations](https://user-images.githubusercontent.com/10384315/139313632-652beabf-22db-4d2e-b3d4-4d10a524f75d.png)
 
 - An indeterminate state for the `Form control/checkbox` has been added. (🙏 @ohjoycelau)
+- Update Button component to use v2 color system [^1]
+
+[^1]: text/disabled still applied until next primer/primitives color release which will include actionList colors
+
 
 #### 🐛 Bug fix
 
 - The primary button's dropdown caret spacing has been corrected in the pressed/active state. (🙏 @six7)
+- - Correct font size of small invisible button (🙏 @maximedegreve)
 
 ##### Contributors
 - [@ohjoycelau](https://github.com/ohjoycelau)
 - [@six7](https://github.com/six7)
+- [@maximedegreve](https://github.com/maximedegreve)
 
 ## October 5, 2021
 
