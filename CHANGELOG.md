@@ -1,5 +1,33 @@
 # Changelog
 
+## November 17, 2021
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=310%3A2995)
+
+
+#### 💥 Breaking change
+- Removed `muted-link` component. Please apply `fg/muted` from [Primer Primitives](https://www.figma.com/file/B5XPE8IwGPIZDAvN7jqWqx/Primer-Primitives?node-id=2172%3A1379) to a link that requires similar styling
+
+#### 🚀 Enhancement
+- Update Overlay heading to support larger headings for confirmation dialogs [See issue comment](https://github.com/github/primer/issues/3#issuecomment-929411277)
+- Add `action-list` specific color variables to ActionListItems
+- Add [OverlayFooter](url) component
+- Add "disabled" state to ActionListItems
+
+#### 🐛 Bug fix
+- Update [Subhead](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=9654%3A44623) content from fixed-width to fill container (🙏 @mkwng)
+- Update [Toast](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=9543%3A42957) resizing constraints from fixed-width to fill container
+- Added autolayout to text counter in text-contents component
+- Replaced . with _ in local text component names
+
+##### Contributors
+- [@ohjoycelau](https://github.com/ohjoycelau)
+- [@six7](https://github.com/six7)
+- [@mkwing](https://github.com/mkwng)
+
+
 ## October 28, 2021
 
 ### Primer Primitives
