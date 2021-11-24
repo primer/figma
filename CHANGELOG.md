@@ -1,5 +1,26 @@
 # Changelog
 
+## November 24, 2021
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=310%3A2995)
+
+#### 🚀 Enhancements
+- New and improved Blankslate component. The component's variant properties now match those seen in the Primer ViewComponent implementation
+- New spinner component added. Use the spinner for loading frames. The spinner also has its animation built in and can be seen when viewing a prototype.
+
+#### 🐛 Bug fix
+- small outline labels corrected for 16px size
+- Large outline labels have been corrected to their correct size of 24px.
+- Text area padding-x has been corrected to be consistent with production at 12px for default text areas. Markdown textarea elements have 8px padding-x by default. (🙏 @ohjoycelau)
+- Update to AvatarStack > AvatarPair to correct constraints and frame size (🙏@ohjoycelau)
+- Aligned properties between single and multi select ActionList items to allow for icon swapping overrides to be carried over.
+- Tweaked some alignment settings in Overlay. Note: Figma is altering the constraints when a slot or OverlayHeader/OverlayFooter variant is changed. This is still being investigated but designers should be aware that manually changing constraints to "Fill container" may be necessary.
+
+##### Contributors
+- [@ohjoycelau](https://github.com/ohjoycelau)
+
 ## November 17, 2021
 
 ### Primer Web
