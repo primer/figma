@@ -2,37 +2,54 @@
 
 This document covers the guidelines on how to author new components, variants, and their properties within Figma. For questions and additional support, please reach out in the #primer channel in Slack.
 
+> **Edit 2022 May 13:** With the introduction of new component property features in Figma, the design systems team will be restructuring and renaming component/variant properties to closer align to the component APIs seen in code.
+
 ---
 
 ## General guidelines
 
-- Write component names in human speak. For example use `Button` instead of `btn`.
+- Write component names as reflected in code as a component name but not after utility names. For example use `Button` instead of `btn` .
 - List any reference to a CSS class, React component name, or ViewComponent name in the component's description.
-- Use [Figma variants](https://help.figma.com/hc/en-us/articles/360056440594-Create-and-use-variants) when authoring complex components
+- Use [Figma variants](https://help.figma.com/hc/en-us/articles/360056440594-Create-and-use-variants) for component states or variants/types. For example, a variant property could be for "State: rest, focus, hover, selected, disabled".
+- Use [Figma component properties](https://help.figma.com/hc/en-us/articles/5579474826519-Create-and-use-component-properties) to control the different options for hide/show layers (hide/show a leadingVisual), instance swapping (such as between an icon or avatar for a leadingVisual), and for text properties (headings, descriptions, etc).
 
 ## Variants
 
-In Primer, variants are used to quickly select different visual options to a component. 
+In Primer, variants and component properties are used to quickly select different states and/or visual options of a component. 
 
 ### Variant properties
 
-When creating a new component apply variant properties that follow existing parameters seen in other implementations where the component exsists, [Primer React](https://primer.style/react/) and [Primer ViewComponents](https://primer.style/view-components/). If a parameter exists but cannot be expressed in Figma (e.g. `alt` or `href`) it is not necessary to include.
+When creating a new component apply variant properties that follow existing parameters seen in other implementations where the component exsists, [Primer React](https://primer.style/react/) and [Primer ViewComponents](https://primer.style/view-components/). If a parameter exists but cannot be expressed in Figma (e.g. `alt` or `href`) it is not necessary to include. Variant properties will always appear above component properties in the properties panel and can only be reordered with other variant properties.
 
 ![Example: Avatar component in Figma](https://user-images.githubusercontent.com/10384315/131897226-b5253552-f13f-4e85-8226-d6ca2b34d938.png)
 
+### Component properties
+
+Certain visual options can be controlled with Figma's component properties. Apply component properties when controlling the visibility of a layer, swapping between specific instance options, or controlling the content of a text layer. Below is a list of common properties and the types of items they control. When ordering component properties, order them from the start to end to how they would be seen within the DOM. 
+
+As a reminder, variant properties will always appear above component properties in the properties panel.
+
+| Name | Description | Component property type |
+| :--: | :--: | :--: |
+| ⬅️ visual? | Show/hide the leading visual which is a the start of the component (left-side) | [Boolean](https://help.figma.com/hc/en-us/articles/5579474826519-Create-and-use-component-properties#h_01G2Q5GA6DEB604H2E5H5C5TA4) |
+| title | Text content for "Title" layer | [Text](https://help.figma.com/hc/en-us/articles/5579474826519-Create-and-use-component-properties#h_01G2Q5G3FV0EQP9RZFZG7GVWEG) |
+| leadingAction | Swap between different interactive options (such as checkbox, checkmark, bullet) | [Instance swap](https://help.figma.com/hc/en-us/articles/5579474826519-Create-and-use-component-properties#h_01G2Q5FYN2ADEDQ3ZSB1KKY8Z0) |
+
 ## Writing properties
 
-- When adding variant properties to a component, always capitalize the property name and lowercase the property value.
-- When writing variants, keep the property name in sentence case and the values in lowercase. This helps to quickly discern properties and values from each other when creating complex components containing multiple properties.
-- Using emoji arrows to show on which side an item will be placed is also helpful.
-- To enable a toggle switch, use boolean value pairs such as `on`/`off`,`true`/`false`, and `yes`/`no`. Use the value name that makes sense to the action being executed when interacting with the toggle switch. Many of these are interchangeable but there are instances when one pairing may provide better understanding to what the intention of the property is used for.
+- When properties, either variant or component, write them as they are seen or would be written in code. For example, the prop for an icon or avatar in the action list component is written as `leadingVisual`.
+- When writing variants, keep the property name in as written in code with lower or camelCase and the values in lowercase.
+- Use emoji can add more context to a property. For example using arrows "⬅️" can help to indicate which side an item will be placed.
+- When indicating a boolean property add a "?". For example, the property to show/hide the title of a component is written as "title?"
 
 **Examples**
 
 | Property name | Values |
 |--------|--------|
-| **⬅️ Leading visual** | `off` `on` | 
-| **Has label** | `true` `false` |
+| **⬅️ leadingVisual** | `off` `on` | 
+| **label?** | `true` `false` |
+| **state** | `rest` `focust` `hover` |
+| **visual** | `octicon` `avatar` |
 
 #### Properties table
 
@@ -40,13 +57,13 @@ The following table includes a list of common properties used within the Figma c
 
 | Category | Description | Included values |
 |--------|--------|--------|
-| `Type` | A variation of the component or a specific part | text, single select, multi-select, danger, header, item, footer | 
-| `State` | The state of the component's interactivity | default (rest), hover, selected, disabled | 
-| `Size` | Size variations of the component | small, medium, large OR pixel values | 
-| `⬅️ Leading  [accessory]` | The leading visual accessory of a component placed to the **left** of a text label or description | icon, avatar |
-| `➡️ Trailing [accessory]` | The trailing visual accessory of a component placed to the **right** of a text label or description | icon, avatar, label, counter |
-| `Description` | Descriptive text within a component; can be a toggle (boolean) set of values or a dropdown selection | on/off [boolean], short/long, inline/block |
-|  `Selected` | Mark the component as selected; toggle (boolean) the selection marker, typically a check mark | on/off |
+| `type` | A variation of the component or a specific part | text, single select, multi-select, danger, header, item, footer | 
+| `state` | The state of the component's interactivity | default (rest), hover, selected, disabled | 
+| `size` | Size variations of the component | small, medium, large OR pixel values | 
+| `⬅️ leading[Accessory]` | The leading visual accessory of a component placed to the **left** of a text label or description | icon, avatar |
+| `➡️ trailing[Accessory]` | The trailing visual accessory of a component placed to the **right** of a text label or description | icon, avatar, label, counter |
+| `description` | Descriptive text within a component; can be a toggle (boolean) set of values or a dropdown selection | on/off [boolean], short/long, inline/block |
+|  `selected` | Mark the component as selected; toggle (boolean) the selection marker, typically a check mark | on/off |
 
 ## Multiple components vs Multiple variants
 
