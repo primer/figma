@@ -8,10 +8,53 @@ This document covers the guidelines on how to author new components, variants, a
 
 ## General guidelines
 
-- Write component names as reflected in code as a component name but not after utility names. For example use `Button` instead of `btn` .
+- The nameing of components should match what is reflected in code as the component name. For example, the button component would be named `Button` instead of `btn` which is neither a utility or component name but a prior reference from CSS.
+- Write component names using PascalCase. For example, the action list component -> ActionList. Refer to the ["Spelling of component names" ADR](https://github.com/github/primer/blob/main/adrs/2022-02-15-spelling-of-component-names.md#decision) for more context.
 - List any reference to a CSS class, React component name, or ViewComponent name in the component's description.
 - Use [Figma variants](https://help.figma.com/hc/en-us/articles/360056440594-Create-and-use-variants) for component states or variants/types. For example, a variant property could be for "State: rest, focus, hover, selected, disabled".
 - Use [Figma component properties](https://help.figma.com/hc/en-us/articles/5579474826519-Create-and-use-component-properties) to control the different options for hide/show layers (hide/show a leadingVisual), instance swapping (such as between an icon or avatar for a leadingVisual), and for text properties (headings, descriptions, etc).
+
+## Layer structure
+
+Every component that is added should have its layers named to reflect what is rendered on that layer. When describing component layer structure, Primer uses a left-to-right direction to reflect start-to-end positioning.
+
+### Groups of layers
+
+For groups of items within a component, be explicit to what is contained within a group.
+
+Do | Don't
+:--: | :--:
+![Do name your layers to describe what they contain](https://user-images.githubusercontent.com/10384315/168839844-eed86649-27e1-4308-85d0-f6a171e683d6.png) | ![Don't leave layers named with abstract defaults from Figma such as Frame 403](https://user-images.githubusercontent.com/10384315/168837988-2e5d4343-c439-4319-b498-aff7c3090b92.png)
+
+### Text
+
+Layer names should typically represent the type of textual information it contains. Text layers that will retain overrides when swapping to another instance or variant should be named the same.
+
+![Example of text layers named as title and message](https://user-images.githubusercontent.com/10384315/168841851-63b5a47a-4d43-4cad-bf3b-a76610d951bc.png)
+
+**Layer name examples:** ButtonText, Message, Text
+
+### Supporting visuals
+
+Layers that have supporting visuals such as icons or avatars should be named to indicate the type of visual they contain.
+
+If the visual appears at the start of the component it is categorized as a "leading" visual. If the visual appears at the end of the component it is categorized as a "trailing" visual.
+
+In layer names, the use of emoji can add more context to these directional indicators. For example using arrows (⬅ or ➡) can help to indicate which side an item will be placed and reinforce what is leading vs trailing.
+
+![Example of leading visual only as icon with layer name ⬅️ Icon](https://user-images.githubusercontent.com/10384315/168841044-cb75ede4-37c1-4d0f-bbf3-c67590b78c8c.png)
+
+If there can be more than one type of visual, use the format "[position]Visual" to name the container and inside house the appropriate visuals, for example and icon and an avatar.
+
+![Example of leading visual layer with only and icon named ⬅️ leading visual](https://user-images.githubusercontent.com/10384315/168840851-21cc614a-e9c8-4ce4-abd4-0c2144cac582.png)
+
+**Layer name examples:** ⬅️ leadingVisual, ⬅️ icon, ➡️ trailingVisual
+
+### Actions
+
+Layers that contain actions should have their name describe the action. 
+
+![Example with actions bundled in one layer called ➡️ trailing action: button options](https://user-images.githubusercontent.com/10384315/168840616-37acdacb-3a43-4ed7-8993-8f5ba2829fcf.png)
 
 ## Variants
 
@@ -31,7 +74,7 @@ As a reminder, variant properties will always appear above component properties 
 
 | Name | Description | Component property type |
 | :--: | :--: | :--: |
-| ⬅️ visual? | Show/hide the leading visual which is a the start of the component (left-side) | [Boolean](https://help.figma.com/hc/en-us/articles/5579474826519-Create-and-use-component-properties#h_01G2Q5GA6DEB604H2E5H5C5TA4) |
+| leadingVisual? | Show/hide the leading visual which is a the start of the component (left-side) | [Boolean](https://help.figma.com/hc/en-us/articles/5579474826519-Create-and-use-component-properties#h_01G2Q5GA6DEB604H2E5H5C5TA4) |
 | title | Text content for "Title" layer | [Text](https://help.figma.com/hc/en-us/articles/5579474826519-Create-and-use-component-properties#h_01G2Q5G3FV0EQP9RZFZG7GVWEG) |
 | leadingAction | Swap between different interactive options (such as checkbox, checkmark, bullet) | [Instance swap](https://help.figma.com/hc/en-us/articles/5579474826519-Create-and-use-component-properties#h_01G2Q5FYN2ADEDQ3ZSB1KKY8Z0) |
 
@@ -39,14 +82,13 @@ As a reminder, variant properties will always appear above component properties 
 
 - When properties, either variant or component, write them as they are seen or would be written in code. For example, the prop for an icon or avatar in the action list component is written as `leadingVisual`.
 - When writing variants, keep the property name in as written in code with lower or camelCase and the values in lowercase.
-- Use emoji can add more context to a property. For example using arrows "⬅️" can help to indicate which side an item will be placed.
 - When indicating a boolean property add a "?". For example, the property to show/hide the title of a component is written as "title?"
 
 **Examples**
 
 | Property name | Values |
 |--------|--------|
-| **⬅️ leadingVisual** | `off` `on` | 
+| **leadingVisual** | `off` `on` | 
 | **label?** | `true` `false` |
 | **state** | `rest` `focust` `hover` |
 | **visual** | `octicon` `avatar` |
@@ -60,8 +102,8 @@ The following table includes a list of common properties used within the Figma c
 | `type` | A variation of the component or a specific part | text, single select, multi-select, danger, header, item, footer | 
 | `state` | The state of the component's interactivity | default (rest), hover, selected, disabled | 
 | `size` | Size variations of the component | small, medium, large OR pixel values | 
-| `⬅️ leading[Accessory]` | The leading visual accessory of a component placed to the **left** of a text label or description | icon, avatar |
-| `➡️ trailing[Accessory]` | The trailing visual accessory of a component placed to the **right** of a text label or description | icon, avatar, label, counter |
+| `leading[Accessory]` | The leading visual accessory of a component placed to the **left** of a text label or description | icon, avatar |
+| `trailing[Accessory]` | The trailing visual accessory of a component placed to the **right** of a text label or description | icon, avatar, label, counter |
 | `description` | Descriptive text within a component; can be a toggle (boolean) set of values or a dropdown selection | on/off [boolean], short/long, inline/block |
 |  `selected` | Mark the component as selected; toggle (boolean) the selection marker, typically a check mark | on/off |
 
