@@ -62,7 +62,7 @@ In Primer, variants and component properties are used to quickly select differen
 
 ### Variant properties
 
-When creating a new component apply variant properties that follow existing parameters seen in other implementations where the component exsists, [Primer React](https://primer.style/react/) and [Primer ViewComponents](https://primer.style/view-components/). If a parameter exists but cannot be expressed in Figma (e.g. `alt` or `href`) it is not necessary to include. Variant properties will always appear above component properties in the properties panel and can only be reordered with other variant properties.
+When creating a new component, apply variant properties that follow existing parameters as seen in other framework implementations such as [Primer React](https://primer.style/react/) and [Primer ViewComponents](https://primer.style/view-components/). If a parameter exists but cannot be expressed in Figma (e.g. `alt` or `href`) it is not necessary to include. Variant properties will always appear above component properties in the properties panel and can only be reordered with other variant properties.
 
 ![Example: Avatar component in Figma](https://user-images.githubusercontent.com/10384315/131897226-b5253552-f13f-4e85-8226-d6ca2b34d938.png)
 
@@ -80,8 +80,8 @@ As a reminder, variant properties will always appear above component properties 
 
 ## Writing properties
 
-- When properties, either variant or component, write them as they are seen or would be written in code. For example, the prop for an icon or avatar in the action list component is written as `leadingVisual`.
-- When writing variants, keep the property name in as written in code with lower or camelCase and the values in lowercase.
+- When writing properties, either variant or component, write them as they are seen or would be written in code. For example, the prop for an icon or avatar in the action list component is written as `leadingVisual`.
+- When writing variants, keep the property name as its written in code with lower or camelCase and the values in lowercase.
 - When indicating a boolean property add a "?". For example, the property to show/hide the title of a component is written as "title?"
 
 **Examples**
