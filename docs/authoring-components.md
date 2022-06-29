@@ -8,7 +8,7 @@ This document covers the guidelines on how to author new components, variants, a
 
 ## General guidelines
 
-- The nameing of components should match what is reflected in code as the component name. For example, the button component would be named `Button` instead of `btn` which is neither a utility or component name but a prior reference from CSS.
+- The naming of components should match what is reflected in code as the component name. For example, the button component would be named `Button` instead of `btn` which is neither a utility or component name but a prior reference from CSS.
 - Write component names using PascalCase. For example, the action list component -> ActionList. Refer to the ["Spelling of component names" ADR](https://github.com/github/primer/blob/main/adrs/2022-02-15-spelling-of-component-names.md#decision) for more context.
 - List any reference to a CSS class, React component name, or ViewComponent name in the component's description.
 - Use [Figma variants](https://help.figma.com/hc/en-us/articles/360056440594-Create-and-use-variants) for component states or variants/types. For example, a variant property could be for "State: rest, focus, hover, selected, disabled".
@@ -22,7 +22,7 @@ Every component that is added should have its layers named to reflect what is re
 
 For groups of items within a component, be explicit to what is contained within a group.
 
-Do | Don't
+✅ Do | ❌ Don't
 :--: | :--:
 ![Do name your layers to describe what they contain](https://user-images.githubusercontent.com/10384315/168839844-eed86649-27e1-4308-85d0-f6a171e683d6.png) | ![Don't leave layers named with abstract defaults from Figma such as Frame 403](https://user-images.githubusercontent.com/10384315/168837988-2e5d4343-c439-4319-b498-aff7c3090b92.png)
 
