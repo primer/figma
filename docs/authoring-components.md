@@ -88,7 +88,7 @@ As a reminder, variant properties will always appear above component properties 
 
 | Property name | Values |
 |--------|--------|
-| **leadingVisual** | `off` `on` | 
+| **leadingVisual?** | `on` `off` | 
 | **label?** | `true` `false` |
 | **state** | `rest` `focust` `hover` |
 | **visual** | `octicon` `avatar` |
