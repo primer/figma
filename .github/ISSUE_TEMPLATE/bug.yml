@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        ### Thanks for taking the time to fill out this bug report!
   - type: textarea
     id: what-happened
     attributes:
@@ -19,11 +19,8 @@ body:
   - type: checkboxes
     id: latestRelease
     attributes:
-      label: Are you using the [latest release](https://github.com/primer/figma/releases)?
+      label: Are you using the latest release?
       description: You can verify this by opening the lib view (`option` + `cmd` + `o`) and checking the `Updates` tab
       options:
-        - label: I am using the latest version of `Primer Web` and `Primer Primitives Light`
+        - label: I am using the [latest release](https://github.com/primer/figma/releases) of `Primer Web` and `Primer Primitives Light`
           required: false
-  - type: markdown
-    attributes:
-      value: <!-- Attach any screenshots or videos that may help understand the issue -->
