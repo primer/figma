@@ -2,7 +2,6 @@ name: 🐛 Bug Report
 description: Submit a bug report if you found something wrong
 title: "[Bug]: "
 labels: ["bug", "triage"]
-assignees:
 body:
   - type: markdown
     attributes:
