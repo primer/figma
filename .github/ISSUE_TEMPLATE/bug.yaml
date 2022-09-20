@@ -23,7 +23,7 @@ body:
       label: Are you using the [latest release](https://github.com/primer/figma/releases)?
       description: You can verify this by opening the lib view (`option` + `cmd` + `o`) and checking the `Updates` tab
       options:
-        - label: I am using the latest version of Primer Web and Primer Primitives: Light
+        - label: I am using the latest version of `Primer Web` and `Primer Primitives Light`
           required: false
   - type: markdown
     attributes:
