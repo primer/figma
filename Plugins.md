@@ -1,4 +1,4 @@
-# Recommende Figma Plugins
+# Recommended Figma Plugins
 
 ### [Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast)
 Evaluate contrast ratios of two colors.
