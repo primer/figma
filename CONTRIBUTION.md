@@ -25,7 +25,7 @@ Good contributions are a fantastic help. Make sure to keep [pull requests](https
 
 If you want to change or add multiple things, create multiple branches to send multiple pull requests.
 
-Please [create an issue](https://github.com/primer/figma/issues/new) discussing your indented change before embarking on any significant pull request (e.g. adding a new component or changing existing components in significant ways), otherwise you risk spending a lot of time working on something that we might not be able to merge into the libraries.
+Please [create an issue](https://github.com/primer/figma/issues/new) discussing your intended change before embarking on any significant pull request (e.g., adding a new component or changing existing components in significant ways); otherwise, you risk spending a lot of time working on something that we might not be able to merge into the libraries.
 
 **Guidelines for contributions:**
 
