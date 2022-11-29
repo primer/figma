@@ -15,7 +15,7 @@ If you find a bug in any of the libraries that are part of primer/figma please c
 
 1. Use the issue search to check if the issue has already been reported.
 
-1. Check that you have updated to the latest figma library release.
+1. Check that you have updated to the latest Figma library release.
 
 2. Use our [issue template](https://github.com/primer/figma/issues/new?assignees=&labels=bug%2Ctriage&template=bug.yml&title=%5BBug%5D%3A+) to help you report bugs
 
