@@ -4,7 +4,7 @@ We're thrilled that you want to contribute to this primer/figma. Your help is es
 
 If you need support with your contribution, please reach out via [#primer-figma](https://github.slack.com/archives/C049REXSRBQ).
 
-This repository contains the following figma libraries:
+This repository contains the following Figma libraries:
 - [Primer Web](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web)
 - [Primer Brand](https://www.figma.com/file/BJ95AjraesmRCWsKA013GS/Primer-Brand)
 
