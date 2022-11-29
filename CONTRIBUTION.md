@@ -37,7 +37,7 @@ Please [create an issue](https://github.com/primer/figma/issues/new) discussing 
 
 1. Make sure your changes fulfil the requirements from the [checklist](#component-checklist)
 
-2. Comment in the issue for your PR if you created on and mention that it is ready to review.
+2. If you created an issue, add a comment mentioning that the PR is ready for review.
 
 3. Assign the DRI from the table below to review and merge your branch
 
