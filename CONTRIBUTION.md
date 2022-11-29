@@ -1,15 +1,50 @@
-# We love contributions to figma/primer
+# We love contributions
 
-If you find a bug or issue, feel free to leave a comment in Figma and mention @ashygee.
+We're thrilled that you want to contribute to this primer/figma. Your help is essential for keeping it great.
 
-If you want to add a new component it is best to first [create an issue](https://github.com/primer/figma/issues/new) to discuss any overlap with the maintainers.
+If you need support with your contribution, please reach out via [#primer-figma](https://github.slack.com/archives/C049REXSRBQ).
 
-## Adding or updating components
+This repository contains the following figma libraries:
+- [Primer Web](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web)
+- [Primer Brand](https://www.figma.com/file/BJ95AjraesmRCWsKA013GS/Primer-Brand)
 
-When updating componenents it is best to [create a new branch in Figma](https://www.youtube.com/watch?v=tbNCGEC2G1E) with your changes. 
-In most cases you will need to create a branch on [Primer Web](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=136%3A1805).
+## Bug reports
+If you find a bug in any of the libraries that are part of primer/figma please create a detailed [bug report](https://github.com/primer/figma/issues/new?assignees=&labels=bug%2Ctriage&template=bug.yml&title=%5BBug%5D%3A+).
 
-Before requesting a review from @ashygee, make sure that you have taken care of all the points below:
+**Guidelines for bug reports:**
+
+1. Use the issue search to check if the issue has already been reported.
+
+1. Check that you have updated to the latest figma library release.
+
+2. Use our [issue template](https://github.com/primer/figma/issues/new?assignees=&labels=bug%2Ctriage&template=bug.yml&title=%5BBug%5D%3A+) to help you report bugs
+
+## Contribute new components or updates
+
+Good contributions are a fantastic help. Make sure to keep [pull requests](https://help.figma.com/hc/en-us/articles/360063144053-Guide-to-branching) focused in scope and avoid changes unrelated to the problem or component you're adding.
+
+If you want to change or add multiple things, create multiple branches to send multiple pull requests.
+
+Please [create an issue](https://github.com/primer/figma/issues/new) discussing your indented change before embarking on any significant pull request (e.g. adding a new component or changing existing components in significant ways), otherwise you risk spending a lot of time working on something that we might not be able to merge into the libraries.
+
+**Guidelines for contributions:**
+
+1. If it's a bigger change, [create an issue](https://github.com/primer/figma/issues/new) to discuss it first
+
+1. Create a [new branch in figma](https://www.youtube.com/watch?v=tbNCGEC2G1E)
+
+1. Make your changes in the new branch
+
+1. Make sure your changes fulfil the requirements from the [checklist](#component-checklist)
+
+2. Comment in the issue for your PR if you created on and mention that it is ready to review.
+
+3. Assign the DRI from the table below to review and merge your branch
+
+Figma library | DRI
+--- | ---
+[Primer Web](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web) | @lukasoppermann
+[Primer Brand](https://www.figma.com/file/BJ95AjraesmRCWsKA013GS/Primer-Brand) | @danielguillan
 
 ## Component checklist
 
