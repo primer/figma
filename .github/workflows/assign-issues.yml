@@ -13,6 +13,6 @@ jobs:
       - name: "Auto-assign issue"
         uses: pozil/auto-assign-issue@v1
         with:
-          assignees: lukasoppermann,danielguillan
+          teams: primer/figma-reviewers
           numOfAssignee: 1
           allowSelfAssign: false
