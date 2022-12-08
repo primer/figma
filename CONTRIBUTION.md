@@ -2,7 +2,7 @@
 
 We're thrilled that you want to contribute to this primer/figma. Your help is essential for keeping it great.
 
-If you need support with your contribution, please reach out via [#primer-figma](https://github.slack.com/archives/C049REXSRBQ).
+If you need support with your contribution, please create a [contribution issue](https://github.com/primer/figma/issues/new?assignees=&labels=Component&template=---new-component-or-update.md&title=) or reach out via #primer-figma (internal).
 
 This repository contains the following Figma libraries:
 - [Primer Web](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web)
