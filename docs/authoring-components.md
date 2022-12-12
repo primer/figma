@@ -34,22 +34,6 @@ Layer names should typically represent the type of textual information it contai
 
 **Layer name examples:** ButtonText, Message, Text
 
-### Supporting visuals
-
-Layers that have supporting visuals such as icons or avatars should be named to indicate the type of visual they contain.
-
-If the visual appears at the start of the component it is categorized as a "leading" visual. If the visual appears at the end of the component it is categorized as a "trailing" visual.
-
-In layer names, the use of emoji can add more context to these directional indicators. For example using arrows (⬅ or ➡) can help to indicate which side an item will be placed and reinforce what is leading vs trailing.
-
-![Example of leading visual only as icon with layer name ⬅️ Icon](https://user-images.githubusercontent.com/10384315/168841044-cb75ede4-37c1-4d0f-bbf3-c67590b78c8c.png)
-
-If there can be more than one type of visual, use the format "[position]Visual" to name the container and inside house the appropriate visuals, for example and icon and an avatar.
-
-![Example of leading visual layer with only and icon named ⬅️ leading visual](https://user-images.githubusercontent.com/10384315/168840851-21cc614a-e9c8-4ce4-abd4-0c2144cac582.png)
-
-**Layer name examples:** ⬅️ leadingVisual, ⬅️ icon, ➡️ trailingVisual
-
 ### Actions
 
 Layers that contain actions should have their name describe the action. 
