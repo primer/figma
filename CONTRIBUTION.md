@@ -41,10 +41,10 @@ Please [create an issue](https://github.com/primer/figma/issues/new) discussing 
 
 3. Assign the DRI from the table below to review and merge your branch
 
-Figma library | DRI
---- | ---
-[Primer Web](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web) | @lukasoppermann
-[Primer Brand](https://www.figma.com/file/BJ95AjraesmRCWsKA013GS/Primer-Brand) | @danielguillan
+Internal Figma library | External Figma library | DRI
+--- | --- | ---
+[Primer Web (Internal)](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web) | [Primer Web (External)](https://www.figma.com/community/file/854767373644076713) | @lukasoppermann
+[Primer Brand (Internal)](https://www.figma.com/file/BJ95AjraesmRCWsKA013GS/Primer-Brand) | | @danielguillan
 
 ## Component checklist
 
