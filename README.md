@@ -7,9 +7,11 @@
 - Octicons ([internal](https://www.figma.com/file/1ljgTFkT5NKNRfq5hw07JQ/Octicons?node-id=0%3A1&viewport=664%2C488%2C1) | [community file](https://www.figma.com/community/file/809920999413919915))
 
 ## 📖 Documentation
-
 Information on how to use Primer within Figma lives in our [design guidelines](https://primer.style/design/tools/figma). You'll be able to find detailed documentation on how GitHub uses Figma.
 
 ## 🌐 Community
 
 Primer's component libraries, shared styles, and Octicons can be found in the Figma community at https://www.figma.com/@primer.
+
+## Help & questions
+If you need help with the figma libraries or have questions about how to use them, bugs or contributions reach out by creating an [issue](https://github.com/primer/figma/issues/new/choose) or via #primer-figma (internal).
