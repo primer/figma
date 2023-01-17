@@ -43,8 +43,8 @@ Please [create an issue](https://github.com/primer/figma/issues/new) discussing 
 
 Internal Figma library | External Figma library | DRI
 --- | --- | ---
-[Primer Web (Internal)](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web) | [Primer Web (External)](https://www.figma.com/community/file/854767373644076713) | @lukasoppermann
-[Primer Brand (Internal)](https://www.figma.com/file/BJ95AjraesmRCWsKA013GS/Primer-Brand) | | @danielguillan
+[Primer Web (Internal)](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web) | [Primer Web (External)](https://www.figma.com/community/file/854767373644076713) | [@lukasoppermann](https://github.com/lukasoppermann)
+[Primer Brand (Internal)](https://www.figma.com/file/BJ95AjraesmRCWsKA013GS/Primer-Brand) | | [@danielguillan](https://github.com/danielguillan)
 
 ## Component checklist
 
