@@ -1,5 +1,17 @@
 # Changelog
 
+## 2023.03
+
+### Primer Web
+
+[Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=14841%3A47461&t=KnZpT9r6BLauBEwf-1)
+
+#### 🚀 Enhancements
+- New [contribution guidelines](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=20690%3A80704&t=KnZpT9r6BLauBEwf-1)
+- Button component got a `trailingVisual` property
+- Button component property `leadingIcon` was renamed `leadingVisual` to be aligned with code implementation
+- Overview page was removed in favor of every component having a dedicated page in the sidebar that is sorted alphabetically
+
 ## November 24, 2021
 
 ### Primer Web
