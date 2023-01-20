@@ -1,0 +1,51 @@
+# Name of the action visible in the action overview
+name: Figma release
+# this triggers the action when a post to "https://api.github.com/repos/:username/:repo/dispatches" comes in
+on:
+  repository_dispatch:
+    type: figma-release
+env:
+  payload: ${{toJSON(github.event.client_payload.release)}}
+jobs:
+  build:
+    # the name for the entire job
+    name: Create new primer/figma release
+    # we run this on ubuntu, leave this alone, if you don't have a good reason to change it
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.AUTO_COMMIT }}
+
+      - name: Setup Node.js 18.x
+        uses: actions/setup-node@v2
+        with:
+          node-version: 18.x
+
+      - name: Install Dependencies
+        run: yarn      
+
+      # - name: create changeset
+      #   run: |
+      #     echo "${{ github.event.client_payload.releaseNote }}" > ".changeset/${{ github.event.client_payload.fileInfo.fileName }}-${{ github.event.client_payload.fileInfo.timestamp }}.md"
+      
+      - name: save API response to temporary json
+        run: |
+          echo '${{ github.event.client_payload.releaseJson }}' > "temp-api-response.json"
+
+      # - name: commit to base branch
+      #   uses: EndBug/add-and-commit@v9
+      #   with:
+      #     message: "added temp-api-response.json"
+      #     add: "temp-api-response.json"
+
+      - name: create changeset
+        run: |
+          npm run createChangeset
+
+      - name: commit to base branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "added changeset for"
+          add: ".changeset"
