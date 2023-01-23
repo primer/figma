@@ -24,7 +24,7 @@ jobs:
           node-version: 18.x
 
       - name: Install Dependencies
-        run: yarn      
+        run: npm i
 
       # - name: create changeset
       #   run: |
@@ -40,9 +40,10 @@ jobs:
       #     message: "added temp-api-response.json"
       #     add: "temp-api-response.json"
 
-      - name: create changeset
+      - id: create_changeset
+        name: create changeset
         run: |
-          npm run createChangeset
+          npx ts-node --transpile-only .github/actions/create-changeset.ts
 
       - name: commit to base branch
         uses: EndBug/add-and-commit@v9
