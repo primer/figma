@@ -1,8 +1,6 @@
 # Changelog
 
-## 2023.03
-
-### Primer Web
+## 2023.03 Pimer Web
 
 [Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=14841%3A47461&t=KnZpT9r6BLauBEwf-1)
 
