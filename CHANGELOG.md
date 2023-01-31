@@ -1,6 +1,20 @@
 # Changelog
 
-## 2023.03 Pimer Web
+## @primer/web@2023-01-27
+
+[Figma Link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=1406%3A0&t=Pnea4Mzg34SHusc0-1)
+
+## New components
+- heading
+
+![Heading component](https://user-images.githubusercontent.com/813754/214883019-5baf70cd-3175-46dc-b4f3-ad6c752b3716.png)
+
+## Enhancements
+- simplified cursor component to only have one property
+- added note to indeterminate checkbox to explain why it may look different in your browser
+
+
+## @primer/web@2023-01-19
 
 [Figma link](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=14841%3A47461&t=KnZpT9r6BLauBEwf-1)
 
