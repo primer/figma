@@ -1,5 +1,13 @@
 import type { Template } from './Template'
 
+const hasStyleUpdate = (changes) => {
+  return changes?.createdStyles?.length > 0 || changes?.modifiedStyles?.length > 0 || changes?.deletedStyles?.length > 0
+}
+
+const hasComponentUpdate = (changes) => {
+  return changes?.createdComponents?.length > 0 || changes?.modifiedComponents?.length > 0 || changes?.deletedComponents?.length > 0
+}
+
 export const render: Template = ({ fileInfo, triggeredBy, description, changes }) => `
 ---
 "${fileInfo.package}": minor
@@ -10,36 +18,29 @@ by ${triggeredBy.handle}
 
 ${description ?? ''}
 
-## Component updates
+${hasComponentUpdate(changes) ? `## Component updates` : ''}
 
 ${changes.createdComponents?.map(item => `### [${item.name}](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
-  Created by ${item.lastModifiedBy.handle}  
-
 
   ![Thumbnail for ${item.name}](${item.thumbnailUrl})
 `).join("\n")}
 
 ${changes.modifiedComponents?.map(item => `### [${item.name}](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
-  Modified by ${item.lastModifiedBy.handle}  
-
   
   ![Thumbnail for ${item.name}](${item.thumbnailUrl})
 `).join("\n")}
 
 ${changes.deletedComponents?.map(item => `### [${item.name}](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
-  Removed by ${item.lastModifiedBy.handle}
 `).join("\n")}
 
-## Style updates
+${hasStyleUpdate(changes) ? `## Style updates` : ''}
+
 ${changes.createdStyles?.map(item => `### [${item.name}](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
-  Created by ${item.lastModifiedBy.handle}
 `).join("\n")}
 
 ${changes.modifiedStyles?.map(item => `### [${item.name}](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
-  Modified by ${item.lastModifiedBy.handle}
 `).join("\n")}
 
 ${changes.deletedStyles?.map(item => `### [${item.name}](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
-  Removed by ${item.lastModifiedBy.handle}
 `).join("\n")}
 `
