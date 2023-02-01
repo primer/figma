@@ -26,19 +26,9 @@ jobs:
       - name: Install Dependencies
         run: npm i
 
-      # - name: create changeset
-      #   run: |
-      #     echo "${{ github.event.client_payload.releaseNote }}" > ".changeset/${{ github.event.client_payload.fileInfo.fileName }}-${{ github.event.client_payload.fileInfo.timestamp }}.md"
-
       - name: save API response to temporary json
         run: |
           echo '${{ github.event.client_payload.releaseJson }}' > "temp-api-response.json"
-
-      # - name: commit to base branch
-      #   uses: EndBug/add-and-commit@v9
-      #   with:
-      #     message: "added temp-api-response.json"
-      #     add: "temp-api-response.json"
 
       - id: create_changeset
         name: create changeset
