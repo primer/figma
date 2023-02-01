@@ -2,6 +2,7 @@ export type Template = (args: TemplateArguments) => string
 
 export type TemplateArguments = {
   fileInfo: {
+    package: string,
     fileKey: string;
     fileName: string;
     timestamp: number;
@@ -23,5 +24,8 @@ export type TemplateArguments = {
 
 export type LibraryItemData = {
   key: string
+  file_key: string
   name: string
+  thumbnailUrl: string
+  node_id: string
 }

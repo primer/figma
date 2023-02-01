@@ -8,7 +8,7 @@ const createChangeset = async () => {
   const packageData = packages[parsedJson.fileInfo.fileKey]
 
   if (packageData === undefined) {
-    console.error(`cNo package data defined for library with key: ${parsedJson.fileInfo.fileKey}`)
+    console.error(`No package data defined for library with key: ${parsedJson.fileInfo.fileKey}`)
     return
   }
   // get template
