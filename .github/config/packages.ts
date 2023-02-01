@@ -19,4 +19,8 @@ export const packages: Record<string, { name: string, template: string }> = {
     name: '@primer/octicons',
     template: 'default-release-note'
   },
+  'HD7FUvOEHLtWvWuhu1AUaJ': {
+    name: '@primer/api-test',
+    template: 'default-release-note'
+  },
 }
