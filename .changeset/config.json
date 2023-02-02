@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@2.2.0/schema.json",
-  "changelog": ["@changesets/changelog-github", { "repo": "primer/figma" }],
+  "changelog": ["@changesets/cli/changelog", { "repo": "primer/figma" }],
   "commit": false,
   "fixed": [],
   "linked": [],

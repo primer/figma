@@ -21,7 +21,7 @@ jobs:
           node-version: 18.x
 
       - name: Install Dependencies
-        run: yarn
+        run: npm ci
 
       - name: Create Release Pull Request
         uses: changesets/action@v1
@@ -42,10 +42,10 @@ jobs:
           node-version: 18.x
 
       - name: Install Dependencies
-        run: yarn
+        run: npm ci
 
       - name: Install Octokit
-        run: yarn add @octokit/action
+        run: npm i @octokit/action
 
       - name: Run release script
         run: npx ts-node --transpile-only .github/actions/create-release.ts
