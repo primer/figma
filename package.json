@@ -7,6 +7,9 @@
   },
   "author": "",
   "license": "ISC",
+  "workspaces": [
+    "packages/*"
+  ],
   "bugs": {
     "url": "https://github.com/primer/figma/issues"
   },
