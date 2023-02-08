@@ -14,9 +14,9 @@ export const render: Template = ({ fileInfo, triggeredBy, description, changes }
 ---
 
 # Published ${new Date(fileInfo.timestamp).toLocaleDateString("en-US", {})  /*! transform to real data */}
-by ${triggeredBy.handle}<br /><br />
+by ${triggeredBy.handle}   
 
-${`${description}<br /><br />` ?? ''}
+${`${description}   ` ?? ''}
 
 ${hasComponentUpdate(changes) ? `## Component updates` : ''}
 
