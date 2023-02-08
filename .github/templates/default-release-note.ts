@@ -32,8 +32,9 @@ ${changes.modifiedComponents?.map(item => `### [${item.name} (updated)](https://
 
 ${changes.deletedComponents?.map(item => `### [${item.name} (deleted)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
 `).join("\n")}
-<br>
-${hasStyleUpdate(changes) ? `## Style updates` : ''}\
+<br />
+
+${hasStyleUpdate(changes) ? `## Style updates<br />` : ''}\
 ${changes.createdStyles?.map(item => `- [${item.name} (added)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
 `).join("\n")}
 ${changes.modifiedStyles?.map(item => `- [${item.name} (updated)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
