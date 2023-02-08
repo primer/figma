@@ -16,7 +16,7 @@
   "homepage": "https://github.com/primer/figma#readme",
   "description": "",
   "scripts": {
-    "release": "changeset publish"
+    "release": "echo \"Starting release\""
   },
   "devDependencies": {
     "@actions/github": "^5.1.1",
