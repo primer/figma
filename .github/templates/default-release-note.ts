@@ -14,12 +14,12 @@ export const render: Template = ({ fileInfo, triggeredBy, description, changes }
 ---
 
 # Published ${new Date(fileInfo.timestamp).toLocaleDateString("en-US", {})  /*! transform to real data */}
-by ${triggeredBy.handle}\n\n
+by ${triggeredBy.handle}<br /><br />
 
-${`${description}\n\n` ?? ''}
+${`${description}<br /><br />` ?? ''}
 
 ${hasComponentUpdate(changes) ? `## Component updates` : ''}
-\
+
 ${changes.createdComponents?.map(item => `### [${item.name} (added)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
 
   ![Thumbnail for ${item.name}](${item.thumbnailUrl})
@@ -32,8 +32,8 @@ ${changes.modifiedComponents?.map(item => `### [${item.name} (updated)](https://
 
 ${changes.deletedComponents?.map(item => `### [${item.name} (deleted)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
 `).join("\n")}
-\
-${hasStyleUpdate(changes) ? `## Style updates` : ''}\
+
+${hasStyleUpdate(changes) ? `## Style updates<br />` : ''}\
 ${changes.createdStyles?.map(item => `- [${item.name} (added)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
 `).join("\n")}
 ${changes.modifiedStyles?.map(item => `- [${item.name} (updated)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
