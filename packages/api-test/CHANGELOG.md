@@ -1,5 +1,63 @@
 # @primer/api-test
 
+## 1.2.0
+
+### Minor Changes
+
+47471e6:
+
+# Published 2/8/2023
+
+by Lukas OppermannTest
+
+## Component updates
+
+### [Color=default (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=1:3)
+
+    ![Thumbnail for Color=default](https://s3-alpha.figma.com/checkpoints/w3m/isg/Y22WXBo4CWVMfadc/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3T6QNBUC%2F20230205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230205T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c39d188dc278cec078a221549f3b3c7ff5b44fcccfcd01ec1f0ac21b83f0aaba)
+
+### [Color=Green (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=216:7)
+
+    ![Thumbnail for Color=Green](https://s3-alpha.figma.com/checkpoints/aFC/bU7/cO6doDsLLYwCsSbi/component_thumbnail_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3T6QNBUC%2F20230205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230205T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9260cb54b161fb3d48e11b54e5d993dbe7e20cc0c2b499f02a92c4c5364c64dd)
+
+ba8d336:
+
+# Published 2/8/2023
+
+by Lukas OppermannAdding new component
+
+## Component updates
+
+### [New Component (added)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=226:36)
+
+    ![Thumbnail for New Component](https://s3-alpha.figma.com/checkpoints/IMk/udn/WC6sIrYo0Ev9jCcH/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3T6QNBUC%2F20230205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230205T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a327e20e34410ad03adafc489d2cca0eb2b9fa439813714348fd6ba692ef34cd)
+
+65b3f41:
+
+# Published 2/8/2023
+
+by Lukas Oppermann
+Some update
+
+## Component updates
+
+### [New Component (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=226:36)
+
+    ![Thumbnail for New Component](https://s3-alpha.figma.com/checkpoints/Hdo/Jjr/CYpXaSlyWK36OfKh/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3T6QNBUC%2F20230205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230205T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b43789961f85872c6d59c74438ff601dbfec9adaff18f55cb7a8befb54762eb9)
+
+ea98639:
+
+# Published 2/8/2023
+
+by Lukas Oppermann<br /><br />
+Test<br /><br />
+
+## Component updates
+
+### [New Component (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=226:36)
+
+    ![Thumbnail for New Component](https://s3-alpha.figma.com/checkpoints/ZYw/uAR/jeO0sXxqPJkkaLse/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3T6QNBUC%2F20230205%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230205T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=addc5828cc9f0877548aa7899431ee07da9e23d976a50dfb99c77aa38bcb2d62)
+
 ## 1.1.0
 
 ### Minor Changes
