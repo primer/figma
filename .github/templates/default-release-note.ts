@@ -14,10 +14,10 @@ export const render: Template = ({ fileInfo, triggeredBy, description, changes }
 ---
 
 # Published ${new Date(fileInfo.timestamp).toLocaleDateString("en-US", {})  /*! transform to real data */}
-by ${triggeredBy.handle}\
-\
-${description ?? ''}
-\
+by ${triggeredBy.handle}\n\n
+
+${`${description}\n\n` ?? ''}
+
 ${hasComponentUpdate(changes) ? `## Component updates` : ''}
 \
 ${changes.createdComponents?.map(item => `### [${item.name} (added)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
