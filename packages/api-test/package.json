@@ -1,5 +1,6 @@
 {
   "name": "@primer/api-test",
+  "private": true,
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
