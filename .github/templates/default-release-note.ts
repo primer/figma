@@ -13,27 +13,27 @@ export const render: Template = ({ fileInfo, triggeredBy, description, changes }
 "${fileInfo.package}": minor
 ---
 
-# Published ${new Date(fileInfo.timestamp).toLocaleDateString("en-US", {})  /*! transform to real data */}
+## Published ${new Date(fileInfo.timestamp).toLocaleDateString("en-US", {})  /*! transform to real data */}
 by ${triggeredBy.handle}   
 
 ${`${description}   ` ?? ''}
 
-${hasComponentUpdate(changes) ? `## Component updates` : ''}
+${hasComponentUpdate(changes) ? `### Component updates` : ''}
 
-${changes.createdComponents?.map(item => `### [${item.name} (added)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
+${changes.createdComponents?.map(item => `#### [${item.name} (added)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
 
   ![Thumbnail for ${item.name}](${item.thumbnailUrl})
 `).join("\n")}
 
-${changes.modifiedComponents?.map(item => `### [${item.name} (updated)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
+${changes.modifiedComponents?.map(item => `#### [${item.name} (updated)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
   
   ![Thumbnail for ${item.name}](${item.thumbnailUrl})
 `).join("\n")}
 
-${changes.deletedComponents?.map(item => `### [${item.name} (deleted)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
+${changes.deletedComponents?.map(item => `#### [${item.name} (deleted)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
 `).join("\n")}
 
-${hasStyleUpdate(changes) ? `## Style updates<br />` : ''}\
+${hasStyleUpdate(changes) ? `### Style updates<br />` : ''}\
 ${changes.createdStyles?.map(item => `- [${item.name} (added)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
 `).join("\n")}
 ${changes.modifiedStyles?.map(item => `- [${item.name} (updated)](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
