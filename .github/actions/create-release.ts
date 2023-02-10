@@ -72,7 +72,7 @@ export function getChangelogEntry(changelog: string, version: string) {
 
 const createRelease = async (
   octokit: ReturnType<typeof github.getOctokit>,
-  { pkg, tagName }: { pkg: Package; tagName: string }
+  { pkg, tagName, name }: { pkg: Package; tagName: string, name?: string }
 ) => {
   try {
     let changelogFileName = path.join(pkg.dir, "CHANGELOG.md");
@@ -100,7 +100,7 @@ const createRelease = async (
             if (error.status === 404) {
               console.log(`Tag ${tagName} does not exist`);
               await octokit.rest.repos.createRelease({
-                name: tagName,
+                name: name || tagName,
                 tag_name: tagName,
                 body: changelogEntry.content,
                 prerelease: pkg.packageJson.version.includes("-"),
@@ -128,7 +128,10 @@ const pkg = {
   dir: path.join(__dirname, "../../"),
 };
 
+const dateNow = new Date().toLocaleDateString('de-DE').replace(/\./g, '-');
+
 createRelease(octokit, {
   pkg,
   tagName: `${pkg.packageJson.name}@${pkg.packageJson.version}`,
+  name: `${pkg.packageJson.name} ${dateNow}`
 });
