@@ -1,5 +1,41 @@
 # @primer/api-test
 
+## 1.2.0
+
+### Minor Changes
+
+## Published 2/9/2023
+
+by Lukas Oppermann
+
+### Component updates
+
+#### [New Component (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=226:36)
+
+    ![Thumbnail for New Component](https://s3-alpha.figma.com/checkpoints/z8x/kON/uQiify4U2axKWwOz/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3T6QNBUC%2F20230209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230209T000000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=abf32498f8210bb1ef5bfe1aa29224004cb1f315276a8b7f2ef57bd9bb8c14d3)
+
+## Published 2/9/2023
+
+by Lukas Oppermann
+Done
+
+### Component updates
+
+#### [New Component (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=226:36)
+
+    ![Thumbnail for New Component](https://s3-alpha.figma.com/checkpoints/T7J/nMA/6RvfRrr7ttDRaybp/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3T6QNBUC%2F20230209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230209T000000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6c271edfcb9275256469ab95538be781d635ed82787dfa972b7c8db330515956)
+
+## Published 2/10/2023
+
+by Lukas Oppermann
+Testing
+
+### Component updates
+
+#### [New Component (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=226:36)
+
+    ![Thumbnail for New Component](https://s3-alpha.figma.com/checkpoints/T26/kMr/k18JAe1QAlYNQ4Lm/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3T6QNBUC%2F20230209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230209T000000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7985ee7d65b0ccee4e20c621a288ef3a3e8aa5202d2d46780306fed3ae02ffe8)
+
 ## 1.1.0
 
 ### Minor Changes
