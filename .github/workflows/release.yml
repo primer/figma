@@ -26,7 +26,7 @@ jobs:
           node-version: 18.x
 
       - name: Install Dependencies
-        run: npm ci
+        run: npm i
 
       - name: Create Release Pull Request or create GitHub release
         id: changesets
