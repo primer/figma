@@ -1,5 +1,39 @@
 # @primer/api-test
 
+## 1.3.0
+
+### Minor Changes
+
+## Published 2/13/2023
+
+by Lukas Oppermann
+Test
+
+### Component updates
+
+#### [ActionMenu (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=216:18)
+
+    ![Thumbnail for ActionMenu](https://s3-alpha.figma.com/checkpoints/XAw/0q2/lNumebUlPTlzKXY4/component_thumbnail_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3T6QNBUC%2F20230212%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230212T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8efa8d6900704ecb243264e053d2265e9276a34e747903122e7ddc3de3a15f44)
+
+#### [New Component (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=226:36)
+
+    ![Thumbnail for New Component](https://s3-alpha.figma.com/checkpoints/HUq/DOi/KQ6uTCDPsPGcNkSg/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3T6QNBUC%2F20230212%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230212T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=96b88d595ec739d99a0e0f37df10a9856a85cefeca3fad4e6ba6fcf3150d68c8)
+
+## Published 2/13/2023
+
+by Lukas Oppermann
+Test
+
+### Component updates
+
+#### [ActionMenu (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=216:18)
+
+    ![Thumbnail for ActionMenu](https://s3-alpha.figma.com/checkpoints/LsI/Zna/fc21WfbgbNLK1uHH/component_thumbnail_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3T6QNBUC%2F20230212%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230212T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2f16140385bb31a57da9abd0f9d75799ee05b072c7195f327b82eb399e9d7896)
+
+#### [New Component (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=226:36)
+
+    ![Thumbnail for New Component](https://s3-alpha.figma.com/checkpoints/GTI/DBq/K8AsSehGJDT0YJRj/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC3T6QNBUC%2F20230212%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230212T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=43320e1472c8dfc29d0f64d1edaf1e14158fedc6d1790f5bf79c4c6a586e4b66)
+
 ## 1.2.0
 
 ### Minor Changes
