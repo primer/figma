@@ -5,6 +5,10 @@ on:
     workflows: [Figma release]
     types:
       - completed
+  pull_request:
+    branches: 
+      - main
+    types: [closed]
 
 concurrency: ${{ github.workflow }}-${{ github.ref }}
 
