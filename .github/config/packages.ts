@@ -15,8 +15,12 @@ export const packages: Record<string, { name: string, template: string }> = {
     name: '@primer/interfaces',
     template: 'default-release-note'
   },
-  '1ljgTFkT5NKNRfq5hw07JQ': {
-    name: '@primer/octicons',
+  '9vhDNyQpOono1vgi0qSViZ': {
+    name: '@primer/primitives-light',
+    template: 'default-release-note'
+  },
+  'EQ1q7R5qtk6gqJLxEx0QHf': {
+    name: '@primer/primitives-dark',
     template: 'default-release-note'
   },
   'HD7FUvOEHLtWvWuhu1AUaJ': {
