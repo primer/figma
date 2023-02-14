@@ -1,11 +1,16 @@
+# @primer/primitives-dark
 
----
-"@primer/primitives-dark": minor
----
+## 1.1.0
+
+### Minor Changes
+
 ## Published 2/14/2023
-by Lukas Oppermann   
-Same here, does this update look legit?   
+
+by Lukas Oppermann
+Same here, does this update look legit?
+
 ### Style updates<br />- [switch-knob/disabled-bg (added)](https://www.figma.com/file/EQ1q7R5qtk6gqJLxEx0QHf?node-id=2313:841)
+
 - [switch-track/hover-bg (added)](https://www.figma.com/file/EQ1q7R5qtk6gqJLxEx0QHf?node-id=2313:790)
 - [control/border-color/emphasis (added)](https://www.figma.com/file/EQ1q7R5qtk6gqJLxEx0QHf?node-id=2313:465)
 - [switch-knob/bg (added)](https://www.figma.com/file/EQ1q7R5qtk6gqJLxEx0QHf?node-id=2313:833)
