@@ -1,5 +1,41 @@
 # @primer/api-test
 
+## 1.8.0
+
+### Minor Changes
+
+- ## Published 2/15/2023
+
+  by Lukas Oppermann
+  New Test
+
+  ### Component updates
+
+  #### [Circle (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=3:8)
+
+  ![Thumbnail for Circle](https://s3-alpha.figma.com/checkpoints/Odc/pp1/UJX1Lx6pfIoaRcR4/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC2XFMBUWK%2F20230212%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230212T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=db78db831dd2ee1cace748252ab164128a0d4e6f41739b93b468b1eb40ddfdad)
+
+- ## Published 2/15/2023
+
+  by Lukas Oppermann
+  Test
+
+  ### Component updates
+
+  #### [Circle (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=3:8)
+
+  ![Thumbnail for Circle](https://s3-alpha.figma.com/checkpoints/sGp/FB0/czNx0UJP2GKZKcAi/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC2XFMBUWK%2F20230212%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230212T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=9fe4fae7345f68757158aa96140007a9c64da6daebb9201a54fcb0490e6f430f)
+
+- ## Published 2/15/2023
+
+  by Lukas Oppermann
+
+  ### Component updates
+
+  #### [Circle (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=3:8)
+
+  ![Thumbnail for Circle](https://s3-alpha.figma.com/checkpoints/y48/T5h/hjmyRc0UG1DAxj92/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC2XFMBUWK%2F20230212%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230212T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a220ca57333329e12847300f2d7e0085d49c8b8cbd324ec55909088d63225e38)
+
 ## 1.7.0
 
 ### Minor Changes
