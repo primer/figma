@@ -24,7 +24,7 @@ export const packages: Record<string, { name: string, template: string }> = {
     template: 'default-release-note'
   },
   'HD7FUvOEHLtWvWuhu1AUaJ': {
-    name: '@primer/api-test',
+    name: '@primer/figma-api-test',
     template: 'default-release-note'
   },
 }
