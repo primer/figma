@@ -1,6 +1,9 @@
 {
   "name": "primer-figma",
   "version": "0.3.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/primer/figma.git"
@@ -16,7 +19,7 @@
   "homepage": "https://github.com/primer/figma#readme",
   "description": "",
   "scripts": {
-    "release": "echo \"Starting release\""
+    "release": "changeset publish"
   },
   "devDependencies": {
     "@actions/github": "^5.1.1",

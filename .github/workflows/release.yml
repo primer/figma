@@ -6,7 +6,7 @@ on:
     types:
       - completed
   pull_request:
-    branches: 
+    branches:
       - main
     types: [closed]
 
@@ -30,10 +30,11 @@ jobs:
 
       - name: Create Release Pull Request or create GitHub release
         id: changesets
-        uses: rezrah/changeset-action@main
+        uses: changesets/action@e9cc34b540dd3ad1b030c57fd97269e8f6ad905a
         with:
           # This expects you to have a script called release which does a build for your packages and calls changeset publish
           publish: yarn release
           skipNpmPublish: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.GPR_AUTH_TOKEN_SHARED }}
