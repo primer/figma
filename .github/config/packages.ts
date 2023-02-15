@@ -1,4 +1,4 @@
-export const packages: Record<string, { name: string, template: string }> = {
+export const packages: Record<string, { name: string, template: string, dir: string }> = {
   'GCvY3Qv8czRgZgvl1dG6lp': {
     name: '@primer/figma-web',
     template: 'default-release-note'
@@ -25,6 +25,7 @@ export const packages: Record<string, { name: string, template: string }> = {
   },
   'HD7FUvOEHLtWvWuhu1AUaJ': {
     name: '@primer/figma-api-test',
-    template: 'default-release-note'
+    template: 'default-release-note',
+    dir: 'api-test'
   },
 }

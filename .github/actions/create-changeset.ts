@@ -17,7 +17,7 @@ const createChangeset = async () => {
   parsedJson.fileInfo.package = packageData.name 
   // build changeset
   const changeset = render(parsedJson).replace(/\n{2,}/g, "\n")
-  writeFileSync(`.changeset/${parsedJson.fileInfo.fileName}-${parsedJson.fileInfo.timestamp}.md`, changeset)
+  writeFileSync(`packages/${packageData.dir}/.changeset/${parsedJson.fileInfo.fileName}-${parsedJson.fileInfo.timestamp}.md`, changeset)
 }
 
 createChangeset()
