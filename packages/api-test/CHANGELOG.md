@@ -1,5 +1,20 @@
 # @primer/api-test
 
+## 1.6.0
+
+### Minor Changes
+
+## Published 2/15/2023
+
+by Lukas Oppermann
+Testing
+
+### Component updates
+
+#### [Circle (updated)](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=3:8)
+
+    ![Thumbnail for Circle](https://s3-alpha.figma.com/checkpoints/HiQ/3np/FGITpGRkgMjqRUCO/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC2XFMBUWK%2F20230212%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230212T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d9dbbe6608c0034d7e2ee1102faf41ef6db18ccaf3ae68c1e14d461d5c6dc8a5)
+
 ## 1.5.0
 
 ### Minor Changes
