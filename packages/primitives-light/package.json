@@ -1,6 +1,14 @@
 {
   "name": "@primer/figma-primitives-light",
   "version": "1.0.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primer/figma.git",
+    "directory": "packages/primitives-light"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {

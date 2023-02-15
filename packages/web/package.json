@@ -1,6 +1,14 @@
 {
   "name": "@primer/figma-web",
   "version": "1.2.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/primer/figma.git",
+    "directory": "packages/web"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
