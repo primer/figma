@@ -1,5 +1,29 @@
 # @primer/api-test
 
+## 1.8.0
+
+### Minor Changes
+
+#### Published 2/17/2023
+
+by Lukas Oppermann
+
+Does it work now?
+
+### Component updates
+
+#### [Rectangle (Color=default) [updated]](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=1:3)
+
+![Thumbnail for Rectangle (Color=default)](https://s3-alpha.figma.com/checkpoints/Kdc/JLm/v1uWy2cmgznxpUWx/component_thumbnail_2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC2XFMBUWK%2F20230216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230216T000000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3c7b2b0a39f2e7d307866cd833d68b83aa60e1674b2de7b84d407e01d3d8980d)
+
+#### [Rectangle (Color=purple) [updated]](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=269:9)
+
+![Thumbnail for Rectangle (Color=purple)](https://s3-alpha.figma.com/checkpoints/vUL/0xE/JB6fea6zTXjwzRam/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC2XFMBUWK%2F20230216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230216T000000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b3e35d767d3cc9b862a92412efed594cf588707ee23ab08be0f3593f46e1c79c)
+
+#### [Rectangle (Color=Green) [updated]](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=216:7)
+
+![Thumbnail for Rectangle (Color=Green)](https://s3-alpha.figma.com/checkpoints/3mx/DUU/5oFQyJFhAFi4wS3V/component_thumbnail_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC2XFMBUWK%2F20230216%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230216T000000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ad9a0287ab5c18569ca2753a2823c5016f9b6ee25ce56598f39889a4dd213841)
+
 ## 1.7.0
 
 ### Minor Changes
