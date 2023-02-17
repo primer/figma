@@ -4,10 +4,12 @@ name: Figma release
 on:
   repository_dispatch:
     type: figma-release
-env:
-  payload: ${{toJSON(github.event.client_payload.release)}}
+
 jobs:
   build:
+    env:
+      BRANCH: 'figma-${{ fromJSON(github.event.client_payload.releaseJson).fileInfo.fileName }}'
+      LIBRARY: fromJSON(github.event.client_payload.releaseJson).fileInfo.fileName
     # the name for the entire job
     name: Create new primer/figma release
     # we run this on ubuntu, leave this alone, if you don't have a good reason to change it
@@ -40,3 +42,9 @@ jobs:
         with:
           message: "added changeset for"
           add: ".changeset"
+          new_branch: ${{env.BRANCH}}
+
+      - name: create pull request
+        run: gh pr create -B main -H ${{env.BRANCH}} --title 'Release for ${{env.LIBRARY}}' --body 'Merge this to create a new release for ${{env.LIBRARY}}.'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
