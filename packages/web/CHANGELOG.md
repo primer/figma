@@ -1,5 +1,23 @@
 # @primer/web
 
+## 1.3.0
+
+### Minor Changes
+
+## Published 2/17/2023
+
+by Lukas Oppermann
+
+### Component updates
+
+#### [Remove emoji from property name of IssueLabel (updated)](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp?node-id=10490:36970)
+
+- renamed property `❌remove?` to `remove?`
+
+#### [ToggleSwitch (updated)](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=13518%3A50189&t=MrwVxOuVu47qG4vw-1)
+
+![219399763-a890e7bd-0b46-414e-a944-5674cfc22fc7](https://user-images.githubusercontent.com/813754/219656846-02c6f967-4c0f-4fcb-801e-fc4899ac22d8.jpg)
+
 ## 1.2.0
 
 ### Minor Changes
