@@ -2,14 +2,14 @@ const getReleaseLine = async (
   changeset,
   _type
 ) => {
-  const [...commitLines] = changeset.summary
+  const [firstLine, ...futureLines] = changeset.summary
     .split("\n")
     .map((l) => l.trimRight());
 
-  let returnVal = ``;
+  let returnVal = `${firstLine}`;
 
-  if (commitLines.length > 0) {
-    returnVal += `\n${commitLines.map((l) => `  ${l}`).join("\n")}`;
+  if (futureLines.length > 0) {
+    returnVal += `\n${futureLines.map((l) => `${l}`).join("\n")}`;
   }
 
   return returnVal;
