@@ -4,8 +4,6 @@ name: Figma release
 on:
   repository_dispatch:
     type: figma-release
-env:
-  payload: ${{toJSON(github.event.client_payload.releaseJson)}}
 jobs:
   build:
     # the name for the entire job
@@ -40,4 +38,4 @@ jobs:
         with:
           message: "added changeset for"
           add: ".changeset"
-          new_branch: 'figma-${{ toJSON(github.event.client_payload.releaseJson).fileInfo.fileName }}'
+          new_branch: 'figma-${{ github.event.client_payload.releaseJson.fileInfo.fileName }}'
