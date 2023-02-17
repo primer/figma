@@ -40,4 +40,4 @@ jobs:
         with:
           message: "added changeset for"
           add: ".changeset"
-          new_branch: figma-{{ toJSON(github.event.client_payload.releaseJson).fileInfo.fileName }}
+          new_branch: 'figma-${{ toJSON(github.event.client_payload.releaseJson).fileInfo.fileName }}'
