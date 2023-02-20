@@ -1,5 +1,28 @@
 # @primer/api-test
 
+## 1.12.0
+
+### Minor Changes
+
+- Published 2/20/2023
+  by Lukas Oppermann
+
+Test
+
+- Component updates
+
+#### [Rectangle (Color=default) [updated]](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=1:3)
+
+![Thumbnail for Rectangle (Color=default)](https://s3-alpha.figma.com/checkpoints/Nlk/Cse/STuOc1EOgJ9BJijt/component_thumbnail_2.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC2XFMBUWK%2F20230219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230219T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e4d6ddca7f6b5093c346599b917c5ed0f005c4bdd53aa57bbecbc821de9e9180)
+
+#### [Rectangle (Color=purple) [updated]](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=269:9)
+
+![Thumbnail for Rectangle (Color=purple)](https://s3-alpha.figma.com/checkpoints/n4k/uFP/TvrLtGe4g84LKa1y/component_thumbnail_0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC2XFMBUWK%2F20230219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230219T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=90ceb8e3018815ad51734b334fef4a1bf2e812d34ee0c8a4126b038e6e15d815)
+
+#### [Rectangle (Color=Green) [updated]](https://www.figma.com/file/HD7FUvOEHLtWvWuhu1AUaJ?node-id=216:7)
+
+![Thumbnail for Rectangle (Color=Green)](https://s3-alpha.figma.com/checkpoints/tys/ROS/0QfHXa0JfGnk8UNE/component_thumbnail_1.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQ4GOSFWC2XFMBUWK%2F20230219%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230219T120000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c4854caf330fe7ccfae6f0ed393ae2d93f72f2eba09bebca58c5a07077723e07)
+
 ## 1.11.0
 
 ### Minor Changes
