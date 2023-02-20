@@ -13,7 +13,7 @@ export const render: Template = ({ fileInfo, triggeredBy, description, changes }
 "${fileInfo.package}": minor
 ---
 
-#### Published ${new Date(fileInfo.timestamp).toLocaleDateString("en-US", {})  /*! transform to real data */}
+## Published ${new Date(fileInfo.timestamp).toLocaleDateString("en-US", {})  /*! transform to real data */}
 by ${triggeredBy.handle}${"\n\n"}    
   
 ${`${description}   ` ?? ''}
