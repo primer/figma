@@ -18,19 +18,19 @@ by ${triggeredBy.handle}${"\n\n"}
   
 ${`${description}   ` ?? ''}
   
-${hasComponentUpdate(changes) ? `- Component updates` : ''}
+${hasComponentUpdate(changes) ? `### Component updates` : ''}
 
-${changes.createdComponents?.map(item => `#### [${item.name} [added]](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
+${changes.createdComponents?.map(item => `- [**${item.name} [added]**](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
 
 ![Thumbnail for ${item.name}](${item.thumbnailUrl})
 `).join("\n")}
 
-${changes.modifiedComponents?.map(item => `#### [${item.name} [updated]](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
+${changes.modifiedComponents?.map(item => `- [**${item.name} [updated]**](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
   
 ![Thumbnail for ${item.name}](${item.thumbnailUrl})
 `).join("\n")}
 
-${changes.deletedComponents?.map(item => `#### [${item.name} [deleted]](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
+${changes.deletedComponents?.map(item => `- [**${item.name} [deleted]**](https://www.figma.com/file/${item.file_key}?node-id=${item.node_id})
 `).join("\n")}
 
 ${hasStyleUpdate(changes) ? `### Style updates
