@@ -13,19 +13,36 @@ export type TemplateArguments = {
     handle: string;
   };
   changes: {
-    createdStyles: LibraryItemData[];
-    deletedStyles: LibraryItemData[];
-    modifiedStyles: LibraryItemData[];
-    createdComponents: LibraryItemData[];
-    deletedComponents: LibraryItemData[];
-    modifiedComponents: LibraryItemData[];
+    componentSets: ComponentSetData[];
+    styles: StyleItemData[];
   };
 }
 
-export type LibraryItemData = {
+export type ComponentSetData = {
+  setId: string,
+  setName: string,
+  components: ComponentItemData[]
+}
+
+export type GenericItemData = {
   key: string
   file_key: string
+  state: "created" | "modified" | "deleted",
   name: string
   thumbnailUrl: string
   node_id: string
+  description: string
+  lastModifiedBy: {
+    id: string,
+    handle: string,
+    img_url: string
+  },
+}
+
+export type ComponentItemData = GenericItemData & {
+  setName: string
+  setId: string
+}
+export type StyleItemData = GenericItemData & {
+  style_type: string
 }
