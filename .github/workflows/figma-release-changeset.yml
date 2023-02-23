@@ -9,6 +9,7 @@ jobs:
   build:
     env:
       BRANCH: 'figma-${{ fromJSON(github.event.client_payload.releaseJson).fileInfo.fileName }}'
+      LIBRARY: '${{fromJSON(github.event.client_payload.releaseJson).fileInfo.fileName}}'
       PR_BODY: 'Merge this to create a new release for ${{fromJSON(github.event.client_payload.releaseJson).fileInfo.fileName}}.'
       PR_TITLE: 'Release for ${{fromJSON(github.event.client_payload.releaseJson).fileInfo.fileName}}'
     # the name for the entire job
@@ -41,7 +42,7 @@ jobs:
       - name: commit to base branch
         uses: EndBug/add-and-commit@v9
         with:
-          message: "added changeset for"
+          message: "added changeset for ${{ env.LIBRARY }}"
           add: ".changeset"
           new_branch: ${{env.BRANCH}}
 
