@@ -1,5 +1,6 @@
 import { readFileSync, writeFileSync } from 'fs';
 import { packages } from '../config/packages'
+import { v4 as uuidv4 } from 'uuid';
 
 const createChangeset = async () => {
   const figmaJson = readFileSync('./temp-api-response.json')
@@ -17,7 +18,7 @@ const createChangeset = async () => {
   parsedJson.fileInfo.package = packageData.name 
   // build changeset
   const changeset = render(parsedJson).replace(/\n{2,}/g, "\n")
-  writeFileSync(`.changeset/${parsedJson.fileInfo.fileName}-${parsedJson.fileInfo.timestamp}.md`, changeset)
+  writeFileSync(`.changeset/${parsedJson.fileInfo.fileName}-${uuidv4()}.md`, changeset)
 }
 
 createChangeset()
