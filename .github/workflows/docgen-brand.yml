@@ -2,6 +2,7 @@ name: Docgen Primer Brand
 
 on:
   workflow_dispatch:
+  push:
 
 jobs:
   generate-components-json:
