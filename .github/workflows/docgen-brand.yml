@@ -4,12 +4,16 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main    
+      - main
 
 jobs:
   generate-components-json:
-    name: Version
+    name: Generate Primer Brand components json
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      FIGMA_API_TOKEN: ${{ secrets.FIGMA_API_TOKEN }}
+
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
@@ -27,7 +31,4 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: 'Update packages/brand/generated/components.json'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          FIGMA_API_TOKEN: ${{ secrets.FIGMA_API_TOKEN }}
+          commit_message: "Update packages/brand/generated/components.json"
