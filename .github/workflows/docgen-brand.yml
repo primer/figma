@@ -5,6 +5,8 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '0 0 * * *' # Every day at midnight UTC time
 
 jobs:
   generate-components-json:
