@@ -3,6 +3,8 @@ name: Docgen Primer Web
 on:
   workflow_dispatch:
   push:
+    branches:
+      - main
 
 jobs:
   generate-components-json:
