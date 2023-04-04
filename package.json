@@ -28,7 +28,7 @@
     "@changesets/cli": "^2.25.2",
     "@changesets/types": "^5.2.1",
     "@manypkg/get-packages": "^1.1.3",
-    "@primer/figma-library-docgen": "^0.5.2",
+    "@primer/figma-library-docgen": "^0.5.5",
     "@types/node": "^18.11.18",
     "mdast-util-to-string": "^1.0.6",
     "remark-parse": "^7.0.1",
