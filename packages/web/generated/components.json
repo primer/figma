@@ -478,20 +478,7 @@
           "name": "description",
           "type": "INSTANCE_SWAP",
           "defaultValue": "Description/Danger/none",
-          "values": [
-            {
-              "type": "COMPONENT",
-              "key": "e307657309d6f602c49e0e4d031fe0873a7ab5ca"
-            },
-            {
-              "type": "COMPONENT",
-              "key": "f226745e1a25e228fb3627ea400e2b0f2bd53a2a"
-            },
-            {
-              "type": "COMPONENT",
-              "key": "4cfc275bd4dbbc31890397cc01ca7850ac7373ce"
-            }
-          ]
+          "values": []
         },
         {
           "name": "divider?",
@@ -608,20 +595,7 @@
           "name": "description",
           "type": "INSTANCE_SWAP",
           "defaultValue": "Description/none",
-          "values": [
-            {
-              "type": "COMPONENT",
-              "key": "409a37c99656379549196dc6a68f38c655fdf5d4"
-            },
-            {
-              "type": "COMPONENT",
-              "key": "9c65d3a85f0fb6ff90d4df5e6f378fbc9f97a4b5"
-            },
-            {
-              "type": "COMPONENT",
-              "key": "5255edaf420480c3635ebd03f2c37de2854912a6"
-            }
-          ]
+          "values": []
         },
         {
           "name": "divider?",
@@ -4444,12 +4418,7 @@
           "name": "icon",
           "type": "INSTANCE_SWAP",
           "defaultValue": "EXTERNAL_COMPONENT",
-          "values": [
-            {
-              "type": "COMPONENT",
-              "key": "7db441bc276f9ad1c36cf13b05072c16397bb471"
-            }
-          ]
+          "values": []
         },
         {
           "name": "trailingVisual?",
@@ -12875,20 +12844,7 @@
           "name": "description",
           "type": "INSTANCE_SWAP",
           "defaultValue": "Description/none",
-          "values": [
-            {
-              "type": "COMPONENT",
-              "key": "409a37c99656379549196dc6a68f38c655fdf5d4"
-            },
-            {
-              "type": "COMPONENT",
-              "key": "9c65d3a85f0fb6ff90d4df5e6f378fbc9f97a4b5"
-            },
-            {
-              "type": "COMPONENT",
-              "key": "5255edaf420480c3635ebd03f2c37de2854912a6"
-            }
-          ]
+          "values": []
         },
         {
           "name": "divider?",
@@ -25781,24 +25737,7 @@
           "name": "trailingVisual",
           "type": "INSTANCE_SWAP",
           "defaultValue": "EXTERNAL_COMPONENT",
-          "values": [
-            {
-              "type": "COMPONENT",
-              "key": "31fb5ba3a5d99b76d5c40b6afb3a7025ebfa6637"
-            },
-            {
-              "type": "COMPONENT",
-              "key": "c84d89051a3a7649fbfdfe328c8991775e79cede"
-            },
-            {
-              "type": "COMPONENT",
-              "key": "a63928690869caaa0cf45849391532e34a76279e"
-            },
-            {
-              "type": "COMPONENT",
-              "key": "8e91557ba467d14d48b928cb9efb9b5181554bca"
-            }
-          ]
+          "values": []
         },
         {
           "name": "dropdown?",
@@ -56360,20 +56299,7 @@
           "name": "description",
           "type": "INSTANCE_SWAP",
           "defaultValue": "Description/none",
-          "values": [
-            {
-              "type": "COMPONENT",
-              "key": "409a37c99656379549196dc6a68f38c655fdf5d4"
-            },
-            {
-              "type": "COMPONENT",
-              "key": "9c65d3a85f0fb6ff90d4df5e6f378fbc9f97a4b5"
-            },
-            {
-              "type": "COMPONENT",
-              "key": "5255edaf420480c3635ebd03f2c37de2854912a6"
-            }
-          ]
+          "values": []
         },
         {
           "name": "divider?",
@@ -57617,586 +57543,6 @@
       ],
       "thumbnails": [
         {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/07e06f8d-d333-483d-9092-80b890b46b06",
-          "props": [
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "type",
-              "value": "default"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            },
-            {
-              "name": "type",
-              "value": "default"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/361a21f9-b5a4-47e3-aa71-74810e864095",
-          "props": [
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "type",
-              "value": "default"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            },
-            {
-              "name": "type",
-              "value": "default"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a7486c3f-a06b-47f5-9100-6f7463e896ad",
-          "props": [
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e5134b32-5f30-46bd-8b25-76a8049c0969",
-          "props": [
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/854eb7c5-4a48-4e76-8a15-7401f5a1dd74",
-          "props": [
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/64d7dc7a-fc6f-4bfc-90c1-f3dc8ea7608c",
-          "props": [
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cd48a241-df11-4537-8506-ec60c289ecbc",
-          "props": [
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "type",
-              "value": "error"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            },
-            {
-              "name": "type",
-              "value": "error"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6ae2bdea-87f4-40ff-b75d-1e61cc97c237",
-          "props": [
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "type",
-              "value": "error"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            },
-            {
-              "name": "type",
-              "value": "error"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/159cdf8a-58ad-4d6d-87e6-fac86d1ffcf9",
-          "props": [
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "type",
-              "value": "loading"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            },
-            {
-              "name": "type",
-              "value": "loading"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9f9f3a33-cc5a-4175-b27f-6f840e65cc52",
-          "props": [
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "type",
-              "value": "loading"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            },
-            {
-              "name": "type",
-              "value": "loading"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7e000b46-6238-4364-b755-43d4f4f32f21",
-          "props": [
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "default"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            },
-            {
-              "name": "type",
-              "value": "default"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f9e8f08a-2218-4ce2-ae78-ee0d987e19eb",
-          "props": [
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "default"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            },
-            {
-              "name": "type",
-              "value": "default"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/85d62a4e-72db-4845-8607-bb1805f0737b",
-          "props": [
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fa2c9f3d-b851-40e3-b9b7-291a6d46e5c8",
-          "props": [
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d3558063-a505-4cab-81fb-8908e2e05fc7",
-          "props": [
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ed737701-b8e3-4952-a76b-d4edc9b61d64",
-          "props": [
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e0e3637d-d8ec-44c9-80ca-61a116a0e23a",
-          "props": [
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "error"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            },
-            {
-              "name": "type",
-              "value": "error"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a730168b-f727-41a0-a2ed-f57bfec5ebbb",
-          "props": [
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "error"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            },
-            {
-              "name": "type",
-              "value": "error"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/caa600d2-98f2-4204-b11c-9d9498e2f636",
-          "props": [
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "loading"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            },
-            {
-              "name": "type",
-              "value": "loading"
-            },
-            {
-              "name": "expand direction",
-              "value": "↔️ horizontal"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/12a41de4-a4f8-4a2b-a230-0c5946cf98b7",
-          "props": [
-            {
-              "name": "message",
-              "value": "Message"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "loading"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            },
-            {
-              "name": "type",
-              "value": "loading"
-            },
-            {
-              "name": "expand direction",
-              "value": "↕️ vertical"
-            }
-          ]
-        },
-        {
           "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/61af1925-8399-4cea-834b-c13f908bf284",
           "props": [
             {
@@ -58749,6 +58095,586 @@
         },
         {
           "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/75579994-36c9-4644-bd45-8ea12ad48e79",
+          "props": [
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "loading"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            },
+            {
+              "name": "type",
+              "value": "loading"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/07e06f8d-d333-483d-9092-80b890b46b06",
+          "props": [
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "type",
+              "value": "default"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            },
+            {
+              "name": "type",
+              "value": "default"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/361a21f9-b5a4-47e3-aa71-74810e864095",
+          "props": [
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "type",
+              "value": "default"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            },
+            {
+              "name": "type",
+              "value": "default"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a7486c3f-a06b-47f5-9100-6f7463e896ad",
+          "props": [
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e5134b32-5f30-46bd-8b25-76a8049c0969",
+          "props": [
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/854eb7c5-4a48-4e76-8a15-7401f5a1dd74",
+          "props": [
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/64d7dc7a-fc6f-4bfc-90c1-f3dc8ea7608c",
+          "props": [
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cd48a241-df11-4537-8506-ec60c289ecbc",
+          "props": [
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "type",
+              "value": "error"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            },
+            {
+              "name": "type",
+              "value": "error"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6ae2bdea-87f4-40ff-b75d-1e61cc97c237",
+          "props": [
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "type",
+              "value": "error"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            },
+            {
+              "name": "type",
+              "value": "error"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/159cdf8a-58ad-4d6d-87e6-fac86d1ffcf9",
+          "props": [
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "type",
+              "value": "loading"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            },
+            {
+              "name": "type",
+              "value": "loading"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9f9f3a33-cc5a-4175-b27f-6f840e65cc52",
+          "props": [
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "type",
+              "value": "loading"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            },
+            {
+              "name": "type",
+              "value": "loading"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7e000b46-6238-4364-b755-43d4f4f32f21",
+          "props": [
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "default"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            },
+            {
+              "name": "type",
+              "value": "default"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f9e8f08a-2218-4ce2-ae78-ee0d987e19eb",
+          "props": [
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "default"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            },
+            {
+              "name": "type",
+              "value": "default"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/85d62a4e-72db-4845-8607-bb1805f0737b",
+          "props": [
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fa2c9f3d-b851-40e3-b9b7-291a6d46e5c8",
+          "props": [
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d3558063-a505-4cab-81fb-8908e2e05fc7",
+          "props": [
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ed737701-b8e3-4952-a76b-d4edc9b61d64",
+          "props": [
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e0e3637d-d8ec-44c9-80ca-61a116a0e23a",
+          "props": [
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "error"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            },
+            {
+              "name": "type",
+              "value": "error"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a730168b-f727-41a0-a2ed-f57bfec5ebbb",
+          "props": [
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "error"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            },
+            {
+              "name": "type",
+              "value": "error"
+            },
+            {
+              "name": "expand direction",
+              "value": "↕️ vertical"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/caa600d2-98f2-4204-b11c-9d9498e2f636",
+          "props": [
+            {
+              "name": "message",
+              "value": "Message"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "loading"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            },
+            {
+              "name": "type",
+              "value": "loading"
+            },
+            {
+              "name": "expand direction",
+              "value": "↔️ horizontal"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/12a41de4-a4f8-4a2b-a230-0c5946cf98b7",
           "props": [
             {
               "name": "message",
@@ -106644,12 +106570,7 @@
           "name": "icon",
           "type": "INSTANCE_SWAP",
           "defaultValue": "EXTERNAL_COMPONENT",
-          "values": [
-            {
-              "type": "COMPONENT",
-              "key": "91970ddf499762e33f2d3547b4b938cf50f66a80"
-            }
-          ]
+          "values": []
         }
       ],
       "thumbnails": [],
