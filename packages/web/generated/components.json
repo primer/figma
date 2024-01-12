@@ -14622,7 +14622,7 @@
         }
       ],
       "createdAt": "2020-10-28T17:29:36.817Z",
-      "updatedAt": "2023-11-23T10:15:01.896Z",
+      "updatedAt": "2024-01-11T16:06:15.785Z",
       "user": {
         "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
         "handle": "Lukas Oppermann"
@@ -32951,136 +32951,6 @@
       ],
       "thumbnails": [
         {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b425ab10-1ba1-43dd-a795-3b0517688ed2",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "icon",
-              "value": "26704:84285"
-            },
-            {
-              "name": "⬅️ leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "➡️ trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "text",
-              "value": "Disabled"
-            },
-            {
-              "name": "size",
-              "value": "large"
-            },
-            {
-              "name": "state",
-              "value": "rest (default)"
-            },
-            {
-              "name": "validation",
-              "value": "success"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6fcc2b16-2928-4bdd-80ac-4198d4f909c6",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "⬅️ leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "➡️ trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "icon",
-              "value": "26704:84285"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "text",
-              "value": "Disabled"
-            },
-            {
-              "name": "size",
-              "value": "large"
-            },
-            {
-              "name": "state",
-              "value": "rest (default)"
-            },
-            {
-              "name": "validation",
-              "value": "success"
-            },
-            {
-              "name": "inset?",
-              "value": "true"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "true"
-            }
-          ]
-        },
-        {
           "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8afd874a-a262-4453-8062-0e618807d48c",
           "props": [
             {
@@ -36831,6 +36701,136 @@
             {
               "name": "size",
               "value": "small"
+            },
+            {
+              "name": "state",
+              "value": "rest (default)"
+            },
+            {
+              "name": "validation",
+              "value": "success"
+            },
+            {
+              "name": "inset?",
+              "value": "true"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b425ab10-1ba1-43dd-a795-3b0517688ed2",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "icon",
+              "value": "26704:84285"
+            },
+            {
+              "name": "⬅️ leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "➡️ trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "text",
+              "value": "Disabled"
+            },
+            {
+              "name": "size",
+              "value": "large"
+            },
+            {
+              "name": "state",
+              "value": "rest (default)"
+            },
+            {
+              "name": "validation",
+              "value": "success"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6fcc2b16-2928-4bdd-80ac-4198d4f909c6",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "⬅️ leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "➡️ trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "icon",
+              "value": "26704:84285"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "text",
+              "value": "Disabled"
+            },
+            {
+              "name": "size",
+              "value": "large"
             },
             {
               "name": "state",
