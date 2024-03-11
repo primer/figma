@@ -29729,6 +29729,1224 @@
       ],
       "thumbnails": [
         {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3fbceefc-b46c-4949-a993-fd4a77cd7875",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "critical"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5e007bb4-62f4-4de8-9e6d-3699145cd279",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "critical"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2bff5ff8-d40e-4197-b709-657694fad35a",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b6a1db5b-f87b-4dd9-bdd5-664d2a5d9c11",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/49cd00b2-20c9-495d-9e19-ee2e3914f599",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/abdd00d2-41c4-4a80-91cd-5304a7020600",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fc0ed3af-0118-4652-a2f6-565bbd9d6fcf",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/285f4747-88f7-4bb4-bdce-0d53edd1e730",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ef52826f-bed0-4c55-aa0c-219b6e19dbc0",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0c139779-d3ea-4cb9-80a3-075b14ce4bd8",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "false"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2f91218d-5f40-45da-b3d0-7bc965a94441",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "info"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4265bc1f-621c-4456-aefc-701d41c4052e",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "info"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/78247087-0956-4a55-9726-f3cd31e766f4",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "info"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/11b48e09-dea2-4020-bd62-f3ab716c12c9",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "info"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3bcf0886-0399-49a0-9052-7b3f80e337e1",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "info"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/240448a3-d2c7-4fdb-8097-fa55daede6ed",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "info"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2aed5d07-82be-4b5a-b3a6-1a6d45082986",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "info"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9100f822-cb45-4cd6-9d5a-a8e4b464ca0a",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "info"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6bd62a3a-a27b-4858-8b63-5f67e46953b1",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ff7feb7b-b648-4401-93e2-bcc56c75f956",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e367c204-a3e9-4abe-9dc4-14696e80329f",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/999ef83d-2d47-4bc8-a696-6a73bd8e4c0f",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/06b80e71-363a-485e-a906-eed1f53f20d7",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b920d147-cfc0-4de9-a41f-a9d1a08108e3",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5ae48480-3a61-4739-9d95-200c6ff453d8",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0eb10f9d-7dc8-4c0f-a2ac-fa6bcb65089e",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "warning"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0ecf9fdd-eace-44cb-8943-9a84c43d8126",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "critical"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9f037116-9873-4256-842b-f024ae083076",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "critical"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4aa153ba-5fa9-41ff-8245-60ba2c113a7f",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "critical"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/16579159-6ac9-4b0c-86ba-8c7bb4827c5e",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "critical"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d8b27977-2db2-4038-9e7b-f62e5a3a8072",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "critical"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e70c2025-05a6-4569-95f1-e294cece079d",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "critical"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/caf2c757-a00a-4be7-87b9-95897520dbe1",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "critical"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9826c412-3f16-4393-b1a6-a7f56edb26ff",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "critical"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/bf3afc43-f11a-42a3-8b19-946d92dd9b22",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a3499eff-4462-4a38-a1b4-97ee27ee5cac",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/403ec408-ccf4-47a7-b208-fd5268764fc5",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/52bcc8e9-9ffa-4e38-928d-4fbf0941363a",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d7695508-3ac2-4e6f-b8fb-0159614b3594",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8e12b169-8480-4153-8401-8a27aaabd740",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "dismissable?",
+              "value": "true"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fb6a1387-37e0-4316-9239-f70ca6074da5",
+          "props": [
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "false"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d912ba24-944a-4e06-8d27-4e5b4ca92289",
+          "props": [
+            {
+              "name": "title?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "dismissable?",
+              "value": "false"
+            },
+            {
+              "name": "action?",
+              "value": "true"
+            },
+            {
+              "name": "type",
+              "value": "success"
+            },
+            {
+              "name": "full",
+              "value": "true"
+            }
+          ]
+        },
+        {
           "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b143a394-265a-45f7-947b-89c7df44b56b",
           "props": [
             {
@@ -32215,1224 +33433,6 @@
             {
               "name": "type",
               "value": "critical"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3fbceefc-b46c-4949-a993-fd4a77cd7875",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "critical"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5e007bb4-62f4-4de8-9e6d-3699145cd279",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "critical"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2bff5ff8-d40e-4197-b709-657694fad35a",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b6a1db5b-f87b-4dd9-bdd5-664d2a5d9c11",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/49cd00b2-20c9-495d-9e19-ee2e3914f599",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/abdd00d2-41c4-4a80-91cd-5304a7020600",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fc0ed3af-0118-4652-a2f6-565bbd9d6fcf",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/285f4747-88f7-4bb4-bdce-0d53edd1e730",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ef52826f-bed0-4c55-aa0c-219b6e19dbc0",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0c139779-d3ea-4cb9-80a3-075b14ce4bd8",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "false"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2f91218d-5f40-45da-b3d0-7bc965a94441",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "info"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4265bc1f-621c-4456-aefc-701d41c4052e",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "info"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/78247087-0956-4a55-9726-f3cd31e766f4",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "info"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/11b48e09-dea2-4020-bd62-f3ab716c12c9",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "info"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3bcf0886-0399-49a0-9052-7b3f80e337e1",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "info"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/240448a3-d2c7-4fdb-8097-fa55daede6ed",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "info"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2aed5d07-82be-4b5a-b3a6-1a6d45082986",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "info"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9100f822-cb45-4cd6-9d5a-a8e4b464ca0a",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "info"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6bd62a3a-a27b-4858-8b63-5f67e46953b1",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ff7feb7b-b648-4401-93e2-bcc56c75f956",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e367c204-a3e9-4abe-9dc4-14696e80329f",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/999ef83d-2d47-4bc8-a696-6a73bd8e4c0f",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/06b80e71-363a-485e-a906-eed1f53f20d7",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b920d147-cfc0-4de9-a41f-a9d1a08108e3",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5ae48480-3a61-4739-9d95-200c6ff453d8",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0eb10f9d-7dc8-4c0f-a2ac-fa6bcb65089e",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "warning"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/0ecf9fdd-eace-44cb-8943-9a84c43d8126",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "critical"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9f037116-9873-4256-842b-f024ae083076",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "critical"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/4aa153ba-5fa9-41ff-8245-60ba2c113a7f",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "critical"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/16579159-6ac9-4b0c-86ba-8c7bb4827c5e",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "critical"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d8b27977-2db2-4038-9e7b-f62e5a3a8072",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "critical"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e70c2025-05a6-4569-95f1-e294cece079d",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "critical"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/caf2c757-a00a-4be7-87b9-95897520dbe1",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "critical"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/9826c412-3f16-4393-b1a6-a7f56edb26ff",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "critical"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/bf3afc43-f11a-42a3-8b19-946d92dd9b22",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a3499eff-4462-4a38-a1b4-97ee27ee5cac",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/403ec408-ccf4-47a7-b208-fd5268764fc5",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/52bcc8e9-9ffa-4e38-928d-4fbf0941363a",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d7695508-3ac2-4e6f-b8fb-0159614b3594",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8e12b169-8480-4153-8401-8a27aaabd740",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "dismissable?",
-              "value": "true"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fb6a1387-37e0-4316-9239-f70ca6074da5",
-          "props": [
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "success"
-            },
-            {
-              "name": "full",
-              "value": "false"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d912ba24-944a-4e06-8d27-4e5b4ca92289",
-          "props": [
-            {
-              "name": "title?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "dismissable?",
-              "value": "false"
-            },
-            {
-              "name": "action?",
-              "value": "true"
-            },
-            {
-              "name": "type",
-              "value": "success"
             },
             {
               "name": "full",
