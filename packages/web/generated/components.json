@@ -16866,81 +16866,6 @@
       ],
       "thumbnails": [
         {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/88312375-6bb1-49f6-b8e2-0e3caed4a1f0",
-          "props": [
-            {
-              "name": "state",
-              "value": "hover"
-            },
-            {
-              "name": "size",
-              "value": "large"
-            },
-            {
-              "name": "leadingVisual",
-              "value": "true"
-            },
-            {
-              "name": "selected?",
-              "value": "true"
-            },
-            {
-              "name": "❌ remove?",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8b3fe9df-6624-4bef-a03a-4272cae40c95",
-          "props": [
-            {
-              "name": "state",
-              "value": "hover"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "leadingVisual",
-              "value": "true"
-            },
-            {
-              "name": "selected?",
-              "value": "true"
-            },
-            {
-              "name": "❌ remove?",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e02e8561-10b3-4969-9bd1-3214ac38656e",
-          "props": [
-            {
-              "name": "state",
-              "value": "hover"
-            },
-            {
-              "name": "size",
-              "value": "xlarge"
-            },
-            {
-              "name": "leadingVisual",
-              "value": "true"
-            },
-            {
-              "name": "selected?",
-              "value": "true"
-            },
-            {
-              "name": "❌ remove?",
-              "value": "true"
-            }
-          ]
-        },
-        {
           "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c16afef1-2580-4e79-a196-2666b3cc7059",
           "props": [
             {
@@ -18258,6 +18183,81 @@
             {
               "name": "selected?",
               "value": "false"
+            },
+            {
+              "name": "❌ remove?",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/88312375-6bb1-49f6-b8e2-0e3caed4a1f0",
+          "props": [
+            {
+              "name": "state",
+              "value": "hover"
+            },
+            {
+              "name": "size",
+              "value": "large"
+            },
+            {
+              "name": "leadingVisual",
+              "value": "true"
+            },
+            {
+              "name": "selected?",
+              "value": "true"
+            },
+            {
+              "name": "❌ remove?",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/8b3fe9df-6624-4bef-a03a-4272cae40c95",
+          "props": [
+            {
+              "name": "state",
+              "value": "hover"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "leadingVisual",
+              "value": "true"
+            },
+            {
+              "name": "selected?",
+              "value": "true"
+            },
+            {
+              "name": "❌ remove?",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e02e8561-10b3-4969-9bd1-3214ac38656e",
+          "props": [
+            {
+              "name": "state",
+              "value": "hover"
+            },
+            {
+              "name": "size",
+              "value": "xlarge"
+            },
+            {
+              "name": "leadingVisual",
+              "value": "true"
+            },
+            {
+              "name": "selected?",
+              "value": "true"
             },
             {
               "name": "❌ remove?",
@@ -23784,57 +23784,6 @@
       ],
       "thumbnails": [
         {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5ca198b0-57f5-4a8f-ad28-ce238fb3ed79",
-          "props": [
-            {
-              "name": "size",
-              "value": "medium (default)"
-            },
-            {
-              "name": "isEmpty?",
-              "value": "false"
-            },
-            {
-              "name": "",
-              "value": "1"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/76599f82-120d-4ce1-b7bc-52b30a46497f",
-          "props": [
-            {
-              "name": "size",
-              "value": "small"
-            },
-            {
-              "name": "isEmpty?",
-              "value": "false"
-            },
-            {
-              "name": "",
-              "value": "1"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fa1d47a8-0de6-4eb8-a90e-d54cdc49d29f",
-          "props": [
-            {
-              "name": "size",
-              "value": "large"
-            },
-            {
-              "name": "isEmpty?",
-              "value": "false"
-            },
-            {
-              "name": "",
-              "value": "1"
-            }
-          ]
-        },
-        {
           "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2d4d15af-472e-4e77-bed5-e8454f2acaf4",
           "props": [
             {
@@ -24341,6 +24290,57 @@
             {
               "name": "",
               "value": "10"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/5ca198b0-57f5-4a8f-ad28-ce238fb3ed79",
+          "props": [
+            {
+              "name": "size",
+              "value": "medium (default)"
+            },
+            {
+              "name": "isEmpty?",
+              "value": "false"
+            },
+            {
+              "name": "",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/76599f82-120d-4ce1-b7bc-52b30a46497f",
+          "props": [
+            {
+              "name": "size",
+              "value": "small"
+            },
+            {
+              "name": "isEmpty?",
+              "value": "false"
+            },
+            {
+              "name": "",
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fa1d47a8-0de6-4eb8-a90e-d54cdc49d29f",
+          "props": [
+            {
+              "name": "size",
+              "value": "large"
+            },
+            {
+              "name": "isEmpty?",
+              "value": "false"
+            },
+            {
+              "name": "",
+              "value": "1"
             }
           ]
         }
