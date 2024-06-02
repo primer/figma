@@ -22821,111 +22821,6 @@
       ],
       "thumbnails": [
         {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1a0ea09b-4fbf-4a6f-b35f-d3a1c7d2e50a",
-          "props": [
-            {
-              "name": "caption?",
-              "value": "true"
-            },
-            {
-              "name": "state",
-              "value": "disabled"
-            },
-            {
-              "name": "checked?",
-              "value": "true"
-            },
-            {
-              "name": "indeterminate?",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/12281981-6cba-4483-8ad8-1bf1a84c753c",
-          "props": [
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "state",
-              "value": "focus"
-            },
-            {
-              "name": "checked?",
-              "value": "false"
-            },
-            {
-              "name": "indeterminate?",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a82d5ea2-1eb1-4f88-a007-9346cf190b53",
-          "props": [
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "state",
-              "value": "focus"
-            },
-            {
-              "name": "checked?",
-              "value": "true"
-            },
-            {
-              "name": "indeterminate?",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/aa05a16c-9b8a-40bd-b12f-6bb1f54be0ce",
-          "props": [
-            {
-              "name": "caption?",
-              "value": "true"
-            },
-            {
-              "name": "state",
-              "value": "focus"
-            },
-            {
-              "name": "checked?",
-              "value": "false"
-            },
-            {
-              "name": "indeterminate?",
-              "value": "true"
-            }
-          ]
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1c13c395-18c5-46c7-8499-23d4ba62253c",
-          "props": [
-            {
-              "name": "caption?",
-              "value": "true"
-            },
-            {
-              "name": "state",
-              "value": "focus"
-            },
-            {
-              "name": "checked?",
-              "value": "true"
-            },
-            {
-              "name": "indeterminate?",
-              "value": "true"
-            }
-          ]
-        },
-        {
           "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/30e47b02-e749-4a2e-b65c-9051ed1478a9",
           "props": [
             {
@@ -23317,6 +23212,111 @@
             {
               "name": "checked?",
               "value": "false"
+            },
+            {
+              "name": "indeterminate?",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1a0ea09b-4fbf-4a6f-b35f-d3a1c7d2e50a",
+          "props": [
+            {
+              "name": "caption?",
+              "value": "true"
+            },
+            {
+              "name": "state",
+              "value": "disabled"
+            },
+            {
+              "name": "checked?",
+              "value": "true"
+            },
+            {
+              "name": "indeterminate?",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/12281981-6cba-4483-8ad8-1bf1a84c753c",
+          "props": [
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "state",
+              "value": "focus"
+            },
+            {
+              "name": "checked?",
+              "value": "false"
+            },
+            {
+              "name": "indeterminate?",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a82d5ea2-1eb1-4f88-a007-9346cf190b53",
+          "props": [
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "state",
+              "value": "focus"
+            },
+            {
+              "name": "checked?",
+              "value": "true"
+            },
+            {
+              "name": "indeterminate?",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/aa05a16c-9b8a-40bd-b12f-6bb1f54be0ce",
+          "props": [
+            {
+              "name": "caption?",
+              "value": "true"
+            },
+            {
+              "name": "state",
+              "value": "focus"
+            },
+            {
+              "name": "checked?",
+              "value": "false"
+            },
+            {
+              "name": "indeterminate?",
+              "value": "true"
+            }
+          ]
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1c13c395-18c5-46c7-8499-23d4ba62253c",
+          "props": [
+            {
+              "name": "caption?",
+              "value": "true"
+            },
+            {
+              "name": "state",
+              "value": "focus"
+            },
+            {
+              "name": "checked?",
+              "value": "true"
             },
             {
               "name": "indeterminate?",
