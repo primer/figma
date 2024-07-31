@@ -200,108 +200,6 @@
       }
     },
     {
-      "id": "action_list_item_trailing_collapse",
-      "name": "ActionList.Item/TrailingCollapse",
-      "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=15836%3A63593",
-      "status": "STABLE",
-      "type": "COMPONENT_SET",
-      "properties": [
-        {
-          "name": "currentSelection",
-          "type": "BOOLEAN",
-          "defaultValue": "false",
-          "values": [
-            "true",
-            "false"
-          ]
-        },
-        {
-          "name": "leadingType",
-          "type": "INSTANCE_SWAP",
-          "defaultValue": "leadingVisual/avatar",
-          "values": []
-        },
-        {
-          "name": "➡️ trailingVisual",
-          "type": "BOOLEAN",
-          "defaultValue": "false",
-          "values": [
-            "true",
-            "false"
-          ]
-        },
-        {
-          "name": "⬅️ leadingVisual?",
-          "type": "BOOLEAN",
-          "defaultValue": "false",
-          "values": [
-            "true",
-            "false"
-          ]
-        },
-        {
-          "name": "description",
-          "type": "INSTANCE_SWAP",
-          "defaultValue": "Description/none",
-          "values": []
-        },
-        {
-          "name": "divider?",
-          "type": "BOOLEAN",
-          "defaultValue": "false",
-          "values": [
-            "true",
-            "false"
-          ]
-        },
-        {
-          "name": "trailingType",
-          "type": "INSTANCE_SWAP",
-          "defaultValue": "trailingVisual/icon",
-          "values": []
-        },
-        {
-          "name": "size",
-          "type": "VARIANT",
-          "defaultValue": "small (default)",
-          "values": [
-            "small (default)",
-            "medium",
-            "large"
-          ]
-        },
-        {
-          "name": "state",
-          "type": "VARIANT",
-          "defaultValue": "rest",
-          "values": [
-            "rest",
-            "hover",
-            "disabled",
-            "pressed",
-            "focus",
-            "hover-icon"
-          ]
-        },
-        {
-          "name": "collapsed?",
-          "type": "VARIANT",
-          "defaultValue": "true",
-          "values": [
-            "false",
-            "true"
-          ]
-        }
-      ],
-      "thumbnails": [],
-      "createdAt": "2022-10-06T19:30:01.294Z",
-      "updatedAt": "2024-06-11T12:04:30.732Z",
-      "user": {
-        "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
-        "handle": "Lukas Oppermann"
-      }
-    },
-    {
       "id": "qualifier",
       "name": "Qualifier",
       "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=19149%3A68796",
@@ -6390,7 +6288,7 @@
         }
       ],
       "createdAt": "2022-11-16T15:35:02.008Z",
-      "updatedAt": "2024-06-12T12:51:30.239Z",
+      "updatedAt": "2024-07-30T20:49:43.739Z",
       "user": {
         "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
         "handle": "Lukas Oppermann"
@@ -10476,6 +10374,1761 @@
       ],
       "thumbnails": [
         {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/44d0c32b-8031-409e-9b73-18ff2c910d49",
+          "props": [
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 95,
+            "height": 56
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1a1bd923-80b3-4cc4-9bee-50465158e673",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "true"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 95,
+            "height": 56
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f2d828be-4cdd-4e34-966d-09cfe8fdad34",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "focus"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 95,
+            "height": 56
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3d11630e-5949-4b5a-a043-e65eba018b42",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "focus"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "true"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 95,
+            "height": 56
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1e57b28c-3018-4bd4-8ce2-c9028a77d987",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "disabled"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 74,
+            "height": 56
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/40245ca9-42db-4838-92ef-dd519b703c1a",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "read-only"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 68,
+            "height": 56
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ddd664a2-0521-4c85-8676-20b97997bb31",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "true"
+            }
+          ],
+          "dimensions": {
+            "width": 133,
+            "height": 56
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/74f4a2dd-f389-48da-b7ec-6e74763320de",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "true"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "true"
+            }
+          ],
+          "dimensions": {
+            "width": 133,
+            "height": 56
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b13a58a8-07da-4dae-a7f8-d942d3a367fc",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "focus"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "true"
+            }
+          ],
+          "dimensions": {
+            "width": 133,
+            "height": 56
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/302fa3b4-3f02-43b2-b5e3-5ed217c730f2",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "focus"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "true"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "true"
+            }
+          ],
+          "dimensions": {
+            "width": 133,
+            "height": 56
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/be276b14-57e7-41af-a26d-7fab046fd7cf",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "disabled"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "true"
+            }
+          ],
+          "dimensions": {
+            "width": 133,
+            "height": 56
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ad32b522-9289-41ff-876c-ae2ef9ab8d4d",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "read-only"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "true"
+            }
+          ],
+          "dimensions": {
+            "width": 133,
+            "height": 56
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/71ab9c4f-8646-434e-8ad2-9650ad565963",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "invalid"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 126,
+            "height": 80
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b61e90a6-896d-48af-b1c8-060dd9130e21",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "invalid"
+            },
+            {
+              "name": "inset?",
+              "value": "true"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 126,
+            "height": 80
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c06ccafc-b154-426c-8015-b42fae2e8ce3",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "invalid"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "true"
+            }
+          ],
+          "dimensions": {
+            "width": 133,
+            "height": 80
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/162ee979-027e-42d7-872b-e080b31abb6a",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "invalid"
+            },
+            {
+              "name": "inset?",
+              "value": "true"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "true"
+            }
+          ],
+          "dimensions": {
+            "width": 133,
+            "height": 80
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2250ba9f-a619-4ae6-8cc7-046869df8fca",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "success"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 126,
+            "height": 80
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7b16e7f5-8894-4b61-bfa7-a036e1c1e52f",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "success"
+            },
+            {
+              "name": "inset?",
+              "value": "true"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 126,
+            "height": 80
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/62a720e2-44bc-4f4b-9afe-1a59dc963c6c",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "success"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "true"
+            }
+          ],
+          "dimensions": {
+            "width": 133,
+            "height": 80
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1567d81c-219b-4368-a225-3672ef87d7f4",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "size",
+              "value": "medium"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "success"
+            },
+            {
+              "name": "inset?",
+              "value": "true"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "true"
+            }
+          ],
+          "dimensions": {
+            "width": 133,
+            "height": 80
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a926b569-2e59-4f41-b77b-0070ae05fed6",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "small"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 95,
+            "height": 52
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3597047b-ffa9-485e-aeed-59518caecb0a",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "size",
+              "value": "small"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "true"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 95,
+            "height": 52
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cca34096-9d5d-47c8-afb7-5768c9dff7a6",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "small"
+            },
+            {
+              "name": "state",
+              "value": "focus"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 95,
+            "height": 52
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b4885f39-3255-40aa-9964-7a3a6851d165",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "small"
+            },
+            {
+              "name": "state",
+              "value": "focus"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "true"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 95,
+            "height": 52
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/560df903-91bd-4796-b8c2-5eebc62b48a4",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "small"
+            },
+            {
+              "name": "state",
+              "value": "disabled"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 74,
+            "height": 52
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b73978a4-1df3-4719-803a-cfd6c54296d1",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "small"
+            },
+            {
+              "name": "state",
+              "value": "read-only"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "false"
+            }
+          ],
+          "dimensions": {
+            "width": 68,
+            "height": 52
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/addea31b-6e5b-4afa-83e2-8da4fd4917a2",
+          "props": [
+            {
+              "name": "label?",
+              "value": "true"
+            },
+            {
+              "name": "inputTextType",
+              "value": "15341:46436"
+            },
+            {
+              "name": "trailingActionDisabled",
+              "value": "15341:46476"
+            },
+            {
+              "name": "caption?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction?",
+              "value": "false"
+            },
+            {
+              "name": "leadingVisual?",
+              "value": "false"
+            },
+            {
+              "name": "trailingAction",
+              "value": "15341:46485"
+            },
+            {
+              "name": "icon",
+              "value": "31742:155958"
+            },
+            {
+              "name": "inputTextDisabled",
+              "value": "15341:46418"
+            },
+            {
+              "name": "size",
+              "value": "small"
+            },
+            {
+              "name": "state",
+              "value": "rest"
+            },
+            {
+              "name": "validation",
+              "value": "none"
+            },
+            {
+              "name": "inset?",
+              "value": "false"
+            },
+            {
+              "name": "fullWidth?",
+              "value": "true"
+            }
+          ],
+          "dimensions": {
+            "width": 132,
+            "height": 52
+          }
+        },
+        {
           "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/bdf1eb00-bbda-44d5-8a56-d7c28e0fbe3d",
           "props": [
             {
@@ -12618,1761 +14271,6 @@
           "dimensions": {
             "width": 142,
             "height": 88
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/44d0c32b-8031-409e-9b73-18ff2c910d49",
-          "props": [
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 95,
-            "height": 56
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1a1bd923-80b3-4cc4-9bee-50465158e673",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "true"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 95,
-            "height": 56
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/f2d828be-4cdd-4e34-966d-09cfe8fdad34",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "focus"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 95,
-            "height": 56
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3d11630e-5949-4b5a-a043-e65eba018b42",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "focus"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "true"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 95,
-            "height": 56
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1e57b28c-3018-4bd4-8ce2-c9028a77d987",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "disabled"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 74,
-            "height": 56
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/40245ca9-42db-4838-92ef-dd519b703c1a",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "read-only"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 68,
-            "height": 56
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ddd664a2-0521-4c85-8676-20b97997bb31",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "true"
-            }
-          ],
-          "dimensions": {
-            "width": 133,
-            "height": 56
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/74f4a2dd-f389-48da-b7ec-6e74763320de",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "true"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "true"
-            }
-          ],
-          "dimensions": {
-            "width": 133,
-            "height": 56
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b13a58a8-07da-4dae-a7f8-d942d3a367fc",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "focus"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "true"
-            }
-          ],
-          "dimensions": {
-            "width": 133,
-            "height": 56
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/302fa3b4-3f02-43b2-b5e3-5ed217c730f2",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "focus"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "true"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "true"
-            }
-          ],
-          "dimensions": {
-            "width": 133,
-            "height": 56
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/be276b14-57e7-41af-a26d-7fab046fd7cf",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "disabled"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "true"
-            }
-          ],
-          "dimensions": {
-            "width": 133,
-            "height": 56
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/ad32b522-9289-41ff-876c-ae2ef9ab8d4d",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "read-only"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "true"
-            }
-          ],
-          "dimensions": {
-            "width": 133,
-            "height": 56
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/71ab9c4f-8646-434e-8ad2-9650ad565963",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "invalid"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 126,
-            "height": 80
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b61e90a6-896d-48af-b1c8-060dd9130e21",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "invalid"
-            },
-            {
-              "name": "inset?",
-              "value": "true"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 126,
-            "height": 80
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c06ccafc-b154-426c-8015-b42fae2e8ce3",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "invalid"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "true"
-            }
-          ],
-          "dimensions": {
-            "width": 133,
-            "height": 80
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/162ee979-027e-42d7-872b-e080b31abb6a",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "invalid"
-            },
-            {
-              "name": "inset?",
-              "value": "true"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "true"
-            }
-          ],
-          "dimensions": {
-            "width": 133,
-            "height": 80
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2250ba9f-a619-4ae6-8cc7-046869df8fca",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "success"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 126,
-            "height": 80
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/7b16e7f5-8894-4b61-bfa7-a036e1c1e52f",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "success"
-            },
-            {
-              "name": "inset?",
-              "value": "true"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 126,
-            "height": 80
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/62a720e2-44bc-4f4b-9afe-1a59dc963c6c",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "success"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "true"
-            }
-          ],
-          "dimensions": {
-            "width": 133,
-            "height": 80
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1567d81c-219b-4368-a225-3672ef87d7f4",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "size",
-              "value": "medium"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "success"
-            },
-            {
-              "name": "inset?",
-              "value": "true"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "true"
-            }
-          ],
-          "dimensions": {
-            "width": 133,
-            "height": 80
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a926b569-2e59-4f41-b77b-0070ae05fed6",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "small"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 95,
-            "height": 52
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3597047b-ffa9-485e-aeed-59518caecb0a",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "size",
-              "value": "small"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "true"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 95,
-            "height": 52
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/cca34096-9d5d-47c8-afb7-5768c9dff7a6",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "small"
-            },
-            {
-              "name": "state",
-              "value": "focus"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 95,
-            "height": 52
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b4885f39-3255-40aa-9964-7a3a6851d165",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "small"
-            },
-            {
-              "name": "state",
-              "value": "focus"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "true"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 95,
-            "height": 52
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/560df903-91bd-4796-b8c2-5eebc62b48a4",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "small"
-            },
-            {
-              "name": "state",
-              "value": "disabled"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 74,
-            "height": 52
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/b73978a4-1df3-4719-803a-cfd6c54296d1",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "small"
-            },
-            {
-              "name": "state",
-              "value": "read-only"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "false"
-            }
-          ],
-          "dimensions": {
-            "width": 68,
-            "height": 52
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/addea31b-6e5b-4afa-83e2-8da4fd4917a2",
-          "props": [
-            {
-              "name": "label?",
-              "value": "true"
-            },
-            {
-              "name": "inputTextType",
-              "value": "15341:46436"
-            },
-            {
-              "name": "trailingActionDisabled",
-              "value": "15341:46476"
-            },
-            {
-              "name": "caption?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction?",
-              "value": "false"
-            },
-            {
-              "name": "leadingVisual?",
-              "value": "false"
-            },
-            {
-              "name": "trailingAction",
-              "value": "15341:46485"
-            },
-            {
-              "name": "icon",
-              "value": "31742:155958"
-            },
-            {
-              "name": "inputTextDisabled",
-              "value": "15341:46418"
-            },
-            {
-              "name": "size",
-              "value": "small"
-            },
-            {
-              "name": "state",
-              "value": "rest"
-            },
-            {
-              "name": "validation",
-              "value": "none"
-            },
-            {
-              "name": "inset?",
-              "value": "false"
-            },
-            {
-              "name": "fullWidth?",
-              "value": "true"
-            }
-          ],
-          "dimensions": {
-            "width": 132,
-            "height": 52
           }
         }
       ],
@@ -41714,6 +41612,108 @@
       }
     },
     {
+      "id": "action_list_item_trailing_collapse",
+      "name": "ActionList.Item/TrailingCollapse",
+      "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=15836%3A63593",
+      "status": "STABLE",
+      "type": "COMPONENT_SET",
+      "properties": [
+        {
+          "name": "currentSelection",
+          "type": "BOOLEAN",
+          "defaultValue": "false",
+          "values": [
+            "true",
+            "false"
+          ]
+        },
+        {
+          "name": "leadingType",
+          "type": "INSTANCE_SWAP",
+          "defaultValue": "leadingVisual/avatar",
+          "values": []
+        },
+        {
+          "name": "➡️ trailingVisual",
+          "type": "BOOLEAN",
+          "defaultValue": "false",
+          "values": [
+            "true",
+            "false"
+          ]
+        },
+        {
+          "name": "⬅️ leadingVisual?",
+          "type": "BOOLEAN",
+          "defaultValue": "false",
+          "values": [
+            "true",
+            "false"
+          ]
+        },
+        {
+          "name": "description",
+          "type": "INSTANCE_SWAP",
+          "defaultValue": "Description/none",
+          "values": []
+        },
+        {
+          "name": "divider?",
+          "type": "BOOLEAN",
+          "defaultValue": "false",
+          "values": [
+            "true",
+            "false"
+          ]
+        },
+        {
+          "name": "trailingType",
+          "type": "INSTANCE_SWAP",
+          "defaultValue": "trailingVisual/icon",
+          "values": []
+        },
+        {
+          "name": "size",
+          "type": "VARIANT",
+          "defaultValue": "small (default)",
+          "values": [
+            "small (default)",
+            "medium",
+            "large"
+          ]
+        },
+        {
+          "name": "state",
+          "type": "VARIANT",
+          "defaultValue": "rest",
+          "values": [
+            "rest",
+            "hover",
+            "disabled",
+            "pressed",
+            "focus",
+            "hover-icon"
+          ]
+        },
+        {
+          "name": "collapsed?",
+          "type": "VARIANT",
+          "defaultValue": "true",
+          "values": [
+            "false",
+            "true"
+          ]
+        }
+      ],
+      "thumbnails": [],
+      "createdAt": "2022-10-06T19:30:01.294Z",
+      "updatedAt": "2024-07-30T08:00:32.826Z",
+      "user": {
+        "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
+        "handle": "Lukas Oppermann"
+      }
+    },
+    {
       "id": "toolbar_responsive_attachments",
       "name": "Toolbar/Responsive/Attachments",
       "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=1597%3A137",
@@ -41874,21 +41874,6 @@
       "user": {
         "imgUrl": "https://s3-alpha.figma.com/profile/3ad8fe5b-cc0b-445d-89b5-badf5cd1b9cc",
         "handle": "Ash Guillaume"
-      }
-    },
-    {
-      "id": "caret",
-      "name": "Caret",
-      "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=11747%3A38508",
-      "status": "STABLE",
-      "type": "COMPONENT",
-      "properties": [],
-      "thumbnails": [],
-      "createdAt": "2022-01-20T09:08:30.702Z",
-      "updatedAt": "2024-04-29T14:38:14.935Z",
-      "user": {
-        "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
-        "handle": "Lukas Oppermann"
       }
     },
     {
@@ -42250,6 +42235,21 @@
       "thumbnails": [],
       "createdAt": "2023-10-12T17:18:41.048Z",
       "updatedAt": "2024-06-12T12:51:30.986Z",
+      "user": {
+        "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
+        "handle": "Lukas Oppermann"
+      }
+    },
+    {
+      "id": "caret",
+      "name": "Caret",
+      "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=11747%3A38508",
+      "status": "STABLE",
+      "type": "COMPONENT",
+      "properties": [],
+      "thumbnails": [],
+      "createdAt": "2022-01-20T09:08:30.702Z",
+      "updatedAt": "2024-07-30T10:49:29.021Z",
       "user": {
         "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
         "handle": "Lukas Oppermann"
