@@ -1,6 +1,9 @@
 # Primer for Figma
  ✨ Owned and maintained by the Primer Design team
 
+# Primer Documentation
+🎨 The source of truth is the code, documented on [Primer.style](https://primer.style/)
+
 ## 📚 Primer Figma Core libraries
 - Primer Primitives ([internal](https://www.figma.com/file/B5XPE8IwGPIZDAvN7jqWqx/?node-id=9%3A2) | [community file](https://www.figma.com/community/file/854766928300977832))
 - Primer Web ([internal](https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/Primer-Web?node-id=136%3A1805&viewport=77%2C-235%2C0.5) | [community file](https://www.figma.com/community/file/854767373644076713))
