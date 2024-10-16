@@ -17,10 +17,3 @@ Information on how to use Primer within Figma lives in our [design guidelines](h
 ## 🌐 Community
 
 Primer's component libraries, shared styles, and Octicons can be found in the Figma community at https://www.figma.com/@primer.
-
-## Contributions
-Please make sure to read through our [contribution guidelines](./CONTRIBUTION.md) and feel free to reach out if you need support.
-
-## Help & questions
-
-If you need help with the figma libraries or have questions about how to use them, bugs or contributions reach out by creating an [issue](https://github.com/primer/figma/issues/new/choose).
