@@ -25607,40 +25607,6 @@
       ],
       "thumbnails": [
         {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c6462856-b57f-407d-a1be-ecc654a56a2b",
-          "props": [
-            {
-              "name": "hasTooltip?",
-              "value": "false"
-            },
-            {
-              "name": "variant",
-              "value": "+/- (both)"
-            }
-          ],
-          "dimensions": {
-            "width": 81,
-            "height": 20
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c8036403-6ba3-443e-b7e2-459e15aa7d9b",
-          "props": [
-            {
-              "name": "hasTooltip?",
-              "value": "true"
-            },
-            {
-              "name": "variant",
-              "value": "+/- (both)"
-            }
-          ],
-          "dimensions": {
-            "width": 308,
-            "height": 28
-          }
-        },
-        {
           "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/e238bac0-71d5-4e8a-bd9f-31780cf59988",
           "props": [
             {
@@ -25739,6 +25705,40 @@
           ],
           "dimensions": {
             "width": 211,
+            "height": 28
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c6462856-b57f-407d-a1be-ecc654a56a2b",
+          "props": [
+            {
+              "name": "hasTooltip?",
+              "value": "false"
+            },
+            {
+              "name": "variant",
+              "value": "+/- (both)"
+            }
+          ],
+          "dimensions": {
+            "width": 81,
+            "height": 20
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/c8036403-6ba3-443e-b7e2-459e15aa7d9b",
+          "props": [
+            {
+              "name": "hasTooltip?",
+              "value": "true"
+            },
+            {
+              "name": "variant",
+              "value": "+/- (both)"
+            }
+          ],
+          "dimensions": {
+            "width": 308,
             "height": 28
           }
         }
