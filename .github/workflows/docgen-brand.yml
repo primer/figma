@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '0 0 * * *' # Every day at midnight UTC time
+    - cron: "0 0 * * *" # Every day at midnight UTC time
 
 jobs:
   generate-components-json:
@@ -19,6 +19,8 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
+        with:
+          ref: docgen
 
       - name: Setup Node.js 18.x
         uses: actions/setup-node@v2
