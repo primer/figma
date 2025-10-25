@@ -615,179 +615,6 @@
       }
     },
     {
-      "id": "diffstat",
-      "name": "Diffstat",
-      "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=3813%3A992",
-      "status": "STABLE",
-      "type": "COMPONENT_SET",
-      "properties": [
-        {
-          "name": "hasTooltip?",
-          "type": "BOOLEAN",
-          "defaultValue": "false",
-          "values": [
-            "true",
-            "false"
-          ]
-        },
-        {
-          "name": "variant",
-          "type": "VARIANT",
-          "defaultValue": "# of changes",
-          "values": [
-            "# of changes",
-            "+ (additions)",
-            "- (deletions)",
-            "+/- (both)"
-          ]
-        }
-      ],
-      "thumbnails": [
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/aa75bc06-127d-4b08-927d-4ac777addc78",
-          "props": [
-            {
-              "name": "hasTooltip?",
-              "value": "false"
-            },
-            {
-              "name": "variant",
-              "value": "# of changes"
-            }
-          ],
-          "dimensions": {
-            "width": 57,
-            "height": 20
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a9900414-7717-470a-b52b-8b1a65fc160c",
-          "props": [
-            {
-              "name": "hasTooltip?",
-              "value": "true"
-            },
-            {
-              "name": "variant",
-              "value": "# of changes"
-            }
-          ],
-          "dimensions": {
-            "width": 284,
-            "height": 28
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1e4579b7-5c5d-43ef-874f-90b215bf96e7",
-          "props": [
-            {
-              "name": "hasTooltip?",
-              "value": "false"
-            },
-            {
-              "name": "variant",
-              "value": "+ (additions)"
-            }
-          ],
-          "dimensions": {
-            "width": 64,
-            "height": 20
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d8d848b7-f553-46b2-84aa-d432b4cf5c16",
-          "props": [
-            {
-              "name": "hasTooltip?",
-              "value": "true"
-            },
-            {
-              "name": "variant",
-              "value": "+ (additions)"
-            }
-          ],
-          "dimensions": {
-            "width": 213,
-            "height": 28
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6101b7a6-a438-4cdf-9a20-cf4897813346",
-          "props": [
-            {
-              "name": "hasTooltip?",
-              "value": "false"
-            },
-            {
-              "name": "variant",
-              "value": "- (deletions)"
-            }
-          ],
-          "dimensions": {
-            "width": 62,
-            "height": 20
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3ae46152-7aff-4247-ac60-467972b36904",
-          "props": [
-            {
-              "name": "hasTooltip?",
-              "value": "true"
-            },
-            {
-              "name": "variant",
-              "value": "- (deletions)"
-            }
-          ],
-          "dimensions": {
-            "width": 211,
-            "height": 28
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/212f8f99-0ef7-447e-9474-9e3d5ea9a62a",
-          "props": [
-            {
-              "name": "hasTooltip?",
-              "value": "false"
-            },
-            {
-              "name": "variant",
-              "value": "+/- (both)"
-            }
-          ],
-          "dimensions": {
-            "width": 81,
-            "height": 20
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fe81b320-bdd0-4b65-a197-532bb4660d69",
-          "props": [
-            {
-              "name": "hasTooltip?",
-              "value": "true"
-            },
-            {
-              "name": "variant",
-              "value": "+/- (both)"
-            }
-          ],
-          "dimensions": {
-            "width": 308,
-            "height": 28
-          }
-        }
-      ],
-      "createdAt": "2020-11-07T01:11:27.944Z",
-      "updatedAt": "2025-10-23T18:13:05.065Z",
-      "user": {
-        "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
-        "handle": "Lukas Oppermann"
-      }
-    },
-    {
       "id": "code_inline",
       "name": "CodeInline",
       "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=39279%3A8779",
@@ -7228,7 +7055,7 @@
         }
       ],
       "createdAt": "2022-08-25T21:19:46.803Z",
-      "updatedAt": "2025-09-24T15:50:03.095Z",
+      "updatedAt": "2025-10-24T23:39:19.832Z",
       "user": {
         "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
         "handle": "Lukas Oppermann"
@@ -23537,6 +23364,179 @@
       "thumbnails": [],
       "createdAt": "2024-07-18T13:28:58.322Z",
       "updatedAt": "2025-10-23T18:36:15.774Z",
+      "user": {
+        "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
+        "handle": "Lukas Oppermann"
+      }
+    },
+    {
+      "id": "diffstat",
+      "name": "Diffstat",
+      "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=3813%3A992",
+      "status": "STABLE",
+      "type": "COMPONENT_SET",
+      "properties": [
+        {
+          "name": "hasTooltip?",
+          "type": "BOOLEAN",
+          "defaultValue": "false",
+          "values": [
+            "true",
+            "false"
+          ]
+        },
+        {
+          "name": "variant",
+          "type": "VARIANT",
+          "defaultValue": "# of changes",
+          "values": [
+            "# of changes",
+            "+ (additions)",
+            "- (deletions)",
+            "+/- (both)"
+          ]
+        }
+      ],
+      "thumbnails": [
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/aa75bc06-127d-4b08-927d-4ac777addc78",
+          "props": [
+            {
+              "name": "hasTooltip?",
+              "value": "false"
+            },
+            {
+              "name": "variant",
+              "value": "# of changes"
+            }
+          ],
+          "dimensions": {
+            "width": 57,
+            "height": 20
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/a9900414-7717-470a-b52b-8b1a65fc160c",
+          "props": [
+            {
+              "name": "hasTooltip?",
+              "value": "true"
+            },
+            {
+              "name": "variant",
+              "value": "# of changes"
+            }
+          ],
+          "dimensions": {
+            "width": 284,
+            "height": 28
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/1e4579b7-5c5d-43ef-874f-90b215bf96e7",
+          "props": [
+            {
+              "name": "hasTooltip?",
+              "value": "false"
+            },
+            {
+              "name": "variant",
+              "value": "+ (additions)"
+            }
+          ],
+          "dimensions": {
+            "width": 64,
+            "height": 20
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/d8d848b7-f553-46b2-84aa-d432b4cf5c16",
+          "props": [
+            {
+              "name": "hasTooltip?",
+              "value": "true"
+            },
+            {
+              "name": "variant",
+              "value": "+ (additions)"
+            }
+          ],
+          "dimensions": {
+            "width": 213,
+            "height": 28
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/6101b7a6-a438-4cdf-9a20-cf4897813346",
+          "props": [
+            {
+              "name": "hasTooltip?",
+              "value": "false"
+            },
+            {
+              "name": "variant",
+              "value": "- (deletions)"
+            }
+          ],
+          "dimensions": {
+            "width": 62,
+            "height": 20
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/3ae46152-7aff-4247-ac60-467972b36904",
+          "props": [
+            {
+              "name": "hasTooltip?",
+              "value": "true"
+            },
+            {
+              "name": "variant",
+              "value": "- (deletions)"
+            }
+          ],
+          "dimensions": {
+            "width": 211,
+            "height": 28
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/212f8f99-0ef7-447e-9474-9e3d5ea9a62a",
+          "props": [
+            {
+              "name": "hasTooltip?",
+              "value": "false"
+            },
+            {
+              "name": "variant",
+              "value": "+/- (both)"
+            }
+          ],
+          "dimensions": {
+            "width": 81,
+            "height": 20
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/fe81b320-bdd0-4b65-a197-532bb4660d69",
+          "props": [
+            {
+              "name": "hasTooltip?",
+              "value": "true"
+            },
+            {
+              "name": "variant",
+              "value": "+/- (both)"
+            }
+          ],
+          "dimensions": {
+            "width": 308,
+            "height": 28
+          }
+        }
+      ],
+      "createdAt": "2020-11-07T01:11:27.944Z",
+      "updatedAt": "2025-10-24T23:46:21.313Z",
       "user": {
         "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
         "handle": "Lukas Oppermann"
