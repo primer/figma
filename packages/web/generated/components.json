@@ -4393,41 +4393,6 @@
       }
     },
     {
-      "id": "data_table_column_header_cell",
-      "name": "DataTable/ColumnHeaderCell",
-      "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=28503%3A10079",
-      "status": "STABLE",
-      "type": "COMPONENT_SET",
-      "properties": [
-        {
-          "name": "sort",
-          "type": "VARIANT",
-          "defaultValue": "none",
-          "values": [
-            "none",
-            "⬆️ asc",
-            "⬇️ desc"
-          ]
-        },
-        {
-          "name": "type",
-          "type": "VARIANT",
-          "defaultValue": "label",
-          "values": [
-            "empty",
-            "label"
-          ]
-        }
-      ],
-      "thumbnails": [],
-      "createdAt": "2024-02-05T11:55:51.410Z",
-      "updatedAt": "2025-08-06T08:49:35.945Z",
-      "user": {
-        "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
-        "handle": "Lukas Oppermann"
-      }
-    },
-    {
       "id": "action_list_item_multi_select",
       "name": "ActionList.Item/MultiSelect",
       "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=15614%3A56203",
@@ -8300,6 +8265,41 @@
       "thumbnails": [],
       "createdAt": "2023-12-14T08:41:26.576Z",
       "updatedAt": "2025-11-05T18:22:45.881Z",
+      "user": {
+        "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
+        "handle": "Lukas Oppermann"
+      }
+    },
+    {
+      "id": "data_table_column_header_cell",
+      "name": "DataTable/ColumnHeaderCell",
+      "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=28503%3A10079",
+      "status": "STABLE",
+      "type": "COMPONENT_SET",
+      "properties": [
+        {
+          "name": "sort",
+          "type": "VARIANT",
+          "defaultValue": "none",
+          "values": [
+            "none",
+            "⬆️ asc",
+            "⬇️ desc"
+          ]
+        },
+        {
+          "name": "type",
+          "type": "VARIANT",
+          "defaultValue": "label",
+          "values": [
+            "empty",
+            "label"
+          ]
+        }
+      ],
+      "thumbnails": [],
+      "createdAt": "2024-02-05T11:55:51.410Z",
+      "updatedAt": "2025-11-06T10:18:17.298Z",
       "user": {
         "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
         "handle": "Lukas Oppermann"
