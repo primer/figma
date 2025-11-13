@@ -11134,58 +11134,6 @@
       }
     },
     {
-      "id": "avatar_pair",
-      "name": "AvatarPair",
-      "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=13006%3A42855",
-      "status": "STABLE",
-      "type": "COMPONENT_SET",
-      "properties": [
-        {
-          "name": "combination (parent/child)",
-          "type": "VARIANT",
-          "defaultValue": "human/entity",
-          "values": [
-            "human/entity",
-            "entity/human"
-          ]
-        }
-      ],
-      "thumbnails": [
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2848ee0e-9a53-4614-9080-242d121a8d62",
-          "props": [
-            {
-              "name": "combination (parent/child)",
-              "value": "human/entity"
-            }
-          ],
-          "dimensions": {
-            "width": 53,
-            "height": 53
-          }
-        },
-        {
-          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/961926ee-c5e9-4960-8264-148046cfb559",
-          "props": [
-            {
-              "name": "combination (parent/child)",
-              "value": "entity/human"
-            }
-          ],
-          "dimensions": {
-            "width": 53,
-            "height": 53
-          }
-        }
-      ],
-      "createdAt": "2022-03-28T23:28:17.588Z",
-      "updatedAt": "2025-09-30T07:04:48.801Z",
-      "user": {
-        "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
-        "handle": "Lukas Oppermann"
-      }
-    },
-    {
       "id": "token",
       "name": "Token",
       "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=10351%3A34099",
@@ -20832,6 +20780,58 @@
       "thumbnails": [],
       "createdAt": "2022-07-21T21:24:43.887Z",
       "updatedAt": "2025-10-29T23:10:37.999Z",
+      "user": {
+        "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
+        "handle": "Lukas Oppermann"
+      }
+    },
+    {
+      "id": "avatar_pair",
+      "name": "AvatarPair",
+      "url": "https://www.figma.com/file/GCvY3Qv8czRgZgvl1dG6lp/?node-id=13006%3A42855",
+      "status": "STABLE",
+      "type": "COMPONENT_SET",
+      "properties": [
+        {
+          "name": "combination (parent/child)",
+          "type": "VARIANT",
+          "defaultValue": "human/entity",
+          "values": [
+            "human/entity",
+            "entity/human"
+          ]
+        }
+      ],
+      "thumbnails": [
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/2848ee0e-9a53-4614-9080-242d121a8d62",
+          "props": [
+            {
+              "name": "combination (parent/child)",
+              "value": "human/entity"
+            }
+          ],
+          "dimensions": {
+            "width": 53,
+            "height": 53
+          }
+        },
+        {
+          "url": "https://figma-alpha-api.s3.us-west-2.amazonaws.com/images/961926ee-c5e9-4960-8264-148046cfb559",
+          "props": [
+            {
+              "name": "combination (parent/child)",
+              "value": "entity/human"
+            }
+          ],
+          "dimensions": {
+            "width": 53,
+            "height": 53
+          }
+        }
+      ],
+      "createdAt": "2022-03-28T23:28:17.588Z",
+      "updatedAt": "2025-11-12T14:08:56.529Z",
       "user": {
         "imgUrl": "https://s3-alpha.figma.com/profile/14e8c2f6-e57a-4655-a660-833d6f1dcda8",
         "handle": "Lukas Oppermann"
